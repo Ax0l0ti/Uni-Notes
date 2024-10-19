@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2758929baea35d1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supercharged links JSON plaintext.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips & Playground/Playground 🛝/Womp womp.md"
+                "file": "Supercharged links JSON plaintext.md"
               }
             }
           },
@@ -95,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
+                "file": "Supercharged links JSON plaintext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
+                "file": "Supercharged links JSON plaintext.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,11 +167,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "628bddf9df123242",
+  "active": "2758929baea35d1c",
   "lastOpenFiles": [
+    "README.md",
+    "Supercharged links JSON plaintext.md",
+    "Tips & Playground/Playground 🛝/Womp womp.md",
     "Tips & Playground/Playground 🛝/wibblesticks.md",
     "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
-    "Tips & Playground/Playground 🛝/Womp womp.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.md",
@@ -188,7 +203,6 @@
     "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Tips & Playground/Tips ✨/Callouts.md",
-    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
     "Attachments/Lense physic.png",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",
