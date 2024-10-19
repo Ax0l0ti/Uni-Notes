@@ -11,9 +11,11 @@
             "id": "628bddf9df123242",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Latex Cheatsheet.pdf"
+                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -61,7 +63,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Attachments/Latex Cheatsheet.pdf"
+                "file": "Tips & Playground/Playground 🛝/Womp womp.md"
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Attachments/Latex Cheatsheet.pdf",
+                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Attachments/Latex Cheatsheet.pdf",
+                "file": "Tips & Playground/Playground 🛝/Womp womp.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,6 +156,10 @@
   },
   "active": "628bddf9df123242",
   "lastOpenFiles": [
+    "Tips & Playground/Playground 🛝/wibblesticks.md",
+    "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
+    "Tips & Playground/Playground 🛝/Womp womp.md",
+    "Attachments/Latex Cheatsheet.pdf",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
@@ -164,15 +170,12 @@
     "Attachments/Shot Noise Ex.png",
     "Attachments/Thermal Noise Ex.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
-    "Attachments/Latex Cheatsheet.pdf",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
     "Attachments/TaskAnalysis.png",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Tips & Playground/Tips ✨/Format cheat sheet.md",
-    "Tips & Playground/Playground 🛝/wibblesticks.md",
-    "Tips & Playground/Playground 🛝/Womp womp.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Gaussian Elimination.md",
@@ -193,7 +196,6 @@
     "Attachments/Pasted image 20241003155557.png",
     "Attachments/Multi Class Example.png",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
-    "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW2.pdf",
     "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",
