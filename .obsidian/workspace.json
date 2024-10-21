@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Divisibility of Integers"
             }
           },
           {
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supercharged links JSON plaintext.md",
+                "file": "Syncing & Personals/Supercharged links JSON plaintext.md",
                 "mode": "source",
                 "source": false
               },
@@ -39,16 +39,29 @@
             "id": "7ae61e256ba64c6a",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.4"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "README"
+            }
+          },
+          {
+            "id": "f85f9e36e2ae6f26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Latex Cheatsheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Latex Cheatsheet"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,10 +109,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Divisibility of Integers"
             }
           },
           {
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Divisibility of Integers"
             }
           },
           {
@@ -151,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Divisibility of Integers"
             }
           },
           {
@@ -199,20 +212,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ae61e256ba64c6a",
+  "active": "628bddf9df123242",
   "lastOpenFiles": [
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "README.md",
-    "Supercharged links JSON plaintext.md",
-    "Tips & Playground/Playground 🛝/Womp womp.md",
-    "Tips & Playground/Playground 🛝/wibblesticks.md",
-    "Tips & Playground/Playground 🛝/Canvas Testing.canvas",
+    "Syncing & Personals/Supercharged links JSON plaintext.md",
     "Attachments/Latex Cheatsheet.pdf",
+    "Syncing & Personals/Playground 🛝/Womp womp.md",
+    "Syncing & Personals/Playground 🛝/wibblesticks.md",
+    "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
-    "Tips & Playground/Playground 🛝/other lectures",
+    "Syncing & Personals/Playground 🛝/other lectures",
     "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Attachments/S&P Noise Ex.png",
     "Attachments/Shot Noise Ex.png",
     "Attachments/Thermal Noise Ex.png",
@@ -222,7 +235,7 @@
     "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
     "Attachments/TaskAnalysis.png",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
-    "Tips & Playground/Tips ✨/Format cheat sheet.md",
+    "Syncing & Personals/Tips ✨/Format cheat sheet.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Gaussian Elimination.md",
@@ -234,7 +247,6 @@
     "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
-    "Tips & Playground/Tips ✨/Callouts.md",
     "Attachments/Lense physic.png",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",
