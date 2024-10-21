@@ -15,17 +15,20 @@
 > [[#Maths of Mod]]
 > 
 --- 
-### Speed Run
-- $a = q_1.m + r$ and $b = q_2.m + r$
-- $a = b \space mod \space m$ **means** $( a - b )$ is divisible by $m$ 
-	- also shown as $m|(a-b)$ or $a - b = m . k$
-- mod is **Equivalent Relation**
-	- **Reflexive** $a \equiv a \space mod \space m$
-	- **Symmetric** - if $a \equiv b \space mod \space m$ then $b \equiv a \space mod \space m$
-	- **Transitive** - if $a \equiv b \space mod \space m$ and $b \equiv c \space mod \space m$ then $a \equiv c \space mod \space m$
-- If $a ≡ b \space mod \space m$ and $c≡ d \space mod \space m$ then 
-	- $a + c ≡ b + d$ $mod$ $m$ 
-	- $ac ≡ bd$ $mod$ $m$.
+
+>[!danger] Speed Run
+> - $a = q_1.m + r$ and $b = q_2.m + r$
+> - $a = b \space mod \space m$ **means** $( a - b )$ is divisible by $m$ 
+> 	- also shown as $m|(a-b)$ or $a - b = m . k$
+> - mod is **Equivalent Relation**
+> 	- **Reflexive** $a \equiv a \space mod \space m$
+> 	- **Symmetric** - if $a \equiv b \space mod \space m$ then $b \equiv a \space mod \space m$
+> 	- **Transitive** - if $a \equiv b \space mod \space m$ and $b \equiv c \space mod \space m$ then $a \equiv c \space mod \space m$
+> - If $a ≡ b \space mod \space m$ and $c≡ d \space mod \space m$ then 
+> 	- $a + c ≡ b + d$ $mod$ $m$ 
+> 	- $ac ≡ bd$ $mod$ $m$.
+
+--- 
 
 > [!note] a = b mod m 
 > $a = b \mod m$ means $km + b = a$ where $k$ is an integer variable
@@ -48,24 +51,15 @@ m possible remainders from $0 \leq r \lt m-1$ in $a = q.m + r$
 $$
 
 > [!success] Multiplication
-> $$ 
-(a+b)\mod m = ((a \mod m) + (b\mod m)) \mod m
-$$
-
-> [!danger] Multiplication
-$$\begin{align}  
-\end{align}$$
-
 > $$\begin{align}
 (\frac{a}{b})\mod m = (a \times c) mod m \mod m \\
 \text{Where $c$ is the modular inverse of $c \mod m$} \\ 
 \text{Only exists if b and m are co-prime} \\
-bc \mod m = 1 \text{. Rearanged this equates to c}
+bc \mod m = 1 \text{. Rearanged this equates to } bc - km = 1
 \end{align}
 $$
 
-$ac + mk = 1$
-c = 1
+> [!danger] exponential
 
 
 ---
