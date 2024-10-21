@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Number Systems"
+              "title": "Divisibility of Integers"
             }
           },
           {
@@ -96,10 +96,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md"
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Number Systems"
+              "title": "Outline of Divisibility of Integers"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Number Systems"
+              "title": "Backlinks for Divisibility of Integers"
             }
           },
           {
@@ -151,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Number Systems"
+              "title": "Outgoing links from Divisibility of Integers"
             }
           },
           {
@@ -201,13 +201,23 @@
   },
   "active": "7ae61e256ba64c6a",
   "lastOpenFiles": [
+    "Attachments/Latex Cheatsheet.pdf",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Number Theory.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Matrix Detriments.md",
+    "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours.md",
     "README.md",
     "Syncing & Personals/Tips ✨/Callouts.md",
     "Syncing & Personals/Supercharged links JSON plaintext.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Womp womp.md",
     "Syncing & Personals/Playground 🛝/wibblesticks.md",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
@@ -226,29 +236,18 @@
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Syncing & Personals/Tips ✨/Format cheat sheet.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Inverting matrices.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Gaussian Elimination.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Function Classification.md",
-    "T🏷️/M📚/Yr2📘/ML.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "Attachments/Lense physic.png",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",
     "Attachments/CMYK explanation.png",
     "Attachments/Pasted image 20241003155557.png",
     "Attachments/Multi Class Example.png",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW2.pdf",
     "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",
     "T🏷️/S⚙️/YrAbouts",
     "Tags/Structuring/metadata/YrMeta",
     "Tags/Structuring/metadata",
-    "T🏷️/S⚙️",
     "Untitled.canvas",
     "Untitled 2.canvas"
   ]

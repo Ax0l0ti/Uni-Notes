@@ -30,9 +30,9 @@
 > [!note] a = b mod m 
 > $a = b \mod m$ means $km + b = a$ where $k$ is an integer variable
 
-### Z / mZ 
+### $Z / mZ$ 
 
-The finite family of all residue classes modulo m is denoted by Z/mZ or just Zm
+The finite family of all residue classes modulo m is denoted by $Z/mZ$ or just $Zm$
 
 This is divided into the resultant remainder. for the Finite family of m, there are m 
 
@@ -51,5 +51,21 @@ $$
 > $$ 
 (a+b)\mod m = ((a \mod m) + (b\mod m)) \mod m
 $$
+
+> [!danger] Multiplication
+$$\begin{align}  
+\end{align}$$
+
+> $$\begin{align}
+(\frac{a}{b})\mod m = (a \times c) mod m \mod m \\
+\text{Where $c$ is the modular inverse of $c \mod m$} \\ 
+\text{Only exists if b and m are co-prime} \\
+bc \mod m = 1 \text{. Rearanged this equates to c}
+\end{align}
+$$
+
+$ac + mk = 1$
+c = 1
+
 
 ---
