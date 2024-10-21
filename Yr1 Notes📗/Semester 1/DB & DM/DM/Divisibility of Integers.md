@@ -42,5 +42,14 @@ m possible remainders from $0 \leq r \lt m-1$ in $a = q.m + r$
 
 ### Maths of Mod
 #TODO
+> [!info] Addition
+> $$ 
+(a+b)\mod m = ((a \mod m) + (b\mod m)) \mod m
+$$
+
+> [!success] Multiplication
+> $$ 
+(a+b)\mod m = ((a \mod m) + (b\mod m)) \mod m
+$$
 
 ---

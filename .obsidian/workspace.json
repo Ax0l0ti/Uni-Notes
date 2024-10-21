@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "628bddf9df123242",
+            "id": "6bf6b94b3c6923f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Syncing & Personals/Tips ✨/Callouts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divisibility of Integers"
-            }
-          },
-          {
-            "id": "2758929baea35d1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syncing & Personals/Supercharged links JSON plaintext.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Supercharged links JSON plaintext"
+              "title": "Callouts"
             }
           },
           {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Number Systems"
             }
           },
           {
@@ -61,7 +47,8 @@
               "title": "Latex Cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,10 +96,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md"
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Divisibility of Integers"
+              "title": "Outline of Number Systems"
             }
           },
           {
@@ -145,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Divisibility of Integers"
+              "title": "Backlinks for Number Systems"
             }
           },
           {
@@ -164,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Number Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Divisibility of Integers"
+              "title": "Outgoing links from Number Systems"
             }
           },
           {
@@ -212,12 +199,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "628bddf9df123242",
+  "active": "7ae61e256ba64c6a",
   "lastOpenFiles": [
+    "README.md",
+    "Syncing & Personals/Tips ✨/Callouts.md",
+    "Syncing & Personals/Supercharged links JSON plaintext.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "README.md",
-    "Syncing & Personals/Supercharged links JSON plaintext.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Womp womp.md",
     "Syncing & Personals/Playground 🛝/wibblesticks.md",
@@ -246,7 +235,6 @@
     "Yr1 Notes📗/Semester 2/M 4 Comp/Taylor & Maclaurin.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Attachments/Lense physic.png",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",

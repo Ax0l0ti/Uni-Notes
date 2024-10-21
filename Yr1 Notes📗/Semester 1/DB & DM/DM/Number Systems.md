@@ -15,11 +15,6 @@
 > [[# ]]
 > 
 --- 
-### ChatGPT notes 
-
-Prompt :  #TODO 
-
-Response : 
 
 --- 
 
@@ -38,8 +33,3 @@ $$
 
 $\mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$
 $n \in \mathbb{Z}$       $\frac{n}{1} \in A \{\frac{2n}{2},...,\frac{an}{a},...\}$
-
-****
-- bul
-normal
----
