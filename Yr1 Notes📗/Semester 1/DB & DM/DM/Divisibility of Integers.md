@@ -33,6 +33,10 @@
 > [!note] a = b mod m 
 > $a = b \mod m$ means $km + b = a$ where $k$ is an integer variable
 
+### Foermats theorem
+$xm−1 \mod m = 1$
+when m is prime and x and m are coprime. This also yields
+$xk \mod m = x^{k \mod (m−1)} \mod m$
 ### $Z / mZ$ 
 
 The finite family of all residue classes modulo m is denoted by $Z/mZ$ or just $Zm$
