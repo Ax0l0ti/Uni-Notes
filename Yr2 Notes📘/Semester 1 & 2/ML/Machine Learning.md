@@ -10,12 +10,10 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > 
-> > Supervised
 > > [[Supervised Learning Yr2]]
 > > [[Logistic Regression]]
-> > Unsupervised
-> > [[]]
-> > [[]]
+> > [[Naïve bayes]]
+> > [[Random Forest]]
 > > Reinforcement 
 > > [[]]
 > > [[]]
@@ -33,6 +31,12 @@
 - Set exercises Individual (CWSI 30%)
 	**Details** -  
 	- S1 Experimental Poster 15%
+		- Hyperameter tuning?????? 
+		  DONT CODE FROM SCRATCH. (can if u want to) 
+		- ==Code not rated== can fail. As long as explained why 
+		- Para vs Para 
+		- if given infinte resourc, how would approach
+		- 
 	- S2 Experimental Report 15%
 - Closed-book written examination (EXCB 70%)
 	**Details** - end of S2  short and medium length questions (NO MCQ)
