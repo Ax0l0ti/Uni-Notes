@@ -56,12 +56,19 @@ $$
 
 > [!success] Multiplication
 > $$\begin{align}
-(\frac{a}{b})\mod m = (a \times c) mod m \mod m \\
+(a\times b)\mod m = (a \times c) mod m \mod m \\
+\end{align}
+$$
+
+> [!bug] Division
+> $$\begin{align}
+(\frac{a}{b})\mod m = (a \times c) \mod m \mod m \\
 \text{Where $c$ is the modular inverse of $c \mod m$} \\ 
 \text{Only exists if b and m are co-prime} \\
 bc \mod m = 1 \text{. Rearanged this equates to } bc - km = 1
 \end{align}
 $$
+
 
 > [!danger] exponential
 

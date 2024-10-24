@@ -15,7 +15,7 @@
 > 
 > > [[Finite Automata & Regular Languages]]
 > [[]]
-> [[]]
+> [[Pumping Lemma]]
 > > [[]]
 > 
 > Coursework
