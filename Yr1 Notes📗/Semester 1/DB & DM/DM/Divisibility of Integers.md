@@ -33,10 +33,11 @@
 > [!note] a = b mod m 
 > $a = b \mod m$ means $km + b = a$ where $k$ is an integer variable
 
-### Foermats theorem
+### Fermats theorem
 $xm−1 \mod m = 1$
+$a^{p – 1} ≡ 1 (\mod p)$
 when m is prime and x and m are coprime. This also yields
-$xk \mod m = x^{k \mod (m−1)} \mod m$
+$xk \mod m = (x^{k \mod (m−1)}) \mod m$
 ### $Z / mZ$ 
 
 The finite family of all residue classes modulo m is denoted by $Z/mZ$ or just $Zm$
@@ -56,7 +57,7 @@ $$
 
 > [!success] Multiplication
 > $$\begin{align}
-(a\times b)\mod m = (a \times c) mod m \mod m \\
+(a\times b)\mod m = ((a\mod m) \times (b\mod m)) \mod m \\
 \end{align}
 $$
 
@@ -71,6 +72,11 @@ $$
 
 
 > [!danger] exponential
+> $$\begin{align}
+> \text{where $a$ is coprime with m}  
+> a^b \mod m = a^{b}
+\end{align}$$
+
 
 
 ---
