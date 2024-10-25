@@ -73,8 +73,9 @@ $$
 
 > [!danger] exponential
 > $$\begin{align}
-> \text{where $a$ is coprime with m}  
-> a^b \mod m = a^{b}
+> \text{where $a$ is coprime with $m$ and $b$ and $m$ are coprime} \\  
+> a^b \mod m = (a^{b \mod m}) \mod m \\
+> \text{ If } gcd(a,m)=1, then a^{\phi(m)}=1(\mod m)
 \end{align}$$
 
 
