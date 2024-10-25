@@ -49,7 +49,6 @@ Finite set size of m
 m possible remainders from $0 \leq r \lt m-1$ in $a = q.m + r$
 
 ### Maths of Mod
-#TODO
 > [!info] Addition
 > $$ 
 (a+b)\mod m = ((a \mod m) + (b\mod m)) \mod m
@@ -70,14 +69,11 @@ bc \mod m = 1 \text{. Rearanged this equates to } bc - km = 1
 \end{align}
 $$
 
-
 > [!danger] exponential
 > $$\begin{align}
-> \text{where $a$ is coprime with $m$ and $b$ and $m$ are coprime} \\  
-> a^b \mod m = (a^{b \mod m}) \mod m \\
-> \text{ If } gcd(a,m)=1, then a^{\phi(m)}=1(\mod m)
+> \text{where $a$ is coprime with $m$ and $b$ and $m$ are coprime} \\
+>  \text{ If } gcd(a,m)=1\text{, then }a^{\phi(m)}=1\mod m \\  
+ a^b \mod m = \big[(1^{\text{ whole $\phi(m)$ in $b$}}) \times (a^{\text{ remainder of $b / \phi(m)$ }})\big]  \mod m \\
 \end{align}$$
-
-
 
 ---

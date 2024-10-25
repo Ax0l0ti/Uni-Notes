@@ -9,6 +9,7 @@
 ---
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
+> I kid you not, most useless module known to man. 
 > > Init 
 > > [[History of Machine]]
 > > [[Theory of Adv Prog]] 

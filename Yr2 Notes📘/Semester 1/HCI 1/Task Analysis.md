@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  17-10-2024
-> > *Module :* [[]]
+> > *Module :* [[HCI 1]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -25,7 +25,7 @@
 
 ---
 
-#TODO 
+
 
 ## Run down of the entire lecture
 Honestly, this entirety of the lecture is how to analyse a task in an orderly fashion

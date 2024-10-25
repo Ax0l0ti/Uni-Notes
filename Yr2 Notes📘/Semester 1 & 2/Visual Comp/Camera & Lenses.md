@@ -25,7 +25,6 @@
 
 ---
 
-#TODO 
 ### [Lecture3: Image & Display Technology](https://moodle.bath.ac.uk/course/view.php?id=61733&section=6)
 
 ### Digital Cameral Types
