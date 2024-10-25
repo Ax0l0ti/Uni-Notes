@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Divisibility of Integers"
+              "title": "Random Forest"
             }
           },
           {
@@ -201,12 +201,15 @@
   },
   "active": "7ae61e256ba64c6a",
   "lastOpenFiles": [
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pumping Lemma.md",
+    "Attachments/bootstrapping a dataset.png",
+    "Attachments/Creating Random forest.png",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Feature Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Naïve bayes.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pumping Lemma.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Naïve bayes.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "Yr1 Notes📗/Semester 2/M 4 Comp/Eigen vectors & Eigen values.md",
@@ -234,15 +237,12 @@
     "Attachments/Shot Noise Ex.png",
     "Attachments/Thermal Noise Ex.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
-    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
-    "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
     "Attachments/TaskAnalysis.png",
     "Attachments/Lense physic.png",
     "Attachments/CompVision in an image.png",
     "Attachments/Greyscale.png",
     "Attachments/CMYK explanation.png",
     "Attachments/Pasted image 20241003155557.png",
-    "Attachments/Multi Class Example.png",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW2.pdf",
     "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",

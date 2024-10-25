@@ -13,9 +13,8 @@
 > > [[Supervised Learning Yr2]]
 > > [[Logistic Regression]]
 > > [[Naïve bayes]]
-> > [[Random Forest]]
-> > Reinforcement 
-> > [[]]
+> > [[Random Forest]] 
+> > [[Feature Engineering]]
 > > [[]]
 > > Neural Networks & Deep Learning
 > 
