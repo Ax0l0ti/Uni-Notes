@@ -9,7 +9,7 @@ a) \text{ Set up a semi-decent Obsid Repo} \\
 b) \text{ Gives you a decent start on some lecture notes} \\
 c) \text{ Shows you how }NOT \text{ to do a Obsid Repo} \\
 \end{flalign}$$
-
+---
 ### Structuring of Vault
 > **Notes** are split by year, and linked via the Metadata Directories in each. 
 > > **Holy Grails** are basically cheat sheets for all examed modules. They don't contain everything but only what I wanted or needed to review immediately before entering the exam hall.
