@@ -1,8 +1,8 @@
-# Feature Engineering
+# Image Dehazing Method
 ---
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
-> > *Date :*  24-10-2024
+> > *Date :*  28-10-2024
 > > *Module :* [[]]
 > > *Teacher*: 
 > > *Resources :*
@@ -14,17 +14,9 @@
 > [[#]]
 > [[#]]
 > [[#]]
-> [[#]]
+> [[#
 
---- 
-> [!danger]+ *Speed run*
-> Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
-
+![[Pasted image 20241028120344.png]]
 ---
 
 #TODO 
-
-$$𝑿′ = \frac{𝑿−min(𝑿)}{max 𝑿 −min(𝑿)}$$

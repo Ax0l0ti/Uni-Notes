@@ -14,7 +14,7 @@
 > > [[Logistic Regression]]
 > > [[Naïve bayes]]
 > > [[Random Forest]] 
-> > [[Feature Engineering]]
+> > [[Data Engineering]]
 > > [[]]
 > > Neural Networks & Deep Learning
 > 

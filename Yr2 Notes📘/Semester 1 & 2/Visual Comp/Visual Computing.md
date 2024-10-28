@@ -14,7 +14,7 @@
 > >[[Camera & Lenses]]
 > > Images
 > > [[Noise & Image Dehazing]]
-> > [[]]
+> > [[Image Dehazing Method]]
 > > Modelling 
 > > [[]]
 > > [[]]
