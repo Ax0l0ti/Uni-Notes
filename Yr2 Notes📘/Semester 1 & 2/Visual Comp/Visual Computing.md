@@ -16,7 +16,7 @@
 > > [[Noise & Image Dehazing]]
 > > [[Image Dehazing Method]]
 > > Modelling 
-> > [[]]
+> > [[2D Rotations]]
 > > [[]]
 > > Rendering
 > > [[]]
