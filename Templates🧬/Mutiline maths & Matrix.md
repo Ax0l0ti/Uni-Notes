@@ -1,3 +1,5 @@
 $$\begin{align}  
-\begin{bmatrix}x \\ y \\ z \end{bmatrix}
+\begin{bmatrix} \cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta
+\end{bmatrix} 
 \end{align}$$
