@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#LASTPOINT  ",
+      "query": "tag:#LASTPOINT OR file:Todo",
       "color": {
         "a": 1,
-        "rgb": 0
+        "rgb": 12255487
       }
     },
     {
       "query": "file: ChS",
       "color": {
         "a": 1,
-        "rgb": 239616
+        "rgb": 159744
       }
     },
     {
@@ -32,41 +32,34 @@
       "query": "file: Resources ",
       "color": {
         "a": 1,
-        "rgb": 530407
-      }
-    },
-    {
-      "query": "tag:#Structuring  ",
-      "color": {
-        "a": 1,
-        "rgb": 12320512
+        "rgb": 3818969
       }
     },
     {
       "query": "tag:#TODO  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 13130587
       }
     },
     {
       "query": "path: T🏷️ ",
       "color": {
         "a": 1,
-        "rgb": 16711914
+        "rgb": 16689655
       }
     }
   ],
   "collapse-display": false,
-  "showArrow": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.91224906304501,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.27222531448291,
+  "lineSizeMultiplier": 1.74915210211882,
   "collapse-forces": false,
-  "centerStrength": 0.437716262975779,
-  "repelStrength": 20,
+  "centerStrength": 0.576459237819585,
+  "repelStrength": 12.0041559983673,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.13584720662472713,
-  "close": true
+  "linkDistance": 184,
+  "scale": 0.3438577889376047,
+  "close": false
 }

@@ -14,5 +14,6 @@
   "showRibbon": true,
   "userIgnoreFilters": [
     "T🏷️/S⚙️/"
-  ]
+  ],
+  "showUnsupportedFiles": true
 }

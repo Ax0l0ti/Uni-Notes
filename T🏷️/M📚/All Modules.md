@@ -13,8 +13,13 @@ list
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 1
 ```
 
+---
 ## Year 2 Modules
 ```dataview
 list 
+
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
+SELECT from !outgoing[[]] 
+
 ```
+---
