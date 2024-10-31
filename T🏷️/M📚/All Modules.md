@@ -17,9 +17,16 @@ WHERE genus = "Module" & file.name !="Module 📚" & Year = 1
 ## Year 2 Modules
 ```dataview
 list 
-
+FROM ""
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
-SELECT from !outgoing[[]] 
 
 ```
 ---
+```dataview 
+TABLE  
+file.outlinks AS "Module Content" 
+FROM ""
+WHERE genus = "Module" & file.name !="Module 📚" & Year = 2 
+FLATTEN file.outlinks AS outlink 
+WHERE outlink.genus != "Tag" 
+```
