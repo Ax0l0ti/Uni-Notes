@@ -23,9 +23,9 @@ WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
 ```
 ---
 ```dataview 
-Table  
-file.outlinks AS "Module Content" 
+table
+file.outlinks AS "Module Content"
 FROM ""
-WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
-FLATTEN file WHERE file.outlinks.genus != "Tag" 
+WHERE genus = "Module" & file.name !="Module 📚" & Year = 2 
+
 ```
