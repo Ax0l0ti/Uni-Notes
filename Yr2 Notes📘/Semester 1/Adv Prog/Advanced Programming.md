@@ -10,25 +10,20 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > I kid you not, most useless module known to man. 
-> > Init 
-> > [[History of Machine]]
-> > [[Theory of Adv Prog]] 
-> > Languages 
-> > [[Language Overview]] 
-> > [[Language Choice]]
+> [[FSM Turing Machines]]
 > > [[Unstructured Language]] 
 > > [[Imperative Language]]
 > > [[Declarative Language]]
-> > [[A Zoo of Languages]]
-> > Post Reading
-> > [[Safe Practice]]
-> > [[Designing a mini-control Language]]
+> > [[The C programming language]]
+> > [[Python]]
+> > [[MATLAB]]
+
 > 
 > 
 > Coursework
 > > [[]]
 
-
+• What a Turing Machine is. • That a device must be a Turing machine to be a computer • That machine descriptions are, formally, equivalent to machines. • The idea that computing is, at root, string processing. • Be able to do a little string processing, even by hand. • The basic language. • Why those categories exist. • Have some idea what sort of problem each language (category) is used for.
 
 ---
 ### Coursework 0 vs 100 Examed
