@@ -24,8 +24,13 @@ WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
 ---
 ```dataview 
 table
-file.outlinks AS "Module Content"
+file.outlinks AS "Module Content" 
 FROM ""
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 2 
 
+
+
 ```
+
+
+á
