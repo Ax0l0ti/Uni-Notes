@@ -25,12 +25,14 @@
             "id": "5edfbce25499eebd",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.5"
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
+              "title": "Machine Learning"
             }
           },
           {
