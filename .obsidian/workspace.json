@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "5edfbce25499eebd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "f85f9e36e2ae6f26",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "How to use the Pumping Lemma"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7ae61e256ba64c6a",
+  "active": "5edfbce25499eebd",
   "lastOpenFiles": [
     "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "T🏷️/M📚/All Modules.md",
