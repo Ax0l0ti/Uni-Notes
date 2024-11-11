@@ -11,6 +11,7 @@
 > List of links to notes on Topics within the Module
 > I kid you not, most useless module known to man. 
 > [[FSM Turing Machines]]
+> [[ChatGPT's Opinion on Sem1 Adv Prog]]
 > > [[Unstructured Language]] 
 > > [[Imperative Language]]
 > > [[Declarative Language]]
@@ -23,7 +24,7 @@
 > Coursework
 > > [[]]
 
-• What a Turing Machine is. • That a device must be a Turing machine to be a computer • That machine descriptions are, formally, equivalent to machines. • The idea that computing is, at root, string processing. • Be able to do a little string processing, even by hand. • The basic language. • Why those categories exist. • Have some idea what sort of problem each language (category) is used for.
+
 
 ---
 ### Coursework 0 vs 100 Examed

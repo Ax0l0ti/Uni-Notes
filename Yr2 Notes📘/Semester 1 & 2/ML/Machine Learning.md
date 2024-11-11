@@ -33,7 +33,7 @@
 		- Hyperameter tuning?????? 
 		  DONT CODE FROM SCRATCH. (can if u want to) 
 		- ==Code not rated== can fail. As long as explained why 
-		- Para vs Para 
+		- Para vs Non Para 
 		- if given infinte resourc, how would approach
 		- 
 	- S2 Experimental Report 15%
