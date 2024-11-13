@@ -14,9 +14,8 @@
 > List of links to notes on Topics within the Module
 > 
 > > [[Finite Automata & Regular Languages]]
-> [[]]
 > [[Pumping Lemma]]
-> > [[]]
+> > [[How to use the Pumping Lemma]]
 > 
 > Coursework
 > > [[]]
