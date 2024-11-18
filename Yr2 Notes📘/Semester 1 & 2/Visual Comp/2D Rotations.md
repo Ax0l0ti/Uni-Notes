@@ -56,19 +56,20 @@ p_2
 t_2
 \end{bmatrix} 
 \end{align}$$
-However, to create a matrix that can contain a translation alongside an transformation, one can use a matrix that contains Homogeneous coordinates leading to the equation
+However, to create a matrix that can contain a translation alongside an transformation, one can use a matrix that contains Homogeneous coordinates leading to the equation.
 
 $$\begin{align} 
 \begin{bmatrix} p_1'\\
 p_2' \\ 1
 \end{bmatrix} =
-\begin{bmatrix} a_{11} & a_{21}&$t_1\\
+\begin{bmatrix} a_{11} & a_{21}&t_1\\
 a_{21} & a_{22} & t_2 \\
 0 & 0 &1 
 \end{bmatrix} \begin{bmatrix} p_1\\
 p_2 \\ 1
 \end{bmatrix}
 \end{align}$$
+This is seen to have 6 variables: 4 $a$'s and 2 $t$'s
 
 ### Homogeneous coordinates
 
