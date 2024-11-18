@@ -7,8 +7,6 @@
 > > *Resources :* [Intro to theory of Computation](http://debracollege.dspaces.org/bitstream/123456789/671/1/Introduction%20to%20the%20Theory%20of%20Computation_2013%20Sipser.pdf#:~:text=Introduction%20to%20the%20Theory%20of%20Computation,%20Third%20Edition)
 > > 
 
-
-
 ---
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
