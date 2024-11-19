@@ -51,16 +51,61 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations.md",
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3D Rotations"
-            }
+              "title": "Principal Component Analysis"
+            },
+            "group": "210cbeeeb9424ca5"
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "255f521fdebad6c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec0a01ad0d654ce1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Principal Component Analysis"
+            },
+            "group": "210cbeeeb9424ca5"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "affine",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -124,8 +169,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,18 +258,23 @@
   },
   "active": "18f2f66aaf06ced8",
   "lastOpenFiles": [
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Data Engineering.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/2D Rotations.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
+    "Syncing & Personals/Todos.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations.md",
     "Attachments/Gimbal_Lock_Plane.gif",
     "Attachments/Pasted image 20241118144633.png",
     "Attachments/Rotation Combination.png",
     "Attachments/Eulers Angles.png",
     "Attachments/Pasted image 20241118143605.png",
     "Attachments/Right-Hand Screw rule.png",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/2D Rotations.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/How to use the Pumping Lemma.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations.md",
     "Attachments/Pasted image 20241118143001.png",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of set theory.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of math logic.md",
@@ -242,15 +291,10 @@
     "Yr1 Notes📗/Semester 2/M 4 Comp/Cramer's Rule.md",
     "T🏷️/M📚/All Modules.md",
     "T🏷️/M📚/Yr1📗/Programming 2.md",
-    "T🏷️/M📚/Yr1📗/Programming 1.md",
-    "T🏷️/M📚/Yr1📗/Architecture.md",
-    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
-    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Attachments/pumping lemma ex2.png",
     "Attachments/pumping lemma ex1.png",
     "Attachments/Homogenous Co-ords.png",
-    "Attachments/Rotation around a point.png",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",

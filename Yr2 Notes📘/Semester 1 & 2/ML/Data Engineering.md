@@ -25,8 +25,6 @@
 
 ---
 
-#TODO 
-
 $$𝑿′ = \frac{𝑿−min(𝑿)}{max 𝑿 −min(𝑿)}$$
 ### Feature Selection 
 

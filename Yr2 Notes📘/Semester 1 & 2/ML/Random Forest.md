@@ -24,13 +24,9 @@
 > $c)$ - 
 
 ---
-
-
-#TODO 
-
 ### Creating a random tree
 
-When 
+When creating a forest, one must first make a tree. This is done by fully dividing up a bootstrapped dataset via a decision tree. After creating many trees, an average of tree opinions can be used to guess the value based on other features.
 #### Bootstrapped dataset
 
 ![[bootstrapping a dataset.png]]

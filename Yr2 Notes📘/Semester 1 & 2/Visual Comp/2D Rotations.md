@@ -19,13 +19,20 @@
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
+> > $a)$ -  The following homogenus matrix provides all linear transformations in 6 dimensions (4 scalar and 2 translational)
+$$\begin{align} 
+\begin{bmatrix} p_1'\\
+p_2' \\ 1
+\end{bmatrix} =
+\begin{bmatrix} a_{11} & a_{21}&t_1\\
+a_{21} & a_{22} & t_2 \\
+0 & 0 &1 
+\end{bmatrix} \begin{bmatrix} p_1\\
+p_2 \\ 1
+\end{bmatrix}
+\end{align}$$
 
 ---
-
-#TODO 
 
 ## Linear transformations
 

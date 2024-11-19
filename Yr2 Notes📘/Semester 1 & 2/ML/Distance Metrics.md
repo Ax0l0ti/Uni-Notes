@@ -20,8 +20,8 @@
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  
-> $b)$ - 
+> > $a)$ -  Continuos - Euclid, Manhat, Cosine
+> $b)$ - Categorical - Hamming = binary Similarity, 
 > $c)$ - 
 
 ---
