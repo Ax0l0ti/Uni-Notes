@@ -19,18 +19,28 @@
 ---
 ### Definition
 
-> [!NOTE] DefinitionTitle
-> Contents
+> [!NOTE] Definition
+> Dehazing is the process of improving image quality by removing haze to crystalise an image 
 
-
-Dehazing is the process of improving image quality by removing haze to crystalise an image 
-
-![[Pasted image 20241028120344.png]]
-
+> [!Info] Dehazing Summary
+> a brief summary is as followed
+> ![[Dehazing Summary.png|600]]
 
 
 #TODO 
 
+### Dark Channel 
+
 Dark Channel Computation– Minimum intensity value among the three color channels (Red, Green, and Blue) in a local patch of the image. lenses For an Image I(x), the dark channel I_dark(x) is presented as
 
 ![[Pasted image 20241120132642.png]]
+
+
+> [!quote] Trasmission Maps
+> ![[Transmission Maps.png]]
+> [[Transmission Map.png]]
+
+
+> [!NOTE] Dehaze Image Equation
+> This works by removing the avg brightness from the original hazy image before dividing
+> ![[Dehaze Image Equation.png]]

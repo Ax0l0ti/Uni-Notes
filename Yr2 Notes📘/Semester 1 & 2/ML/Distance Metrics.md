@@ -21,13 +21,10 @@
 > [!danger]+ *Speed run*
 > Break down of topic 
 > > $a)$ -  Continuos - Euclid, Manhat, Cosine
-> $b)$ - Categorical - Hamming = binary Similarity, 
+> $b)$ - Categorical - Hamming = binary Similarity, Jarrad = similarities / total Cats
 > $c)$ - 
 
 ---
-
-#TODO 
-
 ## Continuous
 ### Euclidean Distance
 
@@ -69,5 +66,3 @@
 >[!info]+ 
 > Simply shared categories divided by total number of categories
 > Defined as $$ \frac{A\cap B}{A \cup B} $$
-
-#TODO 
