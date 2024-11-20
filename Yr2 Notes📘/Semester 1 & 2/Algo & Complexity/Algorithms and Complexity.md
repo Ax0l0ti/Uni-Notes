@@ -14,6 +14,9 @@
 > > [[Finite Automata & Regular Languages]]
 > [[Pumping Lemma]]
 > > [[How to use the Pumping Lemma]]
+> > [[Pushdown Automata]]
+> > [[Turing Machine in Automata]]
+> > [[Church-Turing Thesis]]
 > 
 > Coursework
 > > [[]]

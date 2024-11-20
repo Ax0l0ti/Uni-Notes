@@ -28,7 +28,7 @@
 	A machine is in a state $q ∈ Q$ and the head is over the tape at symbol $a ∈ Γ$, then after the move we are in a state $r ∈ Q$ with $b ∈ Γ$ replacing the a on the tape and the head has moved either left (L), Stay/Stop (S) or right (R)
 	
 e.g $δ \space q0 \times a → q1 \times b \times L$
-
+Links to [[Turing Machine in Automata]]
 ## ChatGPT notes 
 
 ### Finite State Machines (FSM) and Turing Machines:
@@ -59,7 +59,7 @@ e.g $δ \space q0 \times a → q1 \times b \times L$
 
 - Graphical representation of FSM using circles (states) and arrows (transitions).
 - Each state is labeled, and transitions are annotated with input conditions.
-
+![[Turing State Trans Diag Ex.png]]
 ##### 5. Mealy and Moore Machines:
 
 - **Mealy Machine:**
@@ -73,7 +73,7 @@ e.g $δ \space q0 \times a → q1 \times b \times L$
 
 ##### 6. Turing Machines:
 
-- Turing Machines are a more powerful computational model than FSM.
+- Turing Machines are a more powerful computational model than [[Finite Automata & Regular Languages|Finite State Machines]].
 - Consists of an infinite tape, a read/write head, and a finite set of states.
 - Can simulate the logic of any algorithm and solve problems that FSMs cannot.
 

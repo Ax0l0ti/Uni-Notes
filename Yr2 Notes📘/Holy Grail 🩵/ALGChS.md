@@ -15,19 +15,23 @@
 
 ---
 ### Topics
-1. **Topic 1**
-    - **Defintion:** $m+4th5$
-    - 
-2. **Topic 2**
-    - 
-    - 
-3. **Topic 3**
-    - 
-    - 
-4. **Topic 4**
+>[!danger]+ Automata	
+| **Model**          | **Memory**    | **Power**              | **Problem it can’t solve** |
+| ------------------ | ------------- | ---------------------- | -------------------------- |
+| Finite automaton   | Finite states | Regular languages      | $w \in \{ a^k b^k\}$       |
+| Pushdown automaton | Stack         | Context-free languages | $w \in \{ a^k b^k c^k\}$   |
+| Turing machine     | Tape          | Full computation       | $Halting$ $problem$        |
+
+1. Turing Machine
     - 
     - 
-5. **Topic 5**
+2. **Topic 3**
+    - 
+    - 
+3. **Topic 4**
+    - 
+    - 
+4. **Topic 5**
     - 
     - 
 
