@@ -19,14 +19,14 @@
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
+> > $a)$ -  Binary = y/n
+> $b)$ - Multiclass = either / or 
+> $c)$ - Muti-label = either / and
 
 ---
 
 ![[Pasted image 20241003155557.png]]
-#TODO 
+
 
 >[!info] ### Sigmoid Function
 >The sigmoid functions goes between the values of 1 and 0. Hence it is perfect for probability and binary classificiation 
@@ -45,10 +45,14 @@
 
 ### Example of Log-less
 
-![[Example of Log-less.png
+
+
+![[Example of Log-less.png]]
 
 
 
 ## Multi Class Example
+
+This is solved by creating numerous lines that aim to seperate each class. This can be used by the final classifier to place new points via regioning 
 
 ![[Multi Class Example.png]]

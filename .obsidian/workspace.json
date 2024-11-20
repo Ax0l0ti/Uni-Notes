@@ -8,35 +8,34 @@
         "type": "tabs",
         "children": [
           {
-            "id": "18f2f66aaf06ced8",
+            "id": "42c26b2fdbb95b43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+                "file": "Syncing & Personals/Todos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image Dehazing Method"
+              "title": "Todos"
             }
           },
           {
-            "id": "8ec3c4221e35d49b",
+            "id": "5086e737aca6512a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
+                "file": "T🏷️/M📚/All Modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Turing Machine in Automata"
+              "title": "All Modules"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "tag:#genus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,9 +187,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ec3c4221e35d49b",
+  "active": "42c26b2fdbb95b43",
   "lastOpenFiles": [
+    "T🏷️/M📚/All Modules.md",
+    "Syncing & Personals/Todos.md",
+    "Templates🧬/Cheat Sheet 🩷.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+    "Templates🧬/Mutiline maths & Matrix.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata.md",
@@ -199,12 +205,10 @@
     "Attachments/Dehaze Image Equation.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
-    "T🏷️/M📚/All Modules.md",
     "Syncing & Personals/Tips ✨/Callouts.md",
     "Attachments/Transmission Map.png",
     "Attachments/Pasted image 20241120132642.png",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/FSM Turing Machines.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
@@ -218,14 +222,9 @@
     "Yr2 Notes📘/Semester 1 & 2/ML/Data Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/2D Rotations.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
-    "Syncing & Personals/Todos.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations.md",
     "Attachments/Gimbal_Lock_Plane.gif",
     "Attachments/Pasted image 20241118144633.png",
     "Attachments/Rotation Combination.png",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of set theory.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of math logic.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",

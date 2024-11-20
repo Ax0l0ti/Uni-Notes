@@ -15,17 +15,18 @@ Check emails... Just always
 ---
 > [!abstract]+ Vault / Work 
 > > [!example]+ Vault Todos
-> > - [x] Mod file names
-> > - [x] Set Emoji Spacing, Set Structure
-> > - [x] Find Dataview (conts link) 
 > > - [ ] Clean 
 > > - [x] change tags, regex for tags and replace with inbuilt attributes
-> > -
+> > - [ ] 
 > >  List of Files containing #TODO : 
+> 
+> > [!todo]+ 
+> > > The following Note files contain a Todo tag: 
 > > > ```dataview 
 LIST 
-FROM #TODO AND !#Structuring 
-WHERE file.name != "Todos" AND  file.folder !=  "Templates🧬"
+FROM #TODO  
+WHERE genus != "Cheat Sheet" AND file.name != "Todos" AND  file.folder !=  "Templates🧬"
+SORT file.folder
 > 
 > > [!note]+ Work
 

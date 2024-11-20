@@ -15,6 +15,7 @@
 > > Images
 > > [[Noise & Image Dehazing]]
 > > [[Image Dehazing Method]]
+> > [[Fourier]]
 > > Modelling 
 > > [[2D Rotations]]
 > > [[3D Rotations]]
