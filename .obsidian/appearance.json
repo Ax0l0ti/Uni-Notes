@@ -3,5 +3,9 @@
   "baseFontSize": 15,
   "accentColor": "#6bcbf5",
   "cssTheme": "",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "my-callouts"
+  ]
 }

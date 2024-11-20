@@ -15,13 +15,13 @@ Check emails... Just always
 ---
 > [!abstract]+ Vault / Work 
 > > [!example]+ Vault Todos
-> > - [ ] Clean 
-> > - [x] change tags, regex for tags and replace with inbuilt attributes
+> > - [ ] Summer Internship
+> > - [ ] catch thu 14 11
 > > - [ ] 
-> >  List of Files containing #TODO : 
+> >  List of Files containing 
 > 
 > > [!todo]+ 
-> > > The following Note files contain a Todo tag: 
+> > > The following Note files contain the #TODO tag: 
 > > > ```dataview 
 LIST 
 FROM #TODO  

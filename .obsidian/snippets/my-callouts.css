@@ -1,0 +1,19 @@
+.callout[data-callout="heart"] {
+    --callout-color: 255, 99, 227;
+    --callout-icon: lucide-heart;
+}
+
+.callout[data-callout="leaf"] {
+    --callout-color: 82, 234, 20; 
+    --callout-icon: lucide-leaf;
+}
+
+.callout[data-callout="flower"] {
+    --callout-color: 255, 197, 221;
+    --callout-icon: lucide-flower;
+}
+
+.callout[data-callout="pi"] {
+    --callout-color: 114, 252, 229;
+    --callout-icon: lucide-pi;
+}

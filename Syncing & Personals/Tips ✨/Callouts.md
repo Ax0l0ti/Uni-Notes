@@ -9,6 +9,14 @@
 >
 > > [!failure] Failure, Fail, Missing
 
+> [!heart]
+
+> [!flower]
+
+> [!pi]
+
+> [!leaf]
+
 > [!question] Question, Help, FAQ
 > > [!example]+
 > 
