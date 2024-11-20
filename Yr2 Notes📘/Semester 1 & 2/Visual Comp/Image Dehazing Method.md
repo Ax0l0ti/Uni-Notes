@@ -31,16 +31,17 @@
 
 ### Dark Channel 
 
-Dark Channel Computation– Minimum intensity value among the three color channels (Red, Green, and Blue) in a local patch of the image. lenses For an Image I(x), the dark channel I_dark(x) is presented as
+Dark Channel Computation– basically brighter misty areas will have higher avg for $I^c$, this leads to $I_{dark}$ to be higher around haze
 
 ![[Pasted image 20241120132642.png]]
 
 
 > [!quote] Trasmission Maps
+> Dark Channel Computation– high $I_{dark}$ around haze leads to darkness around haze in the transmission
 > ![[Transmission Maps.png]]
-> [[Transmission Map.png]]
+
 
 
 > [!NOTE] Dehaze Image Equation
-> This works by removing the avg brightness from the original hazy image before dividing
+> This works by dividing the difference between the avg brightness and the original hazy image to scale the change from the avg. This leads to the hazed areas having much larger changes due to 
 > ![[Dehaze Image Equation.png]]

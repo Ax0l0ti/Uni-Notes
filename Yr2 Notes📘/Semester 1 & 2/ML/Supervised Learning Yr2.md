@@ -25,9 +25,6 @@
 > $c)$ - Reinforcement - Learning through ==Trial== and ==Error==
 
 ---
-
-#TODO 
-
 ### Types of Learning
 
 #### Supervised Learning

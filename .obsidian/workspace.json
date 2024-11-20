@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Image Dehazing Method"
             }
+          },
+          {
+            "id": "8ec3c4221e35d49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Turing Machine in Automata"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,22 +188,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "18f2f66aaf06ced8",
+  "active": "8ec3c4221e35d49b",
   "lastOpenFiles": [
-    "Attachments/Dehaze Image Equation.png",
-    "Attachments/Transmission Maps.png",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+    "Attachments/Transmission Maps.png",
+    "Attachments/Dehaze Image Equation.png",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "T🏷️/M📚/All Modules.md",
     "Syncing & Personals/Tips ✨/Callouts.md",
     "Attachments/Transmission Map.png",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
     "Attachments/Pasted image 20241120132642.png",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/FSM Turing Machines.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "Yr2 Notes📘/Holy Grail 🩵/APChS.md",
@@ -196,7 +214,6 @@
     "Attachments/Pasted image 20241120115444.png",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/How to use the Pumping Lemma.md",
     "Attachments/Turing State Trans Diag Ex.png",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Data Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/2D Rotations.md",
@@ -206,7 +223,6 @@
     "Attachments/Gimbal_Lock_Plane.gif",
     "Attachments/Pasted image 20241118144633.png",
     "Attachments/Rotation Combination.png",
-    "Attachments/Eulers Angles.png",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of set theory.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of math logic.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",

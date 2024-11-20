@@ -31,11 +31,13 @@
 #TODO 
 Similar to [[FSM Turing Machines]]
 
-## Defintion 
+## Definition 
 
-> [!Example]+ Defintion of a Turing Machine 
+> [!Example]+ Definition of a Turing Machine 
 > > [!info]+ Formal Definition 
-> > [[Turing Machine Formal Defi.png| 200]]
+> > 
+> > ![[Turing Machine Formal Defi.png| 600]]
+> > 
 >  
 > > [!success]+ Informal Definition 
 > > A Turing machine consists of two main components:
@@ -43,8 +45,6 @@ Similar to [[FSM Turing Machines]]
 > > - **Tape** ≈ an infinite memory for storing calculations, made up of individual cells
 > > - 
 
-Turing Machine Formal Defi
-
 ### Example 
 
-[[Turing State Trans Diag Ex.png]]
+![[Turing State Trans Diag Ex.png]]
