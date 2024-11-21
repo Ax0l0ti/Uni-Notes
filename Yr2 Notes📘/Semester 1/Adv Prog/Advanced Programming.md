@@ -46,7 +46,7 @@
 
 ---
 ## List of Lectures
-
+[Topic: History, Theory, Overview | CM22012 - Advanced programming | Home](https://moodle.bath.ac.uk/course/view.php?id=61735&section=3) 
 Lecture 1: Introduction to CM22012.   
 
 Lecture 2: History
@@ -67,7 +67,7 @@ Lecture 9: Other Language categories
 
 Lecture 10: Recap
 
-Consolidation Week
+**Consolidation Week**
 
 Lecture 11: Guest lecture from Elastic Mint software developers
 
