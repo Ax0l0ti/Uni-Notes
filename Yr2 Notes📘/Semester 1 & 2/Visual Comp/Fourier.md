@@ -25,6 +25,4 @@
 
 ---
 
-#TODO 
-
-[Topic: Lecture 7&8 Fourier Transform: Properties and Applications | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=9)
+#TODO [Topic: Lecture 7&8 Fourier Transform: Properties and Applications | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=9)

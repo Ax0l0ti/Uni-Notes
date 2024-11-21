@@ -10,7 +10,7 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > I kid you not, most useless module known to man. 
-> [[FSM Turing Machines]]
+> [[Turing Machine in Automata]]
 > [[ChatGPT's Opinion on Sem1 Adv Prog]]
 > > [[Unstructured Language]] 
 > > [[Imperative Language]]

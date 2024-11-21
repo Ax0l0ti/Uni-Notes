@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  20-11-2024
-> > *Module :* [[]]
+> > *Module :* [[Algorithms and Complexity]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -23,13 +23,9 @@
 > > - **Head** points and contains instructions
 > > - **Tape** contains memory
 > 
-> $b)$ - Transition = 
-> $c)$ - 
+> $b)$ - Transition function looks like $δ(state_0, read) → (state_1, write, move)$
 
 ---
-
-#TODO 
-Similar to [[FSM Turing Machines]]
 
 ## Formal and Informal Definition 
 
@@ -49,11 +45,11 @@ Similar to [[FSM Turing Machines]]
 
 > [!sigma] Transition
 > A Turing Machine's transitions are called a **Transition Relation**
-> Each Transition is comprised of x elements. This can be seen to have the following structure where sfddggf
+> Each Transition is comprised of 5 elements. This can be seen to have the following structure: 
 > $δ : (Q/H) × Σ → Q × (Σ ∪ \{L, R\})$ is the transition function
-> this is structured as $δ 
-
-
+> this is structured as $δ(state_0, read) → (state_1, write, move)$
+> where $move \in \{L,S,R\}$
+> 
 
 ### State Diagram 
 An example state diagram of a Turing machine can be seen below. 

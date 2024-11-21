@@ -15,11 +15,9 @@
 > > [[Naïve bayes]]
 > > [[Random Forest]] 
 > > [[Data Engineering]]
-> > [[Principal Component Analysis]]
-> > Neural Networks & Deep Learning
-> 
 > > [[Distance Metrics]]
-> 
+> > Post week 6
+> > [[Principal Component Analysis]]
 > Coursework
 > > [[]]
 > 

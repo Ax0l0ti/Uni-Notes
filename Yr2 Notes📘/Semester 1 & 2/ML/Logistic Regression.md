@@ -25,7 +25,7 @@
 
 ---
 
-![[Pasted image 20241003155557.png]]
+![[Classification Types.png]]
 
 
 >[!info] ### Sigmoid Function

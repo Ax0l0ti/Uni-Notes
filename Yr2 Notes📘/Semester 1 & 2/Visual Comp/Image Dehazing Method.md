@@ -24,10 +24,6 @@
 > [!Info] Dehazing Summary
 > a brief summary is as followed
 > ![[Dehazing Summary.png|600]]
-
-
-#TODO 
-
 ### Dark Channel 
 
 Dark Channel Computation– basically brighter misty areas will have higher avg for $I^c$, this leads to $I_{dark}$ to be higher around haze

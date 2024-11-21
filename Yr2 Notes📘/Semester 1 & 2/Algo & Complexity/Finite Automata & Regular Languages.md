@@ -14,12 +14,13 @@
 > [[#Finite Automata & Regular Languages]]
 > [[#Deterministic finite automata]]
 > [[#Formal Defintion of when DFA accepts]]
+> [[#Non-deterministic Finite Automaton]]
 > [[#Regular Language]]
 
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  An **alphabet** $\Sigma$ is afinte nonempty set of Symbols 
+> > $a)$ -  An **alphabet** $\Sigma$ is a finite nonempty set of Symbols 
 > $b)$ - A **word** $w$ over alphabet $\Sigma$ is a finite (possible empty) sequence of $\Sigma$ 
 > $c)$ - Set of **All Words** $= \Sigma^*$ (all might not make sense e.g english & waddfgle)
 > $d)$ - Any subset $L ⊆ \Sigma^*$ is called a **language** over $\Sigma$.

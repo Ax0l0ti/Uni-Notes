@@ -1,7 +1,7 @@
 {
-  "findText": "The module is (100)",
-  "replaceText": "$1",
-  "useRegEx": true,
+  "findText": "Turing Machine",
+  "replaceText": "Pushdown Automata",
+  "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,
   "processLineBreak": true,

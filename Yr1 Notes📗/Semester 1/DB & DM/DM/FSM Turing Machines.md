@@ -59,7 +59,7 @@ Links to [[Turing Machine in Automata]]
 
 - Graphical representation of FSM using circles (states) and arrows (transitions).
 - Each state is labeled, and transitions are annotated with input conditions.
-![[Turing State Trans Diag Ex.png]]
+IF YOU REALLY READING THIS JUST GO TO YR2 BRO
 ##### 5. Mealy and Moore Machines:
 
 - **Mealy Machine:**
