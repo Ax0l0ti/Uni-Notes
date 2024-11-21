@@ -6,7 +6,7 @@
 Check emails... Just always
 
 --- 
-> [!success]+ health 
+> [!leaf]+ health 
 > - [ ] Learn to handstand
 > - [ ] Splits cos y tf not
 > - [ ] Nerve Glides
@@ -17,8 +17,7 @@ Check emails... Just always
 > > [!example]+ Vault Todos
 > > - [ ] Summer Internship
 > > - [ ] catch thu 14 11
-> > - [ ] 
-> >  List of Files containing 
+> 
 > 
 > > [!todo]+ 
 > > > The following Note files contain the #TODO tag: 
@@ -27,8 +26,6 @@ LIST
 FROM #TODO  
 WHERE genus != "Cheat Sheet" AND file.name != "Todos" AND  file.folder !=  "Templates🧬"
 SORT file.folder
-> 
-> > [!note]+ Work
 
 
 ---

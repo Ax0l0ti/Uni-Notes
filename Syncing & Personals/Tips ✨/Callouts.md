@@ -9,13 +9,34 @@
 >
 > > [!failure] Failure, Fail, Missing
 
-> [!heart]
+> [!todo]+ Customs 
+>> [!heart]
+> > > [!flower]
+> 
+> > [!sigma]
+> > > [!leaf]
 
-> [!flower]
 
-> [!pi]
+> [!omega]+ Code block
+> The following Maths can be seen below
+> $$\begin{align}  
+\begin{bmatrix} \cos \theta & -\sin \theta \\
+\sin \theta & \cos \theta
+\end{bmatrix} 
+\end{align}$$
+> ```dataview 
+Task
 
-> [!leaf]
+```
+Succ my bawls
+```
+
+
+
+
+
+> [!flower] Title
+> Contents
 
 > [!question] Question, Help, FAQ
 > > [!example]+

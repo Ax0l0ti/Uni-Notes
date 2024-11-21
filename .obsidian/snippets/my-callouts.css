@@ -13,7 +13,19 @@
     --callout-icon: lucide-flower;
 }
 
-.callout[data-callout="pi"] {
+.callout[data-callout="sigma"] {
     --callout-color: 114, 252, 229;
-    --callout-icon: lucide-pi;
+    --callout-icon: lucide-sigma;
 }
+
+
+.callout[data-callout="tip"]{
+    --callout-color: 255, 119, 119;
+    --callout-icon: lucide-flame;
+}
+
+.callout[data-callout="omega"]{
+    --callout-color: 255, 255, 255 ;
+    --callout-icon: lucide-omega;
+}
+
