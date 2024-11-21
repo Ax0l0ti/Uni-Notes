@@ -23,8 +23,6 @@
 - Database Schema
 	- Logical structure of the database
 
-![400](https://ao.ms/wp-content/uploads/2017/12/twotier.png)
-
 ###### Entity Relatinoship diagram (ERD)
 ERDs are used to model relationship between entiites and attributes. 
 

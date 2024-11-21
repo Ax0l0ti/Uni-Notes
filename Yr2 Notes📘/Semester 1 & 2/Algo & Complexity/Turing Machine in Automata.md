@@ -11,9 +11,9 @@
 > [!abstract]+ Contents
 > List of headings within this topic
 > > [[#Speed run]]
-> [[#Defintion]]
-> [[#Example]]
-> [[#]]
+> [[#Formal and Informal Definition]]
+> [[#Transition Composition]]
+> [[#State Diagram]]
 > [[#]]
 
 --- 
@@ -23,7 +23,7 @@
 > > - **Head** points and contains instructions
 > > - **Tape** contains memory
 > 
-> $b)$ - 
+> $b)$ - Transition = 
 > $c)$ - 
 
 ---
@@ -31,20 +31,31 @@
 #TODO 
 Similar to [[FSM Turing Machines]]
 
-## Definition 
+## Formal and Informal Definition 
 
-> [!Example]+ Definition of a Turing Machine 
+> [!Example]+ Definitions  of a Turing Machine 
 > > [!info]+ Formal Definition 
+> > Formally a Turing machine is described by the following: 
+> > ![[Turing Machine Formal Defi.png|500]]
 > > 
-> > ![[Turing Machine Formal Defi.png| 600]]
-> > 
->  
-> > [!success]+ Informal Definition 
+>  ---
+> > [!flower]+ Informal Definition 
 > > A Turing machine consists of two main components:
 > > - **Head** ≈ ==Pointer== + the ”brain”, or control unit
 > > - **Tape** ≈ an infinite memory for storing calculations, made up of individual cells
-> > - 
+> > 
 
-### Example 
+### Transition Composition
 
-![[Turing State Trans Diag Ex.png]]
+> [!sigma] Transition
+> A Turing Machine's transitions are called a **Transition Relation**
+> Each Transition is comprised of x elements. This can be seen to have the following structure where sfddggf
+> $δ : (Q/H) × Σ → Q × (Σ ∪ \{L, R\})$ is the transition function
+> this is structured as $δ 
+
+
+
+### State Diagram 
+An example state diagram of a Turing machine can be seen below. 
+![[Turing State Trans Diag Ex.png|400]]
+

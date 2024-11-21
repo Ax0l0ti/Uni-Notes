@@ -32,13 +32,13 @@
 > > 
 
 ---
-## Detirministic finite automata: 
+## Deterministic finite automata: 
 
 Loads of Finite Automata, 
 some Deterministic -  input = guaranteed output
 some non-deterministic -  input = P(outputs) 
 
-> [!info] DFA
+> [!sigma] DFA
 > A **deterministic finite automaton**, or DFA, consists of **==five==** objects $(Q,Σ,δ,s,F)$, where: 
 > - $Q$ is a finite set of **states**.
 > - $Σ$ is an **alphabet**.
@@ -61,7 +61,7 @@ some non-deterministic -  input = P(outputs)
 > A **Non-deterministic finite automaton**, or DFA, consists of **==five==** objects $(Q,Σ,δ,s,F)$, where: 
 > - $Q$ is a finite set of **states**.
 > - $Σ$ is an **alphabet**.
-> - $\Delta\subset Q \times (Q×Σ→Q$ is the **transition ==relation==**.
+> - $\Delta\subset Q \times (Q×Σ)→Q$ is the **transition ==relation==**.
 > - $s ∈Q$ is the **initial state**. 
 > - $F ⊆Q$ is the set of **accepting states**.
 > > [!Example]+ DFA Formal Defintion Example
