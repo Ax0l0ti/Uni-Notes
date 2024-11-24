@@ -13,7 +13,12 @@
 
 #### Equations
 
-> [!info] Visual Comp in an image + 
+![[Euler's Identity.png|200]]
+
+
+![[Sin & Cos Euler.png| 500]]
+
+> [!info]+ Visual Comp in an image 
 > general terms of manipulation in Computer Graphics 
 >
 ![[CompVision in an image.png|350]]
