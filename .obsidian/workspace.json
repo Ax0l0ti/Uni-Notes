@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5086e737aca6512a",
+  "active": "eeb5af6a855fd0b7",
   "lastOpenFiles": [
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
