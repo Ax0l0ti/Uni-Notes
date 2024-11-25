@@ -9,14 +9,15 @@
 ---
 ### Equations and phrases
 **Structure :** (Topic) Phrase
+Convex hull Property : a curve will never pass outside of the convex hull formed by 4 control points in Brezier curve
 #### Phrases
 
 #### Equations
-
-![[Euler's Identity.png|200]]
-
-
-![[Sin & Cos Euler.png| 500]]
+Euler's Identity $e^{i\pi} +1=0$
+Using Euler's Identity to computate cos and sin
+$$
+\cos \phi = \frac{e^{i\phi}+ e^{-i\phi}}{2} , \sin \phi = \frac{e^{i\phi}- e^{-i\phi}}{2}
+$$
 
 > [!info]+ Visual Comp in an image 
 > general terms of manipulation in Computer Graphics 
