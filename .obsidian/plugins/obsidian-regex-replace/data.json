@@ -1,6 +1,6 @@
 {
-  "findText": "Turing Machine",
-  "replaceText": "Pushdown Automata",
+  "findText": "§",
+  "replaceText": "\n",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,

@@ -19,7 +19,7 @@
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  Hermite Curves
+> > $a)$ -  Hermite Curves $p(t) = CQ(t) = SMQ(t)$
 > $b)$ - Bezier Curves
 > 	
 > $c)$ - Catmull-Rom curve 
@@ -37,11 +37,24 @@
 
 ## Hermite
 
-![[Pasted image 20241125150511.png]]
+
+ We can model complex curves by piecewise functions 
+ We typically want to have continuity of:
+	 – value – e.g. $𝑓(1) =𝑔(0) (C^0 continuity)$ and
+	 – derivative – e.g. $𝑓′(1) =𝑔′(0) (C^1 continuity)$ 
+ The simplest curve that can do this is the cubic polynomial
+	 – $C1$ continuity specifies value and derivative at 2 endpoints 
+ We can derive the cubic equation for a given pair of endpoint values and endpoint derivatives
+	 – A curve specified in this way is called a **Hermite curve**
+
+![[Pasted image 20241125150511.png|600]]
+
+![[Hermite Explanation.png|500]]
 
 
 ## Bezier
 
+![[Pasted image 20241127112813.png|500]]
+## Catmull-Rom curve
 
-## Catmull-Rom
-
+![[Catmull-Rom.png|600]]
