@@ -18,6 +18,7 @@
 > > [[Distance Metrics]]
 > > Post week 6
 > > [[Principal Component Analysis]]
+> > [[Stats & Covariance]]
 > Coursework
 > > [[]]
 > 
