@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stats & Covariance"
+              "title": "Principal Component Analysis"
             }
           }
         ]
@@ -174,8 +174,8 @@
   },
   "active": "5086e737aca6512a",
   "lastOpenFiles": [
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves.md",
     "Attachments/Catmull-Rom.png",
     "Attachments/Hermite Explanation.png",
