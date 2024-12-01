@@ -22,8 +22,9 @@
 > > $a)$ -   
 > $b)$ - 
 > $c)$ - 
-> $$covariance \space C(X) =\frac{X_c^TX_c^T}{1-n} \text{, where } X_c = X - \mu_x \text{, and n is sample size of X }$$
+> $$covariance \space C(X) =\frac{X_c^TX_c}{1-n} \text{, where } X_c = X - \mu_x \text{, and n is sample size of X }$$
 
 ---
 
 #TODO 
+

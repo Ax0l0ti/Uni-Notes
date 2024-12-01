@@ -26,3 +26,6 @@
 ---
 
 #TODO [Topic: Week 8 - PCA and SVD | CM22009 - Machine learning | Home](https://moodle.bath.ac.uk/course/view.php?id=61732&section=8)
+
+
+C
