@@ -11,14 +11,12 @@
             "id": "5086e737aca6512a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Latex Cheatsheet.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Gaussian Mixture Models"
+              "icon": "lucide-file-text",
+              "title": "Latex Cheatsheet"
             }
           }
         ]
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +83,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,8 +173,10 @@
   },
   "active": "5086e737aca6512a",
   "lastOpenFiles": [
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
+    "Templates🧬/Mutiline maths & Matrix.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "Yr2 Notes📘/Holy Grail 🩵/APChS.md",
     "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
@@ -207,9 +208,7 @@
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata.md",
     "Attachments/PDA example.png",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Attachments/Classification Types.png",
-    "Syncing & Personals/Tips ✨/Format cheat sheet.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
