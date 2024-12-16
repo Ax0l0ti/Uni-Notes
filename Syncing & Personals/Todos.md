@@ -3,19 +3,28 @@
 > [!info]+ File Details
 > Contains my TODOs
 
-Check emails... Just always
+## Check emails... Just... always
 
 --- 
 > [!leaf]+ health 
-> - [ ] Learn to handstand
-> - [ ] Splits cos y tf not
-> - [ ] Nerve Glides
-> - [ ] Exercies For shoulder Joint
+> - **wacky** exercise
+> 	- [ ] Learn to handstand
+> 	- [x] L sit
+> 	- [ ] Front Lever
+> 	- [ ] Splits cos y not
+> - **proper** health
+> 	- Collagen??
+> 	- [x] Exercies For shoulder Joint
+> - **KITESURF** 
+> 	- [x] pop to board grab
+> 	- [x] back roll
+> 	- [ ] practice darkslides & Looing
 
 ---
 > [!abstract]+ Vault / Work 
 > > [!example]+ Vault Todos
 > > - [ ] Summer Internship
+> > 	- [x] Research quantifi 
 > > - [ ] catch thu 14 11
 > 
 > 

@@ -11,12 +11,14 @@
             "id": "5086e737aca6512a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Latex Cheatsheet.pdf"
+                "file": "Syncing & Personals/Todos.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Latex Cheatsheet"
+              "icon": "lucide-file",
+              "title": "Todos"
             }
           }
         ]
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "latex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,10 +69,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md"
+                "file": "Syncing & Personals/Todos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Divisibility of Integers"
+              "title": "Outline of Todos"
             }
           },
           {
@@ -83,8 +85,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,8 +172,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5086e737aca6512a",
+  "active": "3d171da91ece6b74",
   "lastOpenFiles": [
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/FSM Turing Machines.md",
+    "Syncing & Personals/Tips ✨/Callouts.md",
+    "Attachments/Latex Cheatsheet.pdf",
     "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
     "Templates🧬/Mutiline maths & Matrix.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
@@ -198,18 +203,14 @@
     "Attachments/Euler's Identity.png",
     "Attachments/Sin & Cos Euler.png",
     "Yr1 Notes📗/Semester 1/Prog 1/The C programming language.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/FSM Turing Machines.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
     "Templates🧬/Module 📚.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata.md",
     "Attachments/PDA example.png",
     "Attachments/Classification Types.png",
-    "Attachments/Latex Cheatsheet.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
