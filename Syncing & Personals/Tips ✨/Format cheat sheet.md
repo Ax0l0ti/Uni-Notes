@@ -58,7 +58,6 @@ Shortcuts --> README
 class Shortcuts,README internal-link;
 ```
 
-
 ```mermaid
 stateDiagram-v2
 [*] --> Still

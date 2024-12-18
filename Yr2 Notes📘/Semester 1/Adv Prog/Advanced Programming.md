@@ -12,6 +12,7 @@
 > I kid you not, most useless module known to man. 
 > [[Turing Machine in Automata]]
 > [[ChatGPT's Opinion on Sem1 Adv Prog]]
+> [[Shorthand of everything]]
 > > [[Unstructured Language]] 
 > > [[Imperative Language]]
 > > [[Declarative Language]]
