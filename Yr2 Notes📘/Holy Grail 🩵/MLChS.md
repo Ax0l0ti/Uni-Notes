@@ -8,6 +8,8 @@
 > 
 
 ---
+
+![[ML Semester 1 Speed Run.png]]
 ### Equations and phrases
 **Structure :** (Topic) Phrase
 #### Phrases

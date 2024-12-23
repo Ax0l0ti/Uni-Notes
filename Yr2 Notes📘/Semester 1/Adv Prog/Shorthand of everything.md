@@ -82,5 +82,7 @@ console.log(longPasswords); // logs ["freecodecamp", "mypassword123"]
 Here, the code declares the intention to filter the list of passwords, leaving the implementation details to the filter method.
 
 ---
-#TODO
+#TODO Need to include reference vs value, look at test prep lec
 [[Grail 🩷]]
+
+Agglomerative clustering: • Bottom-up hierarchy • Linkage • Few datapoints/Accurate comparison Divisive Clustering: • Top-down hierarchy • Many datapoints/Rough comparison DBSCAN: • Density-based • Non-convex

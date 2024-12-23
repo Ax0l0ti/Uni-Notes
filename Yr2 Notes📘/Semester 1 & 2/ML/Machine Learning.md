@@ -53,3 +53,4 @@
 ![[ML Course Structure.png]]
 
 
+![[ML Semester 1 Speed Run.png]]
