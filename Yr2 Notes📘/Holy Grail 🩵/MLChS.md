@@ -12,9 +12,14 @@
 ![[ML Semester 1 Speed Run.png]]
 ### Equations and phrases
 **Structure :** (Topic) Phrase
+
+Gen Model built of **Prior** $p(c|\theta) = \pi$ and **Noise Model** 
 #### Phrases
 
 #### Equations
+
+$var = \sigma^2 =  E[(x-E[x])^2] = E[x^2]-E[x]^2$
+$E[x] = \langle x\rangle$ 
 
 ---
 ### Topics

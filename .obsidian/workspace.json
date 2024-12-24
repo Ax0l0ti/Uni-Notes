@@ -20,6 +20,18 @@
               "icon": "lucide-file",
               "title": "MLChS"
             }
+          },
+          {
+            "id": "803ef9c0aadfe27f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Attachments/Latex Cheatsheet.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Latex Cheatsheet"
+            }
           }
         ]
       }
@@ -52,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +186,20 @@
   },
   "active": "5086e737aca6512a",
   "lastOpenFiles": [
-    "Yr1 Notes📗/Semester 1/Prog 1/The C programming language.md",
+    "T🏷️/S⚙️/Module Tag 🏷️.md",
+    "T🏷️/S⚙️/Grail 🩷.md",
+    "T🏷️/S⚙️/Stips ✨.md",
+    "T🏷️/S⚙️/Playground 🛝.md",
+    "T🏷️/S⚙️/YrAbouts/About 1 📗.md",
+    "T🏷️/M📚/Yr1📗/Architecture.md",
+    "T🏷️/M📚/Yr2📘/Human-Computer Interation 2.md",
+    "T🏷️/M📚/Yr2📘/Software Engineering.md",
+    "T🏷️/M📚/Yr2📘/Visual Comp.md",
+    "T🏷️/S⚙️/YrAbouts/About 2 📘.md",
     "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Attachments/Latex Cheatsheet.pdf",
+    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
+    "Yr1 Notes📗/Semester 1/Prog 1/The C programming language.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Attachments/ML Semester 1 Speed Run.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
@@ -190,18 +214,6 @@
     "Syncing & Personals/Todos.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata.md",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/FSM Turing Machines.md",
-    "Syncing & Personals/Tips ✨/Callouts.md",
-    "Attachments/Latex Cheatsheet.pdf",
-    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
-    "Templates🧬/Mutiline maths & Matrix.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/APChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/HCIChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
-    "T🏷️/M📚/Yr2📘/ML.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves.md",
     "Attachments/Catmull-Rom.png",
     "Attachments/Hermite Explanation.png",
     "Attachments/Pasted image 20241127112813.png",
