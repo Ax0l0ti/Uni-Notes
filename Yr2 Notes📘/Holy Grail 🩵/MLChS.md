@@ -98,14 +98,93 @@ $B B^\top = I$
 > Transform data to ensure uncorrelated features:  
 > P=BV⊤P = B V^\top
 
+
 ---
 
-### Unclear or partially readable sections:
+## Clustering
 
-- A few handwritten notes near the "SVD" section related to matrices and eigenvalues are partially illegible.
-- Diagrams included in the notes cannot be transcribed exactly into text.
+### K-Means Clustering
 
-Let me know if you need additional clarification!
+> [!NOTE] Steps for K-Means
+> 
+> 1. Choose kk.
+> 2. Initialize kk centroids.
+> 3. Assign each point to the closest centroid group.
+> 4. Calculate the new center of each cluster.
+> 5. Repeat steps 3 and 4 until convergence.
+
+> [!NOTE] Key Notes
+> 
+> - **Advantages**:
+>     - Easy to implement.
+>     - Requires predefining kk.
+> - **Disadvantages**:
+>     - Assumes spherical clusters.
+>     - Sensitive to local optima.
+>     - O(knd)O(knd), where nn is the number of points and dd is dimensions.
+> - **Optimization**: Use elbow method to determine kk:
+>     - Select Δy\Delta y (reduction in error) versus Δx\Delta x (number of clusters).
+
+---
+
+### DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+
+> [!NOTE] Overview
+> 
+> - **Purpose**: Discovers arbitrary shape clusters.
+> - **Based on Density**:
+>     - ϵ\epsilon: Maximum distance between neighbors.
+>     - MinPts\text{MinPts}: Minimum points required to form a dense region.
+
+> [!NOTE] Classification of Points
+> 
+> - **Core**: Within the dense cluster.
+> - **Border**: Within ϵ\epsilon but fewer than MinPts\text{MinPts}.
+> - **Noise**: Not part of any cluster.
+
+---
+
+### Hierarchical Clustering
+
+#### Bottom-Up (Agglomerative)
+
+> [!NOTE] Steps
+> 
+> 1. Treat each individual point as its own cluster.
+> 2. Merge clusters based on similarity.
+> 3. Continue until all points belong to a single cluster.
+> 4. Consider linkage criteria:
+> 
+> - Single, average, or complete linkage.
+
+#### Top-Down (Divisive)
+
+> [!NOTE] Steps
+> 
+> 1. Start with all points in a single cluster.
+> 2. Split clusters based on dissimilarity or apply kk-means.
+> 3. Terminate at appropriate depth.
+
+> [!NOTE] Visualization
+> 
+> - **Dendrogram**:
+>     - Represents hierarchical relationships between clusters.
+>     - Useful for visualizing large datasets.
+
+---
+
+### Gaussian Mixture Models (GMM)
+
+> [!NOTE] Overview
+> 
+> - **Probabilistic Approach**:
+>     - Prior: P(C∣θ)=πP(C | \theta) = \pi
+>     - Mixture: P(X∣C,θ)P(X | C, \theta)
+> - **Goal**: Fit data to Gaussian distributions.
+
+---
+
+Let me know if there are additional sections you'd like me to enhance or any diagrams you'd like help recreating digitally!
 
 ---
 ### Topics
@@ -128,3 +207,5 @@ Let me know if you need additional clarification!
 ---
 #TODO
 [[Grail 🩷]]
+
+
