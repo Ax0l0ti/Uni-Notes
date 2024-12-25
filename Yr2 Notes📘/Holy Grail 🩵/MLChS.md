@@ -107,23 +107,23 @@ $B B^\top = I$
 
 > [!NOTE] Steps for K-Means
 > 
-> 1. Choose kk.
+> 1. Choose $k$.
 > 2. Initialize kk centroids.
 > 3. Assign each point to the closest centroid group.
 > 4. Calculate the new center of each cluster.
-> 5. Repeat steps 3 and 4 until convergence.
+> 5. Repeat $steps$ $3$ and $4$ until convergence.
 
 > [!NOTE] Key Notes
 > 
 > - **Advantages**:
 >     - Easy to implement.
->     - Requires predefining kk.
+>     - Requires predefining $k$.
 > - **Disadvantages**:
 >     - Assumes spherical clusters.
 >     - Sensitive to local optima.
->     - O(knd)O(knd), where nn is the number of points and dd is dimensions.
+>     - $O(knd)$, where $n$ is the number of points and dd is dimensions.
 > - **Optimization**: Use elbow method to determine kk:
->     - Select Δy\Delta y (reduction in error) versus Δx\Delta x (number of clusters).
+>     - Select $\Delta y$ (reduction in error) versus $\Delta x$ (number of clusters).
 
 ---
 
@@ -133,22 +133,21 @@ $B B^\top = I$
 > 
 > - **Purpose**: Discovers arbitrary shape clusters.
 > - **Based on Density**:
->     - ϵ\epsilon: Maximum distance between neighbors.
->     - MinPts\text{MinPts}: Minimum points required to form a dense region.
+>     - $\epsilon$: Maximum distance between neighbours.
+>     - $\text{MinPts}$: Minimum points required to form a dense region.
 
 > [!NOTE] Classification of Points
 > 
 > - **Core**: Within the dense cluster.
-> - **Border**: Within ϵ\epsilon but fewer than MinPts\text{MinPts}.
+> - **Border**: Within $\epsilon$ but fewer than $\text{MinPts}$.
 > - **Noise**: Not part of any cluster.
 
 ---
 
 ### Hierarchical Clustering
 
-#### Bottom-Up (Agglomerative)
 
-> [!NOTE] Steps
+> [!leaf] Bottom-Up (Agglomerative)
 > 
 > 1. Treat each individual point as its own cluster.
 > 2. Merge clusters based on similarity.
@@ -157,9 +156,7 @@ $B B^\top = I$
 > 
 > - Single, average, or complete linkage.
 
-#### Top-Down (Divisive)
-
-> [!NOTE] Steps
+> [!omega] Top-Down (Divisive)
 > 
 > 1. Start with all points in a single cluster.
 > 2. Split clusters based on dissimilarity or apply kk-means.
