@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"4320650fce1a82e8","type":"text","text":"","x":135,"y":-1167,"width":250,"height":60},
+		{"id":"e7826d1f5ef457e1","type":"text","text":"# SEM 1","x":-260,"y":-279,"width":250,"height":60,"color":"4"},
+		{"id":"5ea3208bee40accb","type":"text","text":"# ML","x":-260,"y":-166,"width":250,"height":60},
+		{"id":"fbdfe8c3d2140543","type":"text","text":"","x":-1497,"y":-734,"width":250,"height":60},
+		{"id":"2b1400dd54a558ae","type":"file","file":"Attachments/ML Semester 1 Speed Run.png","x":-405,"y":-704,"width":540,"height":306},
+		{"id":"4514d3ed0d3e1666","type":"text","text":"# Mathematics","x":-279,"y":-1137,"width":250,"height":60},
+		{"id":"e9f920b7a33294bd","type":"text","text":"## Maths\n\n> [!NOTE] Bayes' Rule  \n> $p(x∣y)=p(y∣x)p(x)p(y)=p(y,x)p(y)p(x|y) = \\frac{p(y|x)p(x)}{p(y)} = \\frac{p(y, x)}{p(y)}$\n### Expectation and Variance\n\n- Expectation $E[f]$ written as $\\langle f \\rangle$:\n    - Continuous: $\\bar{x} = \\int_{x \\in \\Omega}p(x)f(x) \\, dx$\n    - Discrete:  $\\bar{x} = \\sum_{x \\in \\Omega} p(x)f(x)$\n    - Approximation: $\\bar{x} \\approx \\frac{1}{N} \\sum_{i=1}^N f(x) \\approx \\bar{x}$\n- Variance $Var$:\n    - $\\sigma^2 = \\langle (x - \\langle x \\rangle)^2 \\rangle \\text{ Also: }= E[x^2] - (E[x])^2$\n\n### Distributions\n\n- Poisson Distribution:  $P(x)=\\frac{\\lambda^x e^{-\\lambda}}{x!}$\n- Gaussian/Normal Distribution:  $P(x) = \\frac{1}{\\sqrt{2\\pi \\sigma^2}} e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$\n\n### Miscellaneous\n\n- Distance in space:  \n    $||x|| = \\sqrt{x_1^2 + x_2^2 + \\ldots + x_n^2}$\n- Cosine similarity:  \n    $\\cos \\theta = \\frac{u \\cdot v}{|u| |v|}$","x":61,"y":-1551,"width":540,"height":530},
+		{"id":"f3ddedd0cb39ec04","type":"text","text":"## Vectors\n\n### General Properties\nOrthogonal = $B B^\\top = I$ \n- $\\text{Rank} = \\text{number of independent columns/rows}$\n- $Rank \\leq \\text{min}(\\text{rows}, \\text{cols})$\n\n### Covariance Matrix\n\n- **Symmetric**:\n    - Variance = Diagonal elements\n    - Covariance = Off-diagonal elements\n- Used in **Principal Component Analysis (PCA)**:\n    - Analyse data in axes of maximal variance.\n    - Dimension reducing:\n        - Rotate data to align with eigenvectors.","x":-879,"y":-1517,"width":474,"height":496},
+		{"id":"51dce69181881ccc","x":-960,"y":-714,"width":353,"height":50,"type":"text","text":"# Dimension Reducing"}
+	],
+	"edges":[
+		{"id":"bb87d81dda7f0b4d","fromNode":"4514d3ed0d3e1666","fromSide":"left","toNode":"f3ddedd0cb39ec04","toSide":"right"},
+		{"id":"fc28acc2ff26897e","fromNode":"4514d3ed0d3e1666","fromSide":"right","toNode":"e9f920b7a33294bd","toSide":"left"},
+		{"id":"e7a163e5ae14fc4c","fromNode":"5ea3208bee40accb","fromSide":"top","toNode":"e7826d1f5ef457e1","toSide":"bottom"},
+		{"id":"032213c65b59454f","fromNode":"e7826d1f5ef457e1","fromSide":"top","toNode":"2b1400dd54a558ae","toSide":"bottom"},
+		{"id":"13541ca1beb4f04f","fromNode":"2b1400dd54a558ae","fromSide":"top","toNode":"4514d3ed0d3e1666","toSide":"bottom"},
+		{"id":"8c6f892269c0de63","fromNode":"2b1400dd54a558ae","fromSide":"left","toNode":"51dce69181881ccc","toSide":"right"}
+	]
+}
