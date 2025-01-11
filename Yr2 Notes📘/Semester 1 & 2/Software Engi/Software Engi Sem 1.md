@@ -27,7 +27,7 @@
 
 #TODO 
 
-# Software Engineering Course Notes
+# Software Engineering run down of content 
 
 > [!note]+ Week 1: Introduction to Software Engineering
 > Learn about the foundational aspects of software engineering, including key definitions, course objectives, and the interplay between theoretical and practical knowledge.
