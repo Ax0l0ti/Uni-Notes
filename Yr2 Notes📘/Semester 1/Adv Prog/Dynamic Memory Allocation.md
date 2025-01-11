@@ -25,6 +25,7 @@
 
 ---
 
+
 ### 1. **Dynamic memory allocation in C**
 
 - Use of `malloc`, `calloc`, `realloc`, and `free` to manage memory during runtime. Allows flexible memory use for unknown sizes.
