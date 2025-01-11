@@ -19,6 +19,7 @@
 > > [[The C programming language]]
 > > [[Python]]
 > > [[MATLAB]]
+> > [[Dynamic Memory Allocation]]
 
 > 
 > 
