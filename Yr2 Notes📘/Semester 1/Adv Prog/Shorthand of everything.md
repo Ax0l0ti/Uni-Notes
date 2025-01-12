@@ -84,5 +84,3 @@ Here, the code declares the intention to filter the list of passwords, leaving t
 ---
 #TODO Need to include reference vs value, look at test prep lec
 [[Grail 🩷]]
-
-Agglomerative clustering: • Bottom-up hierarchy • Linkage • Few datapoints/Accurate comparison Divisive Clustering: • Top-down hierarchy • Many datapoints/Rough comparison DBSCAN: • Density-based • Non-convex
