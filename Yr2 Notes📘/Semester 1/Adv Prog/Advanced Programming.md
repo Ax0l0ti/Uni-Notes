@@ -10,7 +10,7 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > I kid you not, most useless module known to man. 
-> [[Turing Machine in Automata]]
+> > [[Turing Machine in Automata]]
 > [[ChatGPT's Opinion on Sem1 Adv Prog]]
 > [[Shorthand of everything]]
 > > [[Unstructured Language]] 
@@ -20,6 +20,7 @@
 > > [[Python]]
 > > [[MATLAB]]
 > > [[Dynamic Memory Allocation]]
+> > [[Adv Prog content Listed]]
 
 > 
 > 
