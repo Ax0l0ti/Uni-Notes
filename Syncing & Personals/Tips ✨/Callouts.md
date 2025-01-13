@@ -1,4 +1,7 @@
 [[Stips ✨]]
+
+
+
 > [!note]+
 > > [!abstract]
 > 
@@ -32,14 +35,10 @@ Succ my bawls
 ```
 
 
-
-
-
-> [!flower] Title
-> Contents
-
 > [!question] Question, Help, FAQ
 > > [!example]+
+> > - wiggle wiggle
+> > - waggle
 > 
 > > [!quote] Quote, Cite
 

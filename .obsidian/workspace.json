@@ -13,29 +13,47 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
+                "file": "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MATLAB"
+              "title": "Image Dehazing Method"
             }
           },
           {
             "id": "2711ed1094135993",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
+                "viewState": {
+                  "x": -944.7994295304384,
+                  "y": -1249.2268972139839,
+                  "zoom": -0.07802984010025484
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "5c10ab39040fcb87",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+                "file": "Templates🧬/all callout block.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLChS"
+              "title": "all callout block"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,37 +204,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5086e737aca6512a",
+  "active": "2711ed1094135993",
   "lastOpenFiles": [
+    "Templates🧬/Mutiline maths & Matrix.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+    "Templates🧬/all callout block.md",
+    "Syncing & Personals/Tips ✨/Callouts.md",
+    "Templates🧬/Notes 📝.md",
+    "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
+    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Naïve bayes.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/ChatGPT's Opinion on Sem1 Adv Prog.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/Dynamic Memory Allocation.md",
+    "Syncing & Personals/Playground 🛝/Womp womp.md",
+    "Syncing & Personals/Playground 🛝/wibblesticks.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Adv Prog content Listed.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Shorthand of everything.md",
     "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Dynamic Memory Allocation.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/ChatGPT's Opinion on Sem1 Adv Prog.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
-    "Syncing & Personals/Playground 🛝/Womp womp.md",
-    "Syncing & Personals/Playground 🛝/wibblesticks.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
-    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
     "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression#Loss Funtion.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
-    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
-    "Yr2 Notes📘/Holy Grail 🩵/Untitled.md",
-    "T🏷️/S⚙️/Module Tag 🏷️.md",
-    "T🏷️/S⚙️/Grail 🩷.md",
-    "T🏷️/S⚙️/Stips ✨.md",
-    "T🏷️/S⚙️/Playground 🛝.md",
-    "T🏷️/S⚙️/YrAbouts/About 1 📗.md",
-    "T🏷️/M📚/Yr1📗/Architecture.md",
     "Attachments/ML Semester 1 Speed Run.png",
     "Attachments/Catmull-Rom.png",
     "Attachments/Hermite Explanation.png",
