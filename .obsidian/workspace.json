@@ -25,17 +25,14 @@
             "id": "2711ed1094135993",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
-                "viewState": {
-                  "x": -944.7994295304384,
-                  "y": -1249.2268972139839,
-                  "zoom": -0.07802984010025484
-                }
+                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Principal Component Analysis"
             }
           },
           {
@@ -206,12 +203,14 @@
   },
   "active": "2711ed1094135993",
   "lastOpenFiles": [
+    "Attachments/Dimension Reduction via PCA.png",
+    "Attachments/PCA Algorithm.png",
+    "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
     "Templates🧬/Mutiline maths & Matrix.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
     "Templates🧬/all callout block.md",
     "Syncing & Personals/Tips ✨/Callouts.md",
     "Templates🧬/Notes 📝.md",
-    "Yr2 Notes📘/Holy Grail 🩵/Untitled.canvas",
     "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
@@ -233,7 +232,6 @@
     "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression#Loss Funtion.md",
     "Attachments/Latex Cheatsheet.pdf",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression.md",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "Attachments/ML Semester 1 Speed Run.png",
     "Attachments/Catmull-Rom.png",
@@ -244,7 +242,6 @@
     "Attachments/2D curve Recap.png",
     "Attachments/Euler's Identity.png",
     "Attachments/Sin & Cos Euler.png",
-    "Attachments/PDA example.png",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
