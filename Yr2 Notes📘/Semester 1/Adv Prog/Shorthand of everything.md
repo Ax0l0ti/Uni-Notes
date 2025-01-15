@@ -2,7 +2,7 @@
 ---
 > [!info]+ Module Details
 > Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
-> *Module Tag :* 
+> *Module Tag :* [[Advanced Prog]]
 > *Link :* 
 > *Cheat Sheet tag :* [[Grail 🩷]]
 > 
@@ -11,44 +11,9 @@
 ### Equations and phrases
 **Structure :** (Topic) Phrase
 #### Phrases
-
-#### Equations
+Imperative creates imperative exact method, Declarative declares a goal and calls method
 
 ---
-### Topics
-
-```mermaid
-graph TD
-
-Paradigms --> Imperative
-Paradigms --> Declarative
-
-Declarative --> "/Low_Level, Scientific, Commerical"
-
-
-Imperative --> List_Processing
-Imperative --> Logical
-Imperative --> Funtional
-
-
-class Declarative,Imperative internal-link;
-```
-
-```mermaid
-graph LR
-QuickStart(Quick Start):::FixFont --> CmdPalette(Command<BR>Palette):::FixFont; QuickStart --> CreateNotes("Create notes"):::FixFont; QuickStart --> InternalLinks("Internal Links"):::FixFont; click CreateNotes "/Create notes"; click CmdPalette "/Command palette"; click InternalLinks "/Internal link";
-
-%% Internal links 
-%% ============== 
-class CmdPalette internal-link; class CreateNotes internal-link; class InternalLinks internal-link;
-%% Node styles 
-%% =========== 
-style CmdPalette fill:#383; 
-style QuickStart fill:#A00;
-style CreateNotes fill:#03C;
-style InternalLinks fill:#C097;!
-```
-
 ### Imperative Programming
 
 Imperative programming focuses on how a program operates. It involves giving the computer a sequence of instructions to follow, detailing each step required to achieve a desired outcome. This paradigm is often easier for beginners to grasp because it mirrors the way computers execute commands sequentially.

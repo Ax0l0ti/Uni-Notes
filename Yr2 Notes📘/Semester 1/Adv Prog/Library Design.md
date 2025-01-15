@@ -40,23 +40,33 @@
 
 **Header File (`mylib.h`):**
 
-c
 
-Copy code
+```c
+#ifndef MYLIB_H
+#define MYLIB_H
 
-`#ifndef MYLIB_H #define MYLIB_H  int add(int a, int b); int subtract(int a, int b);  #endif`
+int add(int a, int b);
+int subtract(int a, int b);
+
+#endif
+```
 
 **Source File (`mylib.c`):**
 
-c
+```c
+#include "mylib.h"
 
-Copy code
+int add(int a, int b) {
+    return a + b;
+}
 
-`#include "mylib.h"  int add(int a, int b) {     return a + b; }  int subtract(int a, int b) {     return a - b; }`
+int subtract(int a, int b) {
+    return a - b;
+}```
 
 ---
 
-### 2. **Use of Header Files and C Preprocessor**
+### 2. **Use of Header Files and C Pre-processor**
 
 - The **header file** provides function declarations and macros to be included in multiple programs.
 - Include the header file using the `#include` directive, ensuring the preprocessor replaces `#include "mylib.h"` with the actual content of the file during compilation.
@@ -65,44 +75,58 @@ Copy code
 
 **Main Program (`main.c`):**
 
-c
+```c
+#include <stdio.h>
+#include "mylib.h"
 
-Copy code
-
-`#include <stdio.h> #include "mylib.h"  int main() {     printf("Sum: %d\n", add(5, 3));     printf("Difference: %d\n", subtract(5, 3));     return 0; }`
+int main() {
+    printf("Sum: %d\n", add(5, 3));
+    printf("Difference: %d\n", subtract(5, 3));
+    return 0;
+}```
 
 ---
 
 ### 3. **Use of Object Files**
 
 - Compile the source files (`mylib.c`) into an **object file** (`mylib.o`):
-    
-    bash
-    
-    Copy code
-    
-    `gcc -c mylib.c -o mylib.o`
+
+```bash
+gcc -c mylib.c -o mylib.o
+```
     
 - Use the object file during the final linking stage of the program:
-    
-    bash
-    
-    Copy code
-    
-    `gcc main.c mylib.o -o main`
-    
+```bash	       
+gcc main.c mylib.o -o main
+  ```
+
 
 ---
 
-### 4. **Use of Makefiles**
+### 4. **Use of Makefiles** NOT EXAMINED
 
 - Automate compilation using a **Makefile**: **Makefile Example:**
 
-Makefile
+```Makefile
+CC = gcc
+CFLAGS = -Wall -c
+LFLAGS = -Wall
 
-Copy code
+all: main
 
-`CC = gcc CFLAGS = -Wall -c LFLAGS = -Wall  all: main  main: main.o mylib.o 	$(CC) $(LFLAGS) main.o mylib.o -o main  main.o: main.c mylib.h 	$(CC) $(CFLAGS) main.c  mylib.o: mylib.c mylib.h 	$(CC) $(CFLAGS) mylib.c  clean: 	rm -f *.o main`
+main: main.o mylib.o
+	$(CC) $(LFLAGS) main.o mylib.o -o main
+
+main.o: main.c mylib.h
+	$(CC) $(CFLAGS) main.c
+
+mylib.o: mylib.c mylib.h
+	$(CC) $(CFLAGS) mylib.c
+
+clean:
+	rm -f *.o main
+
+```
 
 Run `make` to build the program, and `make clean` to remove compiled files.
 
@@ -111,13 +135,9 @@ Run `make` to build the program, and `make clean` to remove compiled files.
 ## **Implementing Your Own Garbage Collection**
 
 - In C, memory is managed manually using `malloc`, `calloc`, `realloc`, and `free`. Custom garbage collection requires tracking memory allocations and ensuring unused memory is freed.
-
 ### Steps:
-
 1. **Track Allocations**:
-    
     - Maintain a data structure (e.g., a linked list or hash table) to store pointers to all allocated memory blocks.
 2. **Free Unused Memory**:
-    
     - Periodically check the data structure for memory that is no longer referenced and free it.
     - Use reference counting or a mark-and-sweep algorithm.
