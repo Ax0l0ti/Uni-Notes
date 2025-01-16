@@ -27,10 +27,6 @@
 
 ---
 
-#TODO 
-[Topic: Lecture 15- Curves | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=15)
-
-
 > [!lead]+ 2D Curve Recap
 > ![[2D curve Recap.png|600]]
 
