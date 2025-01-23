@@ -46,7 +46,7 @@
 • Why those categories exist.
 • Have some idea what sort of problem each language (category) is used for.
 
-Chats respnonse
+**Chats respnonse**
 To fulfill an advanced understanding of these criteria, I'll break down each topic into key concepts and provide a compact but comprehensive description:
 
 ---

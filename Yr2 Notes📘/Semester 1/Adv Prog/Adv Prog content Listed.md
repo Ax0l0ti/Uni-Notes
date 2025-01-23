@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  12-01-2025
-> > *Module :* [[]]
+> > *Module :* [[Advanced Programming]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -24,9 +24,6 @@
 > $c)$ - 
 
 ---
-
-#TODO 
-
 # Advanced Programming Course Notes
 
 > [!note]+ Week 1: Evolution and Foundations of Programming  
