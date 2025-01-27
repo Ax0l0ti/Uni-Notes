@@ -12,10 +12,6 @@
 > 
 > > Design Methods
 > > [[Task Analysis]]
-> > [[]]
-> > User Testing
-> > [[Testing]] bets on $\alpha,\beta,\gamma$
-> > 	[[Ethical Implications of Testing]]
 > 
 > Coursework
 > [[]]
