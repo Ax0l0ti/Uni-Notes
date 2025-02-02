@@ -9,7 +9,7 @@
 ---
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
-> 
+> Semester 1
 > > [[Supervised Learning Yr2]]
 > > [[Logistic Regression]]
 > > [[Naïve bayes]]
@@ -20,8 +20,9 @@
 > > [[Principal Component Analysis]]
 > > [[Stats & Covariance]]
 > > [[Gaussian Mixture Models]]
-> Coursework
-> > [[]]
+> 
+> Semester 2
+> > [[Sem 2 Breakdown ML]]
 > 
 
 
@@ -34,7 +35,7 @@
 		  DONT CODE FROM SCRATCH. (can if u want to) 
 		- ==Code not rated== can fail. As long as explained why 
 		- Para vs Non Para 
-		- if given infinte resourc, how would approach
+		- if given infinite resources, how would approach
 		- 
 	- S2 Experimental Report 15%
 - Closed-book written examination (EXCB 70%)
