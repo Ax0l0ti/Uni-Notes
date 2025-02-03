@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "72161a1b141e2b4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "5c10ab39040fcb87",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,7 +214,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2711ed1094135993",
+  "active": "72161a1b141e2b4c",
   "lastOpenFiles": [
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
