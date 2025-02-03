@@ -20,16 +20,20 @@
 
 > [!leaf]+ Sem 2 Topic Branches
 > 
-> Below is the list of topics contained within [[]] for Semester 2 topics
-> - words
-> -
-> -
+> Below is the list of topics contained within [[Machine Learning]] for Semester 2 topics
+> - Deep learning & Supervised Learning
+> - Shallow Neural Networks
+> - Deep Neural Networks
+> - Gradient Estimation in NN
+> - Brain-inspired models
+> - Deep learning Architecture (DLA)
+> - Natural Language Processing (NLP)
+> - Reinforcement Learning (RL)
 > 
 
 ----
 ## Courseworks & exams for the module
 
-#### Coursework
-
+![[Y2 Sem 2 ML.png]]
 #### Exams
 

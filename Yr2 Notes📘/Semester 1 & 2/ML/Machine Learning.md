@@ -23,6 +23,7 @@
 > 
 > Semester 2
 > > [[Sem 2 Breakdown ML]]
+> > 
 > 
 
 
@@ -51,7 +52,16 @@
 | **Synopsis:**          | You will explore a wide range of fundamental techniques in machine learning, and learn about their strengths and limitations. You will write code and use software libraries to apply these techniques to solve problems in machine learning.                                                                                                                       |
 | **Content:**           | central concepts and algorithms of supervised, unsupervised, and reinforcement learning such as support vector machines, deep neural networks, regularisation, ensemble methods, random forest, Markov Decision Processes, Q-learning, clustering, and dimensionality reduction.                                                                                    |
 
+---
+# Semester 1 breakdown 
+
 ![[ML Course Structure.png]]
 
 
 ![[ML Semester 1 Speed Run.png]]
+# Semester 2 breakdown
+
+![[Y2 Sem 2 ML.png]]
+
+
+Deep learning & Supervised learning
