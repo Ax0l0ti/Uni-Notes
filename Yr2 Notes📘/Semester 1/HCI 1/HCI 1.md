@@ -12,6 +12,7 @@
 > 
 > > Design Methods
 > > [[Task Analysis]]
+> > [[Absolute Speed Run of HCI1]]
 > 
 > Coursework
 > [[]]

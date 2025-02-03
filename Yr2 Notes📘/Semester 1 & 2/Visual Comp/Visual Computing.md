@@ -9,6 +9,7 @@
 ---
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
+> Semester 1
 > > Computer Vision
 > >[[Images & Colours]]
 > >[[Camera & Lenses]]
@@ -22,7 +23,9 @@
 > > Rendering
 > > [[Curves]]
 > > [[]]
-> > 
+> 
+> Semester 2
+> > [[Optical Flow]]
 > 
 > Coursework
 > > [[]]
@@ -41,6 +44,7 @@
 - Examination (EXCB 50%)
 	**Details** - Sem 2 Exam 
 	15 marks S1 : 35 marks S2
+	**IN MARCH THEY WILL RELASE SPEC**
 
 
 Mon 9.15 CB 4.17 12.15, Tue 13.15 lib lev 4 GtA PC 
@@ -62,5 +66,4 @@ Mon 9.15 CB 4.17 12.15, Tue 13.15 lib lev 4 GtA PC
 ![[Vis Comp S1 Course Plan.png]]
 
 ![[Vis Comp S2 Course Plan.png]]
-
 
