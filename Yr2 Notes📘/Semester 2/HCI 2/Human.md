@@ -57,9 +57,9 @@ Attention is massive, what we perceive is filtered by our brain.
 > > [!omega]+ Figure and ground
 > GODEL BABYYYYYY
 
-# Don't make me read
+# Don't make me read!
 
-# Structure the goat
+# Structure is the goat
 
 F and Z patterens
 
