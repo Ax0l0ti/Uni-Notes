@@ -22,10 +22,11 @@
 
 ---
 ### Coursework 60 vs 40 Examed
-- CW1 - 
+- CW1 - Individual
 	**Details** - 40%
-- CW2 - 
+- CW2 - Group CW
 	**Details** - 20%
+![[Payment Card Exercise2025-untracked.pdf]]
 ---
 ### Course Description
 
