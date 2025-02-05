@@ -37,3 +37,6 @@ DDos
 virus 
 hacking mail (phishing)
 password hacking 
+
+# Bro sent a video recommending these 
+![[Pasted image 20250204164256.png]]
