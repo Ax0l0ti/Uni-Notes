@@ -13,8 +13,9 @@
 > sub grouping
 > > [[Analysis tools]]
 > [[Software Engi Sem 1 ]]
-> [[]]
-> > [[]]
+> [[Software Engi Sem 2]]
+> > [[git stuff]]
+> > 
 > 
 > Coursework
 > > [[]]
