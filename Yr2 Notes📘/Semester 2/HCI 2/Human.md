@@ -28,6 +28,7 @@
 #TODO 
 # Human Perception
 
+[What are the Gestalt Principles? | IxDF](https://www.interaction-design.org/literature/topics/gestalt-principles)
 Perception and visual design is imperative. We have limited processing as humans. Perceptions have limitations and is not perfect. BUT we have natural tendancy to understand structure
 
 Attention is massive, what we perceive is filtered by our brain. 
