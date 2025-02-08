@@ -8,19 +8,16 @@
 > > *Resources :*
 
 ---
-> [!abstract]+ Contents
-> List of headings within this topic
-> > [[#Speed run]]
-> [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
+
+>[!Example]+ Lecture Schedule
+> Below is a screenshot of the lecture schedule for Human Computer Interaction 1
+![[HCI1 Lecture Schedule.png]]
 
 --- 
 
 # Human-Computer Interaction 1 Course Notes
 
-> [!note]+ Week 1: Introduction to HCI and Coursework  
+> [!tip]+ Week 1: Introduction to HCI and Coursework  
 > Overview of the coursework, user-centered design principles, and UI paradigms such as WIMP and MVC.  
 > - Overview of HCI coursework and deadlines  
 > - Group formation and lab support  
@@ -30,7 +27,6 @@
 > - Functional and non-functional requirements  
 > - UI paradigms: WIMP, Direct Manipulation, MVC  
 > - Input handling patterns (Observer, Publish-Subscribe)  
-
 ---
 
 > [!note]+ Week 2: User-Centered Design and Task Analysis  
@@ -40,7 +36,6 @@
 > - Task analysis: hierarchical task analysis (HTA)  
 > - Object-based analysis and knowledge-based techniques  
 > - Iterative user-centered design cycles  
-
 ---
 
 > [!note]+ Week 3: Requirement Gathering and Observational Techniques  
@@ -50,7 +45,6 @@
 > - Observational techniques: participatory observation  
 > - Combining methods for user research  
 > - Presenting requirements with personas and scenarios  
-
 ---
 
 > [!note]+ Week 4: Prototyping and Design Principles  
@@ -59,7 +53,6 @@
 > - Low-fidelity vs. high-fidelity prototypes  
 > - Wizard of Oz prototyping and iterative feedback  
 > - Rapid prototyping for user testing  
-
 ---
 
 > [!note]+ Week 5: Design Rules and Usability Heuristics  
@@ -69,7 +62,6 @@
 > - ISO standards for interaction design  
 > - Web Content Accessibility Guidelines (WCAG)  
 > - UI design patterns and style guides  
-
 ---
 
 > [!note]+ Week 7: Input and Output in HCI  
@@ -78,7 +70,6 @@
 > - Touch interactions and gesture-based UI  
 > - Voice interaction and eye-tracking in interfaces  
 > - Audio and haptic feedback in UI design  
-
 ---
 
 > [!note]+ Week 8: User Studies and Evaluation in HCI  
@@ -88,7 +79,6 @@
 > - Metrics for evaluating usability: error rates, task completion  
 > - Threats to validity in experiments  
 > - Participant recruitment and allocation  
-
 ---
 
 > [!note]+ Week 9: Ethics in HCI Research and Dark Patterns  
@@ -98,7 +88,6 @@
 > - Deceptive UI patterns: confirm shaming, disguised ads  
 > - Ethical implications of dark patterns in UX  
 > - Strategies to avoid deceptive designs  
-
 ---
 
 > [!note]+ Week 9.1: Evaluation Methods and Standardized Questionnaires  
@@ -107,7 +96,6 @@
 > - Cognitive walkthrough methodology  
 > - System Usability Scale (SUS) and NASA TLX  
 > - Standardized usability questionnaires  
-
 ---
 
 > [!note]+ Week 10: Accessibility in HCI and Inclusive Design  
@@ -116,7 +104,6 @@
 > - WCAG accessibility principles (Perceivable, Operable, Understandable, Robust)  
 > - Designing for disabilities (visual, auditory, motor, cognitive)  
 > - Importance of closed captions, alt text, and color contrast  
-
 ---
 
 > [!note]+ Week 11: Lecture Preparation and Semester Review  
@@ -124,3 +111,4 @@
 > - Audience engagement and technical terms clarification  
 > - Reviewing core HCI topics covered in the semester  
 > - Future directions in HCI research  
+

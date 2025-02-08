@@ -40,4 +40,5 @@
 ## Lecture Schedule 
 
 >[!Example]+ Lecture Schedule
+> Below is a screenshot of the lecture schedule for Human Computer Interaction 1
 ![[HCI1 Lecture Schedule.png]]

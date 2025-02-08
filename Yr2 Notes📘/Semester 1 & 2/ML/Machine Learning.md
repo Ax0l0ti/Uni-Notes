@@ -4,7 +4,8 @@
 > Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
 > > *Module :* [[ML]]
 > > *Teacher*: Andy Barnes, Georgios Exarchakis, Raghubir Singh
-> > *Resources :* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+> > *Resources :* [Understanding Deep Learning](https://udlbook.github.io/udlbook/)  [UDL](https://github.com/udlbook/udlbook)
+
 
 ---
 > [!abstract]+ Contents
