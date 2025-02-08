@@ -26,6 +26,12 @@
 	**Details** - 40%
 - CW2 - Group CW
 	**Details** - 20%
+
+14 March Payment Card Exercise: submit data. 0% but necessary 
+4 April Payment Card Exercise: individual report. 40% 
+2 May Payment Card Exercise: group report. 20% 
+Exam Period Examination. 40%
+
 ![[Payment Card Exercise2025-untracked.pdf]]
 ---
 ### Course Description

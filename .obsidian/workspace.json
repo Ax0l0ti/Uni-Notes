@@ -41,26 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
+                "file": "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Human"
-            }
-          },
-          {
-            "id": "5c10ab39040fcb87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates🧬/all callout block.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "all callout block"
+              "title": "Cybersecurity"
             }
           }
         ],
@@ -218,21 +204,23 @@
   },
   "active": "72161a1b141e2b4c",
   "lastOpenFiles": [
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "README.md",
+    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
+    "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/card.txt",
     "Yr2 Notes📘/Semester 2/Cybersecurity/New Text Document.txt",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/git stuff.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
     "Attachments/Pasted image 20250204164256.png",
     "Attachments/Pasted image 20250204145940.png",
     "Attachments/Payment Card Exercise2025-untracked.pdf",
     "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
     "Attachments/Y2 Sem 2 ML.png",
-    "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
     "Attachments/Pasted image 20250203125602.png",
     "Attachments/Pasted image 20250203125544.png",
     "Attachments/Pasted image 20250203125102.png",
@@ -241,7 +229,6 @@
     "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
     "Yr2 Notes📘/Semester 1/HCI 1/Absolute Speed Run of HCI1.md",
     "Attachments/HCI2 Topics.png",
-    "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Optical Flow.md",
     "Attachments/Coarse-to-fine.png",
