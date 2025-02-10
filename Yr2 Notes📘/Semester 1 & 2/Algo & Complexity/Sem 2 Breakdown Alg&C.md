@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  01-02-2025
-> > *Module :* [[]]
+> > *Module :* [[Algorithms and Complexity]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -24,7 +24,13 @@
 > - determine complexity of variety of algorithms
 > - describe variety of data structures
 > - demonstrate correctness of algorithm choice
-> 
+> - $big Ο$, $big \Theta$ and $big Ω$ notation
+> - Ackermann function
+> - Graphs and trees 
+> -  shortest path / divide and conquer etc
+> - loop invariants
+> - the Master Theorem
+> - Formal Analysis of algorithms
 
 ----
 ## Courseworks & exams for the module
@@ -32,3 +38,6 @@
 ## EXAM
 
 70% of 10 cred module. its fat. end of it. study bish
+Topics cover semester 1 and semester 2
+format of exam not decided yet but they will make clear
+Tutorials and work will be given every week
