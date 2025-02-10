@@ -25,9 +25,6 @@
 
 ---
 
-#TODO 
-
-
 > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] CIA triad
 > The symbol contains everything and defaults to note
 > ![[Pasted image 20250204145940.png]]
@@ -35,6 +32,8 @@
 
 DDos 
 virus 
+trojan 
+worm
 hacking mail (phishing)
 password hacking 
 
