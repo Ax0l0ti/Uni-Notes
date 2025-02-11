@@ -21,6 +21,7 @@
 > Semester 2 
 > > [[Sem 2 Breakdown Alg&C]]
 > > [[Complexity]]
+> > [[Sorting]]
 > > 
 
 

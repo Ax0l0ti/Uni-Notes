@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
+                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "intro to cyber"
+              "title": "Sorting"
             }
           }
         ],
@@ -119,7 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 322.5110321044922
+    "width": 248.50390243530273
   },
   "right": {
     "id": "c3550d6260ac942e",
@@ -204,15 +204,19 @@
   },
   "active": "72161a1b141e2b4c",
   "lastOpenFiles": [
+    "Attachments/Single Insertion Sort Loop.png",
+    "Attachments/Selection Sort.png",
+    "Attachments/Big O Cheatsheet.png",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
     "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Complexity.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Optical Flow.md",
     "Yr2 Notes📘/Semester 1/HCI 1/Absolute Speed Run of HCI1.md",
@@ -236,13 +240,9 @@
     "Attachments/structure bias.png",
     "Attachments/Human as Processors.png",
     "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
-    "Attachments/HCI2 Topics.png",
-    "Attachments/Coarse-to-fine.png",
     "Yr2 Notes📘/Semester 1/Adv Prog/Library Design.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Adv Prog content Listed.md",
     "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Shorthand of everything.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Dynamic Memory Allocation.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
