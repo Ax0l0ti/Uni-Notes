@@ -15,6 +15,7 @@
 > [[Software Engi Sem 1 ]]
 > [[Software Engi Sem 2]]
 > > [[git stuff]]
+> > [[notes on presentation]]
 > > 
 > 
 > Coursework

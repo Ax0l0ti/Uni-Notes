@@ -13,16 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+                "file": "T🏷️/S⚙️/Module Tag 🏷️.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Image Dehazing Method"
+              "title": "Module Tag 🏷️"
             }
           },
           {
-            "id": "2711ed1094135993",
+            "id": "72161a1b141e2b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,23 +34,8 @@
               "icon": "lucide-file",
               "title": "Sem 2 Breakdown ML"
             }
-          },
-          {
-            "id": "72161a1b141e2b4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sorting"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,19 +187,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "72161a1b141e2b4c",
+  "active": "5086e737aca6512a",
   "lastOpenFiles": [
+    "T🏷️/M📚/Yr2📘/Algorithms & Complexity.md",
+    "T🏷️/M📚/All Modules.md",
+    "Yr2 Notes📘/Semester 1 & 2/Software Engi/notes on presentation.md",
+    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Attachments/ML sem 2.png",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
     "Attachments/Single Insertion Sort Loop.png",
     "Attachments/Selection Sort.png",
     "Attachments/Big O Cheatsheet.png",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Complexity.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
@@ -222,27 +215,19 @@
     "Yr2 Notes📘/Semester 1/HCI 1/Absolute Speed Run of HCI1.md",
     "Yr2 Notes📘/Semester 1/HCI 1/HCI 1.md",
     "Yr2 Notes📘/Semester 1/HCI 1/Task Analysis.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
     "README.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/card.txt",
     "Yr2 Notes📘/Semester 2/Cybersecurity/New Text Document.txt",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/git stuff.md",
-    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1.md",
     "Attachments/Pasted image 20250204164256.png",
     "Attachments/Pasted image 20250204145940.png",
     "Attachments/Payment Card Exercise2025-untracked.pdf",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
     "Attachments/Y2 Sem 2 ML.png",
     "Attachments/Pasted image 20250203125602.png",
     "Attachments/Pasted image 20250203125544.png",
     "Attachments/Pasted image 20250203125102.png",
-    "Attachments/structure bias.png",
-    "Attachments/Human as Processors.png",
     "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Library Design.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Adv Prog content Listed.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",

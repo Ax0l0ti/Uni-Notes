@@ -64,5 +64,6 @@
 
 ![[Y2 Sem 2 ML.png]]
 
+![[ML sem 2.png]]
 
 Deep learning & Supervised learning
