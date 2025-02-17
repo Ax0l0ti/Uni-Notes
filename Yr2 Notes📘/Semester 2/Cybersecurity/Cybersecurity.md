@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
 > > *Module :* [[Cyber Security]]
 > > *Teacher*: 
-> > *Resources :*
+> > *Resources :* [Threats - wiki](https://en.wikipedia.org/wiki/Threat_\(computer_security\))
 
 ---
 > [!abstract]+ Contents
@@ -12,7 +12,7 @@
 > 
 > sub grouping
 > > [[intro to cyber]]
-> [[]]
+> [[Protocols]]
 > [[]]
 > > [[]]
 > 

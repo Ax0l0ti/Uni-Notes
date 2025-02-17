@@ -5,7 +5,7 @@
 > > *Date :*  04-02-2025
 > > *Module :* [[Cybersecurity]]
 > > *Teacher*: 
-> > *Resources :*
+> > *Resources :* 
 
 ---
 > [!abstract]+ Contents
