@@ -29,7 +29,7 @@
 > > [[WebGL]]
 > 
 > Coursework
-> > [[]]
+> > [[Sem2 VisComp CW]]
 
 ---
 ### Coursework 50 vs 50 Examed
