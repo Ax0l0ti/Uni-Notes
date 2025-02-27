@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "87f26763a4c3cb8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.7"
+            }
+          },
+          {
             "id": "72161a1b141e2b4c",
             "type": "leaf",
             "state": {
@@ -35,7 +47,8 @@
               "title": "Sem 2 Breakdown ML"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,7 +200,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5086e737aca6512a",
+  "active": "87f26763a4c3cb8c",
   "lastOpenFiles": [
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Sem2 VisComp CW.md",
