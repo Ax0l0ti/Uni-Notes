@@ -25,12 +25,14 @@
             "id": "87f26763a4c3cb8c",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Visual Computing"
             }
           },
           {
