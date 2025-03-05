@@ -24,7 +24,7 @@
 > - determine complexity of variety of algorithms
 > - describe variety of data structures
 > - demonstrate correctness of algorithm choice
-> - $big Ο$, $big \Theta$ and $big Ω$ notation
+> - $big$ $Ο$, $big$ $\Theta$ and $big$ $Ω$ notation
 > - Ackermann function
 > - Graphs and trees 
 > -  shortest path / divide and conquer etc
