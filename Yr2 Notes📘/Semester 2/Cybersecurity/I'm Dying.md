@@ -1,17 +1,6 @@
 ### List of websites to test my stuff on
 
 ---
-Here are some platforms where you can test payment card details in a controlled environment:
-
-1. [Stripe](https://docs.stripe.com/testing) - Offers a test mode where you can simulate transactions without moving real money. You can test various scenarios, including successful payments, declines, and fraud detection.
-2. [BlueSnap Sandbox](https://support.bluesnap.com/docs/test-credit-card-numbers) - Provides a sandbox environment for testing regular card transactions. It includes a variety of test cards and expected outcomes.
-3. [PayPal Developer](https://developer.paypal.com/) - Allows you to create sandbox accounts to test payment processing and integration.
-4. [Authorize.Net Sandbox](https://developer.authorize.net/) - A testing environment for developers to simulate payment transactions.
-5. [Square Developer](https://developer.squareup.com/) - Offers a sandbox for testing payment processing and other features.
-
-These platforms are designed for testing purposes 
-
----
 
 Here are 20 additional websites and platforms where you can test payment card details for your assignment. These include a mix of e-commerce, travel, and other services that often allow testing with invalid cards:
 
