@@ -11,40 +11,102 @@ Webnovel directed to -
 
 ---
 
-![[WN_HAR.har]]
 
 ## Analysis of HAR
 
 Immediately upon hitting purchase, first activity was re-direction to stripe checkout page for Cloudary Holdings Limited
 
-47953
-49349
+The second HAR file contains **181 HTTP requests**. I’ll now analyze:
 
-
-
-Here’s an overview of the **157 HTTP requests** in your HAR file. The most interacted-with domains include:
-
-1. **Stripe-related domains**:
+1. The websites (domains) interacted with.
     
-    - `js.stripe.com` (40 requests)
-    - `r.stripe.com` (37 requests)
-    - `b.stripecdn.com` (17 requests)
-    - `api.stripe.com` (6 requests)
+2. Instances where your sensitive data is transferred.
+    
+3. Full request details where data is exposed.
+    
+4. A security risk assessment.
+    
+
+Let’s start by extracting the domains and request metadata. ​​
+
+HTTP Requests Overview (HAR2)
+
+In the second HAR file, the top domains interacted with are very similar to the first:
+
+### **Most Frequently Accessed Domains (HAR2):**
+
+1. **Stripe-related:**
+    
+    - `js.stripe.com` (53 requests)
+        
+    - `r.stripe.com` (39 requests)
+        
+    - `b.stripecdn.com` (20 requests)
+        
+    - `api.stripe.com` (7 requests)
+        
     - `m.stripe.com` (4 requests)
+        
+2. **hCaptcha:**
     
-    This suggests that **Stripe** is being used for handling payment transactions, possibly for processing your Visa card details.
-    
-2. **hCaptcha-related domains**:
-    
-    - `api.hcaptcha.com` (14 requests)
+    - `api.hcaptcha.com` (13 requests)
+        
     - `newassets.hcaptcha.com` (12 requests)
-    
-    These indicate the presence of a CAPTCHA service, likely verifying if the transaction request is from a human user.
-    
-3. **Google-related domains**:
+        
+3. **Google-related:**
     
     - `play.google.com` (10 requests)
+        
     - `www.gstatic.com` (8 requests)
-    - `pay.google.com` (3 requests)
+        
+    - `pay.google.com` (5 requests)
+
+---
+
+​
+
+Detailed Sensitive Requests (HAR2)
+
+| URL                                                                                                             | Method | Status |
+| --------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| https://js.stripe.com/v3/fingerprinted/js/shared-b3fa357b5466571fdd145011ca89702c.js                            | GET    | 200    |
+| https://js.stripe.com/v3/fingerprinted/js/elements-inner-express-checkout-0705f382c3bd353ab319c39aa1eddc29.js   | GET    | 200    |
+| https://js.stripe.com/v3/fingerprinted/css/elements-inner-express-checkout-a898a29787883a4bb38206a38b604243.css | GET    | 200    |
+|                                                                                                                 |        |        |
+
+Security Risk Assessment (HAR2)
+
+|URL|Exposed Data|Security Risks|
+|---|---|---|
+|https://r.stripe.com/b|746|⚠️ CVV or Card Number should only be used in a single secure transaction.|
+|https://api.stripe.com/v1/payment_methods|4928261366639168|⚠️ CVV or Card Number should only be used in a single secure transaction.|
+|https://api.stripe.com/v1/payment_methods|746|⚠️ CVV or Card Number should only be used in a single secure transaction.|
+
+#### **Sensitive Request Details:**
+
+From the second HAR file, your personal and card information was transferred to the following URLs:
+
+1. **`https://r.stripe.com/b`**
     
-    These suggest interactions with Google services, possibly for additional payment authentication or security checks.
+    - Exposed Data: **CVV (746)**
+        
+2. **`https://api.stripe.com/v1/payment_methods`**
+    
+    - Exposed Data:
+        
+        - **Full card number** (4928261366639168)
+            
+        - **CVV** (746)
+            
+
+These endpoints belong to **Stripe**, which is a known and secure payment processor. However, the presence of full card details and CVV across multiple requests is something to watch closely.
+
+
+49348
+54093
+54101
+54105
+
+balance in value field for 1392, 1667, 4182
+
+many minified and obfuscated JavaScript module loader or bundler. Let's break down the main components:
