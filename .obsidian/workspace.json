@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "thread",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,10 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md"
+                "file": "Yr2 Notes📘/Semester 2/Cybersecurity/I'm Dying.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Machine Learning"
+              "title": "Outline of I'm Dying"
             }
           },
           {
@@ -86,7 +89,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,12 +160,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,10 +179,11 @@
   },
   "active": "87f26763a4c3cb8c",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/I'm Dying.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
     "Attachments/HAR_screenshot.png",
     "Attachments/Greyscale.png",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/I'm Dying.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Attachments/Pasted image 20250310143436.png",
     "Attachments/Pasted image 20250310143801.png",
@@ -223,7 +228,6 @@
     "Syncing & Personals/Playground 🛝/other lectures",
     "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW2.pdf",
-    "Untitled.canvas",
     "Untitled 2.canvas"
   ]
 }
