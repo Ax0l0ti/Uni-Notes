@@ -97,7 +97,7 @@ From the second HAR file, your personal and card information was transferred to 
         - **Full card number** (4928261366639168)
             
         - **CVV** (746)
-            
+ 
 
 These endpoints belong to **Stripe**, which is a known and secure payment processor. However, the presence of full card details and CVV across multiple requests is something to watch closely.
 
