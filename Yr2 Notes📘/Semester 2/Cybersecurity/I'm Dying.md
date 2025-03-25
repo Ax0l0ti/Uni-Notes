@@ -21,6 +21,7 @@ Immediately upon hitting purchase, first activity was re-direction to stripe che
 49349
 
 
+
 Here’s an overview of the **157 HTTP requests** in your HAR file. The most interacted-with domains include:
 
 1. **Stripe-related domains**:
