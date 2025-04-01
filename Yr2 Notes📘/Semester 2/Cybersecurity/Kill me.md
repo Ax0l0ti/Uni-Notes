@@ -99,3 +99,31 @@ A total of 23 unique base domains were contacted/referenced
 1 | ibfe-canary.corp  
 1 | broofa.com  
 1 | example.com
+
+
+
+
+---
+
+Abstract 
+Transaction
+Overview
+In depth 
+DNS related
+what no reasonale user deduced
+- Tested as a robot 
+- Probably to stop DOS from purchase requests
+- Or hinder automated piracy of unreleased chapters
+
+
+
+
+
+Qs
+1) 50% - Sites communicate w in the transaction? List of each site and its apparent purpose. The list should be numbered. b. 21..50 sites. 
+
+2) 20% - To which site, or sites, does the complete PAN get communicated. State the line(s) in the HAR that evidence this. How is the PAN protected in transit? Was it obvious, from the transaction as you observed it as a purchaser (i.e. not using the logs) that your data would go there? 
+
+3) 20% - How dependent is the correct functioning of the process you saw on the correct functioning of the DNS? In particular, could a subverted DNS result in any of a. Leakage of the PAN (with or without the CVV)? b. Failure of the transaction (no money taken and no goods delivered/service rendered)? c. Subversion of the transaction (money is taken, but the goods/services are delivered elsewhere)? d. Other malfunction? 
+   
+4) 10% - Looking at the HTML etc. you have saved, do you feel confident you know what it is doing with your data? In particular, what did you learn from the logs/HTML that you could not have reasonably deduced as a purchaser with no access to these?
