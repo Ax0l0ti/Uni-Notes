@@ -110,11 +110,10 @@ Transaction
 Overview
 In depth 
 DNS related
-what no reasonale user deduced
+what no user could deduce
 - Tested as a robot 
-- Probably to stop DOS from purchase requests
-- Or hinder automated piracy of unreleased chapters
-
+	- Probably to stop DOS from purchase requests
+	- Or hinder automated piracy of unreleased chapters
 
 
 
