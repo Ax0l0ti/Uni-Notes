@@ -24,22 +24,9 @@ Webnovel directed to -
 
 Immediately upon hitting purchase, first activity was re-direction to stripe checkout page for Cloudary Holdings Limited
 
-The second HAR file contains **181 HTTP requests**. I’ll now analyze:
-
-1. The websites (domains) interacted with.
-    
-2. Instances where your sensitive data is transferred.
-    
-3. Full request details where data is exposed.
-    
-4. A security risk assessment.
-    
+The second HAR file contains **181 HTTP requests**. I’ll now analyse:
 
 Let’s start by extracting the domains and request metadata. ​​
-
-HTTP Requests Overview (HAR2)
-
-In the second HAR file, the top domains interacted with are very similar to the first:
 
 ### **Most Frequently Accessed Domains (HAR2):**
 
