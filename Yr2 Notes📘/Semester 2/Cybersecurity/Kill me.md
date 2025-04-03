@@ -126,3 +126,87 @@ Qs
 3) 20% - How dependent is the correct functioning of the process you saw on the correct functioning of the DNS? In particular, could a subverted DNS result in any of a. Leakage of the PAN (with or without the CVV)? b. Failure of the transaction (no money taken and no goods delivered/service rendered)? c. Subversion of the transaction (money is taken, but the goods/services are delivered elsewhere)? d. Other malfunction? 
    
 4) 10% - Looking at the HTML etc. you have saved, do you feel confident you know what it is doing with your data? In particular, what did you learn from the logs/HTML that you could not have reasonably deduced as a purchaser with no access to these?
+
+
+
+
+Overview
+This report presents an analysis of a HAR file recorded during an
+online transaction. It addresses the communication endpoints, personal data exposure
+(especially the Primary Account Number, PAN), DNS dependencies, and the visibility of
+data handling from the HTML/JS content.
+
+##NEWW 
+Transaction
+The transaction recorded was a purchase of in-app currency for webnovel.com which was handled by stripe.com. 
+
+1 Communication with Websites (50%)
+Based on the captured HAR, the browser communicated with more than 50 unique sites.
+These are grouped below by top-level domain.
+Grouped Website Occurrences
+A total of 23 unique base domains were contacted. Below is a summary:
+Domain Subdomains and Counts
+stripe.com js (140), checkout (133), r (41), q (28), api (14), m (4), others (18)
+hcaptcha.com newassets (55), api (13), sentry (8), hcaptcha (16)
+google.com pay (49), play (16), apis (7), sandbox (3), others (10)
+stripecdn.com 61 requests total
+gstatic.com 20
+withgoogle.com 17
+stripe.network 17
+w3.org 15
+webnovel.com pay (9), www (2)
+github.com 11
+bit.ly 10
+apache.org 7
+affirm.ca 6
+reactjs.org 3
+cloud.google 3
+link.com link (1), checkout.link (1)
+cdn-apple.com 2
+angular.dev 2
+git.io 1
+link.co 1
+1
+Concerning or Unclear Domains
+• bit.ly - URL shortener, purpose unclear.
+• b.stripecdn.com - Serves third-party scripts, could embed trackers.
+• q.stripe.com - Analytics; not visible to user.
+• pay.webnovel.com - If not familiar with the merchant, could be misleading.
+2 Transmission of PAN (20%)
+The full PAN (4928261366639168) was detected in:
+• URL: https://api.stripe.com/v1/payment_methods
+• HAR Line: 47953
+• Protection: HTTPS (TLS encryption)
+• Visibility to Purchaser: Not obvious unless inspecting network traffic
+Listing 1: Excerpt from HAR Line 47953
+" postData ": {
+" text ": " card [ number ]=4928261366639168& card [ exp_month ]=4& card
+[ exp_year ]=2027& card [ cvc ]=746"
+}
+3 DNS Dependency and Risks (20%)
+The transaction is highly DNS-dependent. A subverted DNS could result in:
+• (a) Leakage of PAN: Yes, if API domain is spoofed.
+• (b) Transaction failure: Yes, due to dependencies on Stripe, Google, and hCaptcha.
+• (c) Transaction subversion: Possible if DNS directs to fake merchant/payment
+processor.
+• (d) Other malfunctions: CAPTCHA or third-party scripts may fail to load.
+4 HTML/JavaScript Observations (10%)
+• Background requests to r.stripe.com, q.stripe.com, pay.google.com were not
+disclosed on the UI.
+• Stripe elements auto-collect user card data and send directly to Stripe.
+• Full visibility of the request payload only possible through HAR inspection.
+2
+Purchaser View vs Developer Insight
+As a regular purchaser:
+• You would not know about any backend analytics or third-party data sharing.
+• The transmission endpoint (Stripe) is hidden behind frontend scripts.
+• HTML and JS logs reveal far more than the visible UI suggests.
+Appendix A: Personal Data Occurrences
+BRAND : Lines [87 , 111 , 3001 , 3031 , ...]
+CVV / CVC : Lines [87 , 111 , 191 , 1170 , ...]
+COUNTRY : Lines [3034]
+PIN : Lines [3157 , 4097 , 8008 , ...]
+EMAIL : Lines [16085 , 16506]
+NUMBER : Lines [16506]
+NAME : Lines [16506 , 16546 , 16722 , 17214]
+3
