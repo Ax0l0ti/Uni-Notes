@@ -136,7 +136,7 @@ online transaction. It addresses the communication endpoints, personal data expo
 (especially the Primary Account Number, PAN), DNS dependencies, and the visibility of
 data handling from the HTML/JS content.
 
-##NEWW 
+**##NEWW** 
 Transaction
 The transaction recorded was a purchase of in-app currency for webnovel.com which was handled by stripe.com. 
 
@@ -167,6 +167,11 @@ angular.dev 2
 git.io 1
 link.co 1
 1
+
+webnovel is the website of purchase, it is only referenced 
+Stripe is the handler of transaction activity
+
+
 Concerning or Unclear Domains
 • bit.ly - URL shortener, purpose unclear.
 • b.stripecdn.com - Serves third-party scripts, could embed trackers.
@@ -199,6 +204,7 @@ disclosed on the UI.
 Purchaser View vs Developer Insight
 As a regular purchaser:
 • You would not know about any backend analytics or third-party data sharing.
+**##NEWW** • No notice of CAPTCHA activity is given, user is analysed incase 
 • The transmission endpoint (Stripe) is hidden behind frontend scripts.
 • HTML and JS logs reveal far more than the visible UI suggests.
 Appendix A: Personal Data Occurrences
@@ -210,3 +216,6 @@ EMAIL : Lines [16085 , 16506]
 NUMBER : Lines [16506]
 NAME : Lines [16506 , 16546 , 16722 , 17214]
 3
+
+
+10.72.46.25:1643
