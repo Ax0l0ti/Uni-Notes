@@ -117,7 +117,7 @@ what no user could deduce
 
 
 
-
+└─
 Qs
 1) 50% - Sites communicate w in the transaction? List of each site and its apparent purpose. The list should be numbered. b. 21..50 sites. 
 
