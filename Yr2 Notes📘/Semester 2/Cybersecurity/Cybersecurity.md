@@ -13,8 +13,8 @@
 > sub grouping
 > > [[intro to cyber]]
 > [[Protocols]]
-> [[]]
-> > [[]]
+> [[Cloud Computing]]
+> > [[Data Laws]]
 > 
 > Coursework
 > > [[I'm Dying]]

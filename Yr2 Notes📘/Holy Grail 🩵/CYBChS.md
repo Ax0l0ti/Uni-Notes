@@ -17,15 +17,14 @@
 ### Topics
 
 > [!flower] Legislation Acts
+>    **General Data Protection Regulation** - 
 >    **Data Protection Act** - 
 >    **Freedom of Information** - 
 >    **Regulatory & Investigatory Powers Act** - 
 
 
-
 > [!sigma] Unix Secuirty Model
 > The symbol contains everything and defaults to note
-
 
 > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] Network Security (DNS & TCP)
 > 
