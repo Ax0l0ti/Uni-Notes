@@ -27,16 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+                "file": "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MLChS"
+              "title": "CYBChS"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d9285832dea4c625",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0abe442caa7003bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cybersecurity"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Divisibility of Integers"
+              "title": "Backlinks for CYBChS"
             }
           },
           {
@@ -144,12 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yr1 Notes📗/Semester 1/DB & DM/DM/Divisibility of Integers.md",
+                "file": "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Divisibility of Integers"
+              "title": "Outgoing links from CYBChS"
             }
           },
           {
@@ -159,7 +179,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -176,11 +198,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,14 +215,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d171da91ece6b74",
+  "active": "eb30681fb2c31243",
   "lastOpenFiles": [
+    "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
+    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
+    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
     "Yr2 Notes📘/Yr2 Metadata/Yr 2 Exam Periods and weightings.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/Kill me.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/I'm Dying.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber.md",
     "Untitled.canvas",
     "Attachments/HAR_screenshot.png",
@@ -223,19 +251,14 @@
     "T🏷️/M📚/All Modules.md",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/notes on presentation.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Attachments/ML sem 2.png",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
     "Attachments/Single Insertion Sort Loop.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
-    "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/card.txt",
     "Yr2 Notes📘/Semester 2/Cybersecurity/New Text Document.txt",
     "Attachments/Payment Card Exercise2025-untracked.pdf",
-    "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",

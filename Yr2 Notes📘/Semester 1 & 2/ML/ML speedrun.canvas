@@ -1,15 +1,16 @@
 {
 	"nodes":[
-		{"id":"4320650fce1a82e8","type":"text","text":"","x":135,"y":-1167,"width":250,"height":60},
-		{"id":"e7826d1f5ef457e1","type":"text","text":"# SEM 1","x":-260,"y":-279,"width":250,"height":60,"color":"4"},
-		{"id":"5ea3208bee40accb","type":"text","text":"# ML","x":-260,"y":-166,"width":250,"height":60},
-		{"id":"2b1400dd54a558ae","type":"file","file":"Attachments/ML Semester 1 Speed Run.png","x":-405,"y":-704,"width":539,"height":306},
-		{"id":"4514d3ed0d3e1666","type":"text","text":"# Mathematics","x":-279,"y":-1137,"width":250,"height":60},
-		{"id":"e9f920b7a33294bd","type":"text","text":"## Maths\n\n> [!NOTE] Bayes' Rule  \n> $p(x∣y)=p(y∣x)p(x)p(y)=p(y,x)p(y)p(x|y) = \\frac{p(y|x)p(x)}{p(y)} = \\frac{p(y, x)}{p(y)}$\n### Expectation and Variance\n\n- Expectation $E[f]$ written as $\\langle f \\rangle$:\n    - Continuous: $\\bar{x} = \\int_{x \\in \\Omega}p(x)f(x) \\, dx$\n    - Discrete:  $\\bar{x} = \\sum_{x \\in \\Omega} p(x)f(x)$\n    - Approximation: $\\bar{x} \\approx \\frac{1}{N} \\sum_{i=1}^N f(x) \\approx \\bar{x}$\n- Variance $Var$:\n    - $\\sigma^2 = \\langle (x - \\langle x \\rangle)^2 \\rangle \\text{ Also: }= E[x^2] - (E[x])^2$\n\n### Distributions\n\n- Poisson Distribution:  $P(x)=\\frac{\\lambda^x e^{-\\lambda}}{x!}$\n- Gaussian/Normal Distribution:  $P(x) = \\frac{1}{\\sqrt{2\\pi \\sigma^2}} e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$\n\n### Miscellaneous\n\n- Distance in space:  \n    $||x|| = \\sqrt{x_1^2 + x_2^2 + \\ldots + x_n^2}$\n- Cosine similarity:  \n    $\\cos \\theta = \\frac{u \\cdot v}{|u| |v|}$","x":61,"y":-1551,"width":540,"height":530},
-		{"id":"f3ddedd0cb39ec04","type":"text","text":"# Vectors\n\n> [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] All blocks\n> ### General Properties\nOrthogonal = $B B^\\top = I$ \n> - $\\text{Rank} = \\text{number of independent columns/rows}$ \n> - $Rank \\leq \\text{min}(\\text{rows}, \\text{cols})$ \n\n\n\n### Covariance Matrix\n\n- **Symmetric**:\n    - Variance = Diagonal elements\n    - Covariance = Off-diagonal elements\n- Used in **Principal Component Analysis (PCA)**:\n    - Analyse data in axes of maximal variance.\n    - Dimension reducing:\n        - Rotate data to align with eigenvectors.\n\n\n\n","x":-1372,"y":-1517,"width":892,"height":517},
-		{"id":"51dce69181881ccc","type":"text","text":"# Dimension Reducing","x":-1065,"y":-500,"width":353,"height":50},
-		{"id":"fbdfe8c3d2140543","type":"text","text":"","x":-1460,"y":-660,"width":250,"height":60},
-		{"id":"5ae08953389c5b0e","type":"text","text":"# Clustering","x":300,"y":-576,"width":353,"height":50}
+		{"id":"2b1400dd54a558ae","type":"file","file":"Attachments/ML Semester 1 Speed Run.png","x":-631,"y":-900,"width":990,"height":562},
+		{"id":"5ae08953389c5b0e","type":"text","text":"# Clustering","x":480,"y":-644,"width":353,"height":50},
+		{"id":"4320650fce1a82e8","type":"text","text":"","x":154,"y":-1116,"width":250,"height":60},
+		{"id":"4514d3ed0d3e1666","type":"text","text":"# Mathematics","x":-242,"y":-1176,"width":250,"height":60},
+		{"id":"f3ddedd0cb39ec04","type":"text","text":"# Vectors\n\n> [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] All blocks\n> ### General Properties\nOrthogonal = $B B^\\top = I$ \n> - $\\text{Rank} = \\text{number of independent columns/rows}$ \n> - $Rank \\leq \\text{min}(\\text{rows}, \\text{cols})$ \n\n\n\n### Covariance Matrix\n\n- **Symmetric**:\n    - Variance = Diagonal elements\n    - Covariance = Off-diagonal elements\n- Used in **Principal Component Analysis (PCA)**:\n    - Analyse data in axes of maximal variance.\n    - Dimension reducing:\n        - Rotate data to align with eigenvectors.\n\n\n\n","x":-732,"y":-1417,"width":490,"height":517},
+		{"id":"e9f920b7a33294bd","type":"text","text":"## Maths\n\n> [!NOTE] Bayes' Rule  \n> $p(x∣y)=p(y∣x)p(x)p(y)=p(y,x)p(y)p(x|y) = \\frac{p(y|x)p(x)}{p(y)} = \\frac{p(y, x)}{p(y)}$\n### Expectation and Variance\n\n- Expectation $E[f]$ written as $\\langle f \\rangle$:\n    - Continuous: $\\bar{x} = \\int_{x \\in \\Omega}p(x)f(x) \\, dx$\n    - Discrete:  $\\bar{x} = \\sum_{x \\in \\Omega} p(x)f(x)$\n    - Approximation: $\\bar{x} \\approx \\frac{1}{N} \\sum_{i=1}^N f(x) \\approx \\bar{x}$\n- Variance $Var$:\n    - $\\sigma^2 = \\langle (x - \\langle x \\rangle)^2 \\rangle \\text{ Also: }= E[x^2] - (E[x])^2$\n\n### Distributions\n\n- Poisson Distribution:  $P(x)=\\frac{\\lambda^x e^{-\\lambda}}{x!}$\n- Gaussian/Normal Distribution:  $P(x) = \\frac{1}{\\sqrt{2\\pi \\sigma^2}} e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$\n\n### Miscellaneous\n\n- Distance in space:  \n    $||x|| = \\sqrt{x_1^2 + x_2^2 + \\ldots + x_n^2}$\n- Cosine similarity:  \n    $\\cos \\theta = \\frac{u \\cdot v}{|u| |v|}$","x":9,"y":-1417,"width":540,"height":517},
+		{"id":"51dce69181881ccc","type":"text","text":"# Dimension Reducing","x":-1210,"y":-644,"width":353,"height":50},
+		{"id":"e7826d1f5ef457e1","type":"text","text":"# SEM 1","x":-261,"y":-240,"width":250,"height":60,"color":"4"},
+		{"id":"2e44d6560ce71b95","type":"text","text":"# SEM 2","x":-261,"y":120,"width":250,"height":60,"color":"4"},
+		{"id":"39a9007fb1626399","x":-631,"y":260,"width":990,"height":554,"type":"file","file":"Attachments/ML sem 2.png"},
+		{"id":"5ea3208bee40accb","type":"text","text":"","x":-290,"y":-120,"width":309,"height":167}
 	],
 	"edges":[
 		{"id":"bb87d81dda7f0b4d","fromNode":"4514d3ed0d3e1666","fromSide":"left","toNode":"f3ddedd0cb39ec04","toSide":"right"},
@@ -18,6 +19,8 @@
 		{"id":"032213c65b59454f","fromNode":"e7826d1f5ef457e1","fromSide":"top","toNode":"2b1400dd54a558ae","toSide":"bottom"},
 		{"id":"13541ca1beb4f04f","fromNode":"2b1400dd54a558ae","fromSide":"top","toNode":"4514d3ed0d3e1666","toSide":"bottom"},
 		{"id":"8c6f892269c0de63","fromNode":"2b1400dd54a558ae","fromSide":"left","toNode":"51dce69181881ccc","toSide":"right"},
-		{"id":"1a63ac24e1ecc2ee","fromNode":"2b1400dd54a558ae","fromSide":"right","toNode":"5ae08953389c5b0e","toSide":"left"}
+		{"id":"1a63ac24e1ecc2ee","fromNode":"2b1400dd54a558ae","fromSide":"right","toNode":"5ae08953389c5b0e","toSide":"left"},
+		{"id":"68014c481b097c07","fromNode":"5ea3208bee40accb","fromSide":"bottom","toNode":"2e44d6560ce71b95","toSide":"top"},
+		{"id":"31febf7ea69306cc","fromNode":"2e44d6560ce71b95","fromSide":"bottom","toNode":"39a9007fb1626399","toSide":"top"}
 	]
 }
