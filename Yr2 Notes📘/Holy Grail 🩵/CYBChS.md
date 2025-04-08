@@ -15,19 +15,34 @@
 
 ---
 ### Topics
-1. **Topic 1**
-    - **Defintion:** $m+4th5$
+
+> [!flower] Legislation Acts
+>    **Data Protection Act** - 
+>    **Freedom of Information** - 
+>    **Regulatory & Investigatory Powers Act** - 
+
+
+
+> [!sigma] Unix Secuirty Model
+> The symbol contains everything and defaults to note
+
+
+> [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] Network Security (DNS & TCP)
+> 
+> > [!Bug] DNS Domain Name Server
+> > The symbol contains everything and defaults to note
+> 
+> > [!info] TCP Transmission Control Protocol
+> > Transmission Control Protocol
+
+
+1. **Topic 3**
     - 
-2. **Topic 2**
+    - 
+2. **Topic 4**
     - 
     - 
-3. **Topic 3**
-    - 
-    - 
-4. **Topic 4**
-    - 
-    - 
-5. **Topic 5**
+3. **Topic 5**
     - 
     - 
 
