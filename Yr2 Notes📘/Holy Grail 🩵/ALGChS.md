@@ -9,8 +9,14 @@
 ---
 ### Equations and phrases
 **Structure :** (Topic) Phrase
-#### Phrases
+AVL, BST 
+Load Factor
+Probing
+AVL rotation
+polyalgorithms
 
+#### Phrases
+Loop invariant is proof statement true before and after loop iteration
 #### Equations
 Master theorem for recursion
 e.g 
@@ -25,12 +31,18 @@ $$\begin{align}
 \end{align}$$
 
 
-
-
 Master theorem basically tells us if a recursive's $O(n)$ is based off its ==**branching**== $(case \ 1)$, ==**function**== calls $(case \ 3)$ or ==**both**== equal $(case \ 2)$
 
 ---
 ### Topics
+
+
+> [!Flower] $O,\Theta \ and \ \Omega$
+> $O$ is considering max time/space , if $f(n) \ is \le O(n), \ then \ f(n) \ is \le O(n^2)$
+> $\Theta$ is average, meaning the rate of growth is equal to a specified value 
+> $\Omega$ is lower bound, if$f(n) \ is \ge \Omega(n^2), \ then \ f(n) \ is \ge \Omega(n)$
+
+
 >[!danger]+ Automata	
 | **Model**          | **Memory**    | **Power**              | **Problem it can’t solve** |
 | ------------------ | ------------- | ---------------------- | -------------------------- |
@@ -38,22 +50,16 @@ Master theorem basically tells us if a recursive's $O(n)$ is based off its ==**b
 | Pushdown automaton | Stack         | Context-free languages | $w \in \{ a^k b^k c^k\}$   |
 | Turing machine     | Tape          | Full computation       | $Halting$ $problem$        |
 
+# All trees have $log(n)$ layers
+### Binary search trees 
+Data structure supporting (somewhat) efficient insert, delete and search. They work best when balanced! Worst case unbalanced operations are $O(n)$. 15 Self-balancing binary search trees do extra work when modified, so that balance is retained. Worst case cost of operations in **AVL trees** is $O(logn)$.
+### HEAP 
+**Max** heap children are smaller, **min** heap children bigger
 
-Binary search trees are a data structure supporting (somewhat) efficient insert, delete and search. They work best when balanced! Worst case unbalanced operations are $O(n)$. 15 Self-balancing binary search trees do extra work when modified, so that balance is retained. Worst case cost of operations in **AVL trees** is $O(logn)$.
+| Min for Priority queues<br>Max for  | $left(i) = 2*i$<br>$right(i) = 2*i + 1$<br>$parent(i) — floor (i/2)$ |
+| ----------------------------------- | -------------------------------------------------------------------- |
 
-1. Turing Machine
-    - 
-    -
 
-2. **Topic 3**
-    - 
-    - 
-3. **Topic 4**
-    - 
-    - 
-4. **Topic 5**
-    - 
-    - 
 
 ---
 #TODO 
