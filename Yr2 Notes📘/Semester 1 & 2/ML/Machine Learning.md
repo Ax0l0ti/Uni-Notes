@@ -24,6 +24,9 @@
 > 
 > Semester 2
 > > [[Sem 2 Breakdown ML]]
+> > [[Recurrent NN]]
+> > [[Natural Language Processing]]
+> > [[Deep Learning]]
 > > 
 > 
 
@@ -62,8 +65,8 @@
 ![[ML Semester 1 Speed Run.png]]
 # Semester 2 breakdown
 
-![[Y2 Sem 2 ML.png]]
+![[Y2 ML Sem 2 Overview.png]]
 
-![[ML sem 2.png]]
+![[Y2 ML sem 2 P1 Georgios.png]]
 
-Deep learning & Supervised learning
+![[Y2 ML Sem 2 Part 2.png]]

@@ -17,6 +17,8 @@ polyalgorithms
 
 #### Phrases
 Loop invariant is proof statement true before and after loop iteration
+Floyd-Warshall
+Dijkstra 
 #### Equations
 Master theorem for recursion
 e.g 

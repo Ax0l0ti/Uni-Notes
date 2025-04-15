@@ -34,6 +34,6 @@
 ----
 ## Courseworks & exams for the module
 
-![[Y2 Sem 2 ML.png]]
+![[Y2 ML Sem 2 Overview.png]]
 #### Exams
 

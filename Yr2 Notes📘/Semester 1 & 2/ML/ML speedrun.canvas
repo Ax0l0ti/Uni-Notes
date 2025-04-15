@@ -9,7 +9,7 @@
 		{"id":"51dce69181881ccc","type":"text","text":"# Dimension Reducing","x":-1210,"y":-644,"width":353,"height":50},
 		{"id":"e7826d1f5ef457e1","type":"text","text":"# SEM 1","x":-261,"y":-240,"width":250,"height":60,"color":"4"},
 		{"id":"2e44d6560ce71b95","type":"text","text":"# SEM 2","x":-261,"y":120,"width":250,"height":60,"color":"4"},
-		{"id":"39a9007fb1626399","x":-631,"y":260,"width":990,"height":554,"type":"file","file":"Attachments/ML sem 2.png"},
+		{"id":"39a9007fb1626399","type":"file","file":"Attachments/Y2 ML sem 2 P1 Georgios.png","x":-631,"y":260,"width":989,"height":554},
 		{"id":"5ea3208bee40accb","type":"text","text":"","x":-290,"y":-120,"width":309,"height":167}
 	],
 	"edges":[
