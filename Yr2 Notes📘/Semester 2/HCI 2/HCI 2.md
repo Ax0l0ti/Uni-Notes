@@ -41,7 +41,14 @@ first **3** weeks on
 - Motor action
 
 
+NLP EXAMINED
+
 > [!heart] HCI 2 Topics
 > List of Human Computer Interaction 2 Module content
 ![[HCI2 Topics.png]]
 
+1. Perception 
+2. Cognition
+3. Motor action
+	- 
+4. Applicability of usability evaluation methods: KLM, Fitts' Law, SUS questionnaire
