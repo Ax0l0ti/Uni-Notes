@@ -25,12 +25,14 @@
             "id": "b1fcd9c7b087df75",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "Yr2 Notes📘/Semester 2/Cybersecurity/CyberSexy Key Terms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "CyberSexy Key Terms"
             }
           }
         ],
@@ -193,18 +195,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b1fcd9c7b087df75",
+  "active": "3d171da91ece6b74",
   "lastOpenFiles": [
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
+    "Attachments/Pasted image 20250426161240.png",
+    "Attachments/Pasted image 20250427193324.png",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Untitled.md",
+    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
+    "Yr2 Notes📘/Yr2 Metadata/Yr 2 Exam Periods and weightings.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algo Key Terms.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms_Key_Terms_List (2).md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms_Key_Terms_List (3).md",
     "Yr2 Notes📘/Semester 2/HCI 2/Human.md",
     "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/CyberSexy Key Terms.md",
     "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML Sexy Key Terms.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms_Key_Terms_List (2).md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms_Key_Terms_List.md",
     "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms_Key_Terms_List (1).md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
@@ -221,18 +230,10 @@
     "Attachments/Recurrent NN Variants.png",
     "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engineering.md",
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Optical Flow.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cloud Computing.md",
     "Attachments/Azure Model.png",
     "Untitled.canvas",
     "Attachments/HAR_screenshot.png",
     "Attachments/Greyscale.png",
-    "Attachments/Pasted image 20250310143436.png",
-    "Attachments/Pasted image 20250310143801.png",
     "Attachments/WN_HAR.har",
     "Yr2 Notes📘/Semester 2/Cybersecurity/card.txt",
     "Yr2 Notes📘/Semester 2/Cybersecurity/New Text Document.txt",

@@ -28,6 +28,16 @@
 > - **Web Technologies**: JavaScript Security, JSON Logs, DevTools, HTTP Codes, Cross-frame Communication  
 > - **Security Engineering**: HSMs, TPMs, Secure Enclaves, Hardware Attacks (Row Hammer), Secure Update Chains
 
+> [!sigma] Exam
+> 10 multiple choice questions
+> One long question (in several parts)
+> A mock examination is attached (currently the long question isn't written). In terms of "what content is examined", in principle all that has been lectured is examinable. But I am interested in high-level facts rather than details. I realise this isn't a very helpful statement, so here's an example (and I hope the MCQ part of the mock examination helps more).
+> - I **DO** expect you to know that MD5 is a thoroughly discredited hash function (for a long time), and its use for any purpose is a major alarm bell.
+> - I DO **NOT** expect you to know exactly how or when it was discredited.
+> - For cryptography, again I expect a high-level understanding, rather than details (and note that I haven't even given details of AES, SHA-x etc.). So for Diffie-Hellman key agreement
+> - I DO **NOT** expect you to know the details (and people use Elliptic Curve Diffie-Hellman, and I haven't explained elliptic curves at all)
+> - I **DO** expect you to know that the message key has contributions from both A and B, so that breaking B's random number will not break any other communication.
+
 ---
 ## 🧮 Definitions by Topic
 

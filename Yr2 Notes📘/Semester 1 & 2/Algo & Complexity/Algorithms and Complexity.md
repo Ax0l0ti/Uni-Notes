@@ -52,4 +52,6 @@
 > [!omega]+ Sem 2
 > The symbol contains everything and defaults to note
 
+---
+
 
