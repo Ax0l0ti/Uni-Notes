@@ -151,7 +151,7 @@
 > - **Backpropagation**: Updating weights using gradient descent.
 >     
 > 
-> Weight Update: w←w−η∂L∂w\text{Weight Update: } w \leftarrow w - \eta \frac{\partial L}{\partial w}
+> Weight Update: $w \leftarrow w - \eta \frac{\partial L}{\partial w}$
 > 
 > - **ReLU Activation**: $f(x) = \max(0,x)$
 >     

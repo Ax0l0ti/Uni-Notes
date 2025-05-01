@@ -48,17 +48,6 @@
 	**IN MARCH THEY WILL RELASE SPEC**
 	ALL MULTIPLE CHOICE - some can be multiple
 
-> [!danger]+ Exam
-> 30/70 Sl/S2
-> **14** Convolution and Filtering
-> 2D Transformations and Image Warping
-> **4**   Fourier Transforms
-> **12** SIFT, 3D transformations, and curves
-> **10** Optical Flow and Tracking
-> **15** Graphics
-> **30** Matching
-> **15** Deep learning
-
 
 Mon 9.15 CB 4.17 12.15, Tue 13.15 lib lev 4 GtA PC 
 

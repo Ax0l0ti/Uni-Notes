@@ -17,10 +17,10 @@
 > > [[Data Laws]]
 > 
 > Coursework
-> > [[I'm Dying]]
+> > [[Cyber CW Initial Planning]]
 > > 
 
-![[HAR_screenshot.png]]
+
 
 ---
 ### Coursework 60 vs 40 Examed

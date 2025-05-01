@@ -41,8 +41,115 @@ links to other files can be made by \[\[ link ]] and links within the files to t
 
 in text equations use $ on both sides  $= e^{i\theta\pi}$ 
 Block use \$\$ $$ \text{Bonjour, je ne pas da baguette. } \\ f(x) =  \frac{\sum i( 9.81m)}{a} \text{ where } m \text{ is mass }$$
-#### Graphs
+
+---
+# Memaid
+
+### Deployable Themes 
+The following are a list of **Deployable themes**, sample `%%init%%` directives and `initialize` calls.
+base, forest, dark, default/light, neutral
+> [!note]+ Base Gantt
+> **base**- Designed to be modified, as the name implies it is supposed to be used as the base for making custom themes.
+> ```mermaid
+%%{init: {'theme': 'base'}}%%
+gantt 
+title A Gantt Diagram 
+dateFormat YYYY-MM-DD 
+section Section 
+A task :a1, 2014-01-01, 30d 
+Another task :after a1, 20d 
+section Another 
+Task in Another :2014-01-12, 12d 
+another task :24d ```
+
+> [!leaf]+ Forest Gantt
+>  **forest**- A theme full of light greens that is easy on the eyes.
+> ```mermaid
+%%{init: {'theme': 'forest'}}%%
+gantt 
+title A Gantt Diagram 
+dateFormat YYYY-MM-DD 
+section Section 
+A task :a1, 2014-01-01, 30d 
+Another task :after a1, 20d 
+section Another 
+Task in Another :2014-01-12, 12d 
+another task :24d
+
+> [!omega]+ Dark Gantt
+> **dark**- A theme that would go well with other dark-colored elements.
+> ```mermaid
+%%{init: {'theme': 'dark'}}%%
+gantt 
+title A Gantt Diagram 
+dateFormat YYYY-MM-DD 
+section Section 
+A task :a1, 2014-01-01, 30d 
+Another task :after a1, 20d 
+section Another 
+Task in Another :2014-01-12, 12d 
+another task :24d
+
+> [!example]+ Default Gantt
+ > **default**- The default theme for all diagrams.
+> ```mermaid
+%%{init: {'theme': 'default'}}%%
+gantt 
+title A Gantt Diagram 
+dateFormat YYYY-MM-DD 
+section Section 
+A task :a1, 2014-01-01, 30d 
+Another task :after a1, 20d 
+section Another 
+Task in Another :2014-01-12, 12d 
+another task :24d
+
+> [!heart]+ Neutral Gantt
+> **neutral**- The theme to be used for black and white printing.
+> ```mermaid
+%%{init: {'theme': 'neutral'}}%%
+gantt 
+title A Gantt Diagram 
+dateFormat YYYY-MM-DD 
+section Section 
+A task :a1, 2014-01-01, 30d 
+Another task :after a1, 20d 
+section Another 
+Task in Another :2014-01-12, 12d 
+another task :24d
+
+
+
+> [!omega]+ All blocks
+> The symbol contains everything and defaults to note
+
+```mermaid 
+%%{init: {'theme': 'dark'}}%%
+mindmap
+root((mindmap))
+    Origins
+      Long history
+      ::icon(fa fa-book)
+      Popularisation
+        British popular psychology author Tony Buzan
+    Research
+      On effectiveness<br/>and features
+      On Automatic creation
+        Uses
+            Creative techniques
+            Strategic planning
+            Argument mapping
+    Tools
+      Pen and paper
+      Mermaid 
+```
+
+> [!leaf] Sequential
+> 
+> 
+
 ```mermaid
+%%{init: {'theme': 'forest'}}%%
 sequenceDiagram
     Uni ->>+Me: How's it going?
     Uni->>+Me: Hello? Are you there? 
@@ -51,6 +158,7 @@ sequenceDiagram
 ```
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 graph TD
 
 Shortcuts --> README
@@ -58,7 +166,8 @@ Shortcuts --> README
 class Shortcuts,README internal-link;
 ```
 
-```mermaid
+> [!abstract]+ Logic
+> ```mermaid
 stateDiagram-v2
 [*] --> Still
 Still --> [*]
@@ -66,7 +175,7 @@ Still --> Moving
 Moving --> Still
 Moving --> Crash
 Crash --> [*]
-```
+
 
 --- 
 

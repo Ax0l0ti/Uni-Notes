@@ -7,30 +7,38 @@
 > *Cheat Sheet tag :* [[Grail 🩷]]
 > 
 
----
-### Equations and phrases
-**Structure :** (Topic) Phrase
-#### Phrases
 
-#### Equations
+> [!abstract]+ Contents
+> 
+> > [[#🕰️ Speed run]]  
+> > [[#Exam breakdown]]
+> > [[#🔢 Definitions by Topic]]
 
 ---
-### Topics
-1. **Topic 1**
-    - **Defintion:** $m+4th5$
-    - 
-2. **Topic 2**
-    - 
-    - 
-3. **Topic 3**
-    - 
-    - 
-4. **Topic 4**
-    - 
-    - 
-5. **Topic 5**
-    - 
-    - 
+
+> [!danger]+ _🕰️ Speed run_
+> 
+> - **Topic**: Key terms 
+
+---
+# Exam breakdown
+
+> [!danger]+ Exam
+> Exam details when given
+> 
+> **This course is assessed 60% by coursework (in three phases) and 40% by examination.**
+> 
+> > [!heart ]+ Past Papers 
+> > Might be filled in google sheets
+
+
+---
+# 🔢 Definitions by Topic
+
+
+> [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug] topic
+> - **Keyterm**: Definition
+
 
 ---
 #TODO

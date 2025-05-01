@@ -1,15 +1,19 @@
-# Visual Computing Cheat Sheet
+# Visual Computing Sexy Key Terms
+
 ---
-> [!info]+ Module Details
-> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
-> *Module Tag :* (ModCode :: CM22010) 
-> *Link :* [[Visual Computing]]
-> *Cheat Sheet tag :* [[Grail 🩷]]
+
+> [!info]+ File Details
+> 
+> > **Date:** 26-04-2025  
+> > **Module:** [[Visual Computing]]  
+> > **Teacher:** #Chatted  
+> > **Resources:** Lecture notes, coursework, recommended readings
+
+---
 
 > [!abstract]+ Contents
 > 
 > > [[#🕰️ Speed run]]  
-> > [[#Exam breakdown]]
 > > [[#🔢 Definitions by Topic]]
 
 ---
@@ -38,21 +42,7 @@
 >     
 
 ---
-# Exam breakdown
 
-> [!danger]+ Exam
-> 30/70 Sl/S2
-> **14** Convolution and Filtering
-> 2D Transformations and Image Warping
-> **4**   Fourier Transforms
-> **12** SIFT, 3D transformations, and curves
-> **10** Optical Flow and Tracking
-> **15** Graphics
-> **30** Matching
-> **15** Deep learning
-**This course is assessed 60% by coursework (in three phases) and 40% by examination.**
-
----
 # 🔢 Definitions by Topic
 
 > [!tip]+ Basics
@@ -161,7 +151,7 @@
 > - **Backpropagation**: Updating weights using gradient descent.
 >     
 > 
-> Weight Update: $w \leftarrow w - \eta \frac{\partial L}{\partial w}$
+> Weight Update: w←w−η∂L∂w\text{Weight Update: } w \leftarrow w - \eta \frac{\partial L}{\partial w}
 > 
 > - **ReLU Activation**: $f(x) = \max(0,x)$
 >     

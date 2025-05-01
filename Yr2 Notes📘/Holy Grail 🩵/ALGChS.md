@@ -7,6 +7,22 @@
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---
+
+---
+> [!danger]+ ⚡ *Speed run*
+> - **Automata & Formal Languages**: DFA, NFA, PFA, Pumping Lemma (regular), CFL, CFG, PDA, Pumping Lemma (context-free), Parsing  
+> - **Turing Machines & Computability**: Turing Machine, Universal TM, Church-Turing Thesis, Halting Problem, Decidability, Undecidability  
+> - **Complexity Classes**: P, NP, NP-Complete, P vs NP, Non-deterministic TM  
+> - **Data Structures**: Array, Linked List, Stack, Queue, Tree, BST, AVL, Heap, Graph, Hash Table, Disjoint Set (Union-Find)  
+> - **Algorithm Design**: Divide-and-Conquer, Dynamic Programming, Greedy, Recursion, Memoization  
+> - **Algorithm Analysis**: Best/Worst/Average Case, Time, Space, Big-O, Big-Θ, Big-Ω, Loop Invariants  
+> - **Sorting & Searching**: Selection Sort, Insertion Sort, Merge Sort, Quicksort, HeapSort, TreeSort, BFS, DFS, Dijkstra, Floyd-Warshall, Kruskal  
+> - **Special Topics**: Ackermann Function, Inverse Ackermann, Polyalgorithms, Cache Efficiency, Crossover Points
+
+---
+
+Master Theorem
+
 ### Equations and phrases
 **Structure :** (Topic) Phrase
 AVL, BST 
