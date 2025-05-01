@@ -4,11 +4,13 @@
 Honestly, I don't expect anyone to read this or use these. **HOWEVER**, I gain nothing from making this private so its public... big ups for code communism I guess. 
 
 Having never used online note taking, I hope this nonsense helps with one of the following
-$$\begin{flalign}
+
+$$
 a) \text{ Set up a semi-decent Obsid Repo} \\
 b) \text{ Gives you a decent start on some lecture notes} \\
 c) \text{ Shows you how }NOT \text{ to do a Obsid Repo} \\
-\end{flalign}$$
+$$
+
 ---
 ### Structuring of Vault
 > **Notes** are split by year, and linked via the Metadata Directories in each. 
