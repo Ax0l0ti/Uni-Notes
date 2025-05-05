@@ -107,8 +107,9 @@
 >     - Uses Disjoint Sets (Union-Find).
 
 > [!heart]+ Special Topics
-> - **Ackermann Function**: Rapidly growing recursive function.
-> - **Inverse Ackermann Function $lpha(n)$**: Very slow-growing function, commonly appearing in amortized analyses.
+> - **Ackermann Function**: Rapidly growing recursive function. 
+> - **Inverse Ackermann Function $\alpha(n)$**: Very slow-growing function, commonly appearing in amortized analyses.
 > - **Polyalgorithm**: Combines multiple algorithms based on context.
 > - **Cache Efficiency**: Optimization to make memory accesses faster.
 > - **Algorithm Crossover Points**: Switching to faster algorithm depending on input size.
+> - **Kruskal Algorithm** : #todo

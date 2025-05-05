@@ -99,7 +99,9 @@
 >     
 > - **SIFT**: Scale-Invariant Feature Transform for detecting and describing local features.
 >     
-> - **Gradient**: Rate of change of intensity.
+> - **Scale space**: progressive levels of gaussian blur. Used for blob detection 
+> - **Nlog vs DoG** normalised log used in SIFT matching but approximated by difference of Gaussian
+> 	- $𝐷𝑜𝐺 =(𝑛_{s\sigma } −𝑛_\sigma ) ≈(𝑠−1)𝑁𝐿𝑜g$
 >     
 
 > [!example]+ Mid-Level Computer Vision

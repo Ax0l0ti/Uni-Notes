@@ -42,11 +42,15 @@
 > - **External Validity**: Generalizability of results.
 
 > [!tip]+ Statistical Methods
-> - **Pearson Correlation**: Parametric measure of linear association.
-> - **Spearman Rank Correlation**: Non-parametric, rank-based association.
-> - **Chi-Square Test**: Tests frequency differences in categorical data.
-> - **ANOVA**: Compares means across 3+ groups.
-> - **Friedman Test**: Non-parametric alternative to repeated measures ANOVA.
+> - **Pearson Correlation**: Parametric measure of linear association. -1 inv corr, 0 no corr, 1 pos corr
+> - $r=​\frac{cov(X,Y)}{σ_X​σ_Y}$​
+> - **Spearman Rank Correlation**: Non-parametric, rank-based association. Closer to 1 strong corr
+> - $ρ=1-\frac{6\sum{d_i^2}}{n(n2−1)}$​​
+> - **Chi-Square Test**: Tests frequency differences in categorical data. $X^2$ works w Deg of Freedom
+> - $X^2 = \sum{\frac{(O-E)^2}{E}}$
+> - **ANOVA**: ANalysis Of Variance, Compares means across 3+ groups. 
+> - $\frac{between-var}{with-var}$
+> - **Friedman Test**: Non-parametric alternative to repeated measures ANOVA. 
 > - **GLMM**: Models with fixed and random effects for non-normal data.
 > - **Permutation Test**: Resamples data to test hypotheses without parametric assumptions.
 

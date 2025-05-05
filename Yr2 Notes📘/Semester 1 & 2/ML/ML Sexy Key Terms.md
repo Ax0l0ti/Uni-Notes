@@ -40,6 +40,22 @@ title: Machine Learning Y2425-CM22009 Key Terms
 > - **NLP & Language Models**: NLP, NLU, NLG, Language Model, Transformer, Masked Language Model, Pretraining, Fine-tuning, Back-Translation, Chain-of-Thought Prompting, Self-Consistency Prompting, Emergent Behavior, AI-Hard, Hallucination
 
 ---
+
+
+> [!heart] Exam Format
+> 60 Marks
+> Multiple Choice
+> **10** General ML : training, hypothesis functions, MLOps, problem types
+> Short Ans
+> **15** Supervised 
+> **15** Unsupervised
+> **15** Deep Learning & NN Arch
+> Short-Med Ans Question   
+> **5** Legal, Ethical, Professinal and Socials
+> 
+
+
+---
 ## 🧮 Definitions by Topic
 
 > [!abstract]+ Optimisation
@@ -119,3 +135,7 @@ title: Machine Learning Y2425-CM22009 Key Terms
 > - **Back-Translation**: Re-translation for quality check or augmentation.
 > - **Emergent Behavior**: Unexpected capabilities in large LMs.
 > - **Hallucination**: Confident but factually incorrect output.
+
+Misilanious
+ML lifecycle
+![[ML lifecycle.png]]

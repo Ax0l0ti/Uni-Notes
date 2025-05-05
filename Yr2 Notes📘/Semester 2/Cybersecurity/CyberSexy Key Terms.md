@@ -28,7 +28,9 @@
 > - **Web Technologies**: JavaScript Security, JSON Logs, DevTools, HTTP Codes, Cross-frame Communication  
 > - **Security Engineering**: HSMs, TPMs, Secure Enclaves, Hardware Attacks (Row Hammer), Secure Update Chains
 
-> [!sigma] Exam
+#todo Hardware Security Models
+
+> [!sigma]+ Exam
 > 10 multiple choice questions
 > One long question (in several parts)
 > 
@@ -38,6 +40,12 @@
 > - For cryptography, again I expect a high-level understanding, rather than details (and note that I haven't even given details of AES, SHA-x etc.). So for Diffie-Hellman key agreement
 > - I DO **NOT** expect you to know the details (and people use Elliptic Curve Diffie-Hellman, and I haven't explained elliptic curves at all)
 > - I **DO** expect you to know that the message key has contributions from both A and B, so that breaking B's random number will not break any other communication.
+> **Examination Information Update**
+
+> [!danger] **EXAM NOTEEE**
+> Some of you have noticed that the examination is marked as "Open Book", but the interpretation of "open book" in this course is as follows.  
+> I will give you (via Moodle) the story a week in advance of the examination, for you to read, digest and, should you wish, research. This is the extent to which the examination is "open".  
+> However, YOU MAY NOT BRING anything into the examination, and I do not expect you have done any further research on the story, but I DO expect you to have understood it.
 
 ---
 ## 🧮 Definitions by Topic

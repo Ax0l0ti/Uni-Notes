@@ -153,8 +153,8 @@ Orthogonal = $B B^\top = I$
 > [!NOTE] Overview
 > 
 > - **Probabilistic Approach**:
->     - Prior: P(C∣θ)=πP(C | \theta) = \pi
->     - Mixture: P(X∣C,θ)P(X | C, \theta)
+>     - Prior: $P(C | \theta) = \pi$
+>     - Mixture: $P(X∣C,θ)P(X | C, \theta)$
 > - **Goal**: Fit data to Gaussian distributions.
 
 ---
