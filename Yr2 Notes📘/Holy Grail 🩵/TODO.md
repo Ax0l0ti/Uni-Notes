@@ -218,3 +218,9 @@ Thursday 24 Apr 2025
 21. Introduction to patience diff algorithm for chunking code
 22. Conclusion on efficient problem-solving strategies in algorithm design
 23. Recommendations for further reading on diff algorithms and related topics
+
+```dataview
+LIST
+SELECT FROM #TODO 
+```
+

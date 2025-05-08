@@ -30,7 +30,6 @@
 
 ---
 
-#TODO 
 ## Motion Field and Optical Flow 
 
 Motion Field vs optical flow. 

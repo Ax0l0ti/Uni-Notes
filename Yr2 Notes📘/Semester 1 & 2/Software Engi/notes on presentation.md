@@ -7,26 +7,6 @@
 > > *Teacher*: 
 > > *Resources :*
 
----
-> [!abstract]+ Contents
-> List of headings within this topic
-> > [[#Speed run]]
-> [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
-
---- 
-> [!danger]+ *Speed run*
-> Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
-
----
-
-#TODO 
-
 ## Notes on the random Oral and recorded presentations/Demo
 
 Planning, preparation, practice

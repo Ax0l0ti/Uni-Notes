@@ -11,15 +11,10 @@
 > List of links to notes on Topics within the Module
 > 
 > sub grouping
-> > [[Analysis tools]]
 > [[Software Engi Sem 1 ]]
 > [[Software Engi Sem 2]]
-> > [[git stuff]]
-> > [[notes on presentation]]
-> > 
+> [[notes on presentation]]
 > 
-> Coursework
-> > [[]]
 
 ---
 ### Coursework 100 

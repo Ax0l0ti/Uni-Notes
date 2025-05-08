@@ -47,10 +47,3 @@
 17. Future topics on `eval` and `string to function` in MATLAB
 18. Comparison with Lisp and declarative programming styles
 19. Quadratic intercept and slope concepts.
-
-
-
-
-> [!NOTE/omega] Title
-> Contents
-

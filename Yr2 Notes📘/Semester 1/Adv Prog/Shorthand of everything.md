@@ -1,4 +1,4 @@
-# Shorthand of everything Cheat Sheet
+# Shorthand of Adv Prog Cheat Sheet
 ---
 > [!info]+ Module Details
 > Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
@@ -8,10 +8,12 @@
 > 
 
 ---
-### Equations and phrases
-**Structure :** (Topic) Phrase
-#### Phrases
-Imperative creates imperative exact method, Declarative declares a goal and calls method
+
+Arguably the most useless module I have ever studied yet including a levels
+
+Brilliant Book recommendation of Godel Escher Bach 🩷🩷🩷
+
+Exam done, but shoulda put ancient laguanges in here 
 
 ---
 ### Imperative Programming
@@ -47,5 +49,5 @@ console.log(longPasswords); // logs ["freecodecamp", "mypassword123"]
 Here, the code declares the intention to filter the list of passwords, leaving the implementation details to the filter method.
 
 ---
-#TODO Need to include reference vs value, look at test prep lec
+
 [[Grail 🩷]]
