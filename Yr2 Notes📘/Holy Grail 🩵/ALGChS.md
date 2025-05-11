@@ -18,27 +18,18 @@
 > - **Algorithm Analysis**: Best/Worst/Average Case, Time, Space, Big-O, Big-Θ, Big-Ω, Loop Invariants  
 > - **Sorting & Searching**: Selection Sort, Insertion Sort, Merge Sort, Quicksort, HeapSort, TreeSort, BFS, DFS, Dijkstra, Floyd-Warshall, Kruskal  
 > - **Special Topics**: Ackermann Function, Inverse Ackermann, Polyalgorithms, Cache Efficiency, Crossover Points
+> 
 
 ---
 
-Master Theorem
 
-### Equations and phrases
-**Structure :** (Topic) Phrase
-AVL, BST 
-Load Factor
-Probing
-AVL rotation
-polyalgorithms
-
-#### Phrases
 Loop invariant is proof statement true before and after loop iteration
 Floyd-Warshall
 Dijkstra 
-#### Equations
-Master theorem for recursion
-e.g 
+
+
 $$\begin{aligned}
+&\text{Master Theorem} \\
 &\text{$a$ is req subproblems per layer, $b$ is rate of dividing (e.g div\&con b = 2)}  \\\\
 &T(n) = aT(n/b)+ f(n) \\
 &where \ f() \text{ is the recursive function O()} 

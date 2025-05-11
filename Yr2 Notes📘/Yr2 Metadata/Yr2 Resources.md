@@ -94,7 +94,7 @@ Cheat sheet - [[HCIChS]]
 ---
 # Cybersecurity
 [[Cyber Security|CyberSec]]
-Cheat sheet - [[CYBChS]]
+Cheat sheet - [[Yr2 Notes📘/Holy Grail 🩵/CYBChS]]
 
 | Semester  | Exam Status  |
 | --------- | ------------ |

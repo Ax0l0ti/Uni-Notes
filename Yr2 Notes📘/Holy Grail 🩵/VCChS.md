@@ -41,33 +41,33 @@
 # Exam breakdown
 
 > [!danger]+ Exam
-> 30/70 Sl/S2
-> **14** Convolution and Filtering
-> 2D Transformations and Image Warping
-> **4**   Fourier Transforms
-> **12** SIFT, 3D transformations, and curves
-> **10** Optical Flow and Tracking
-> **15** Graphics
-> **30** Matching
-> **15** Deep learning
-**This course is assessed 60% by coursework (in three phases) and 40% by examination.**#
+> | **S1 30%**                                                                                                                                             | **S2 70%**                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
+| **14** Convolution and Filtering<br>2D Transformations and Image Warping <br>**4**   Fourier Transforms<br>**12** SIFT, 3D transformations, and curves | **10** Optical Flow and Tracking<br>**15** Graphics<br>**30** Matching<br>**15** Deep learning |
+
+#### S1 
+**14** Convolution and Filtering
+• 2D Transformations and Image Warping
+**4** Fourier Transforms
+**12** SIFT, 3D transformations, and curves
+
+#### S2 
 
 **10** Optical Flow and Tracking:
-- Optical Flow, (Equations related to Motion Field, Computing Partial Derivatives are NOT required to be remembered)
-- Tracking, (Equations related to Epanechnikov Kernel, Similarity metrics for Minimum Normalised Cross-Correlation are Not required to be remembered) 
+- Optical Flow(Equations Motion Field, Computing Partial Derivatives are **NOT** REQ)
+- Tracking (Eqs for Epanechnikov Kernel, Similarity metrics for Minimum Normalised Cross-Correlation are **NOT** REQ) 
 **15** Graphics:
 - Mesh, Lighting, Reflection, Ray-tracing,- Graphics pipeline, Vertex processing, Clipping, Rasterisation, Painter’s algorithm, The z-buffer algorithm,- Keyframe Animation, Motion Capture, Rigging
 **30** Matching:
-- template matching, (Equations related to Normalized Cross Correlation Function are Not required to be remembered)
-- least square matching, (Equations related to least square line fitting are Not required to be remembered)
-- Harris corner detector, descriptor,
-- feature matching, RANSAC
-- window-based matching, scanline stereo (Contents related to SGM are Not required to be remembered) 
+- template matching, (Eqs related to Normalized Cross Correlation Function are **NOT** REQ)
+- least square matching, (Eqs related to least square line fitting are **NOT** REQ)
+- Harris corner detector, descriptor, feature matching, RANSAC
+- window-based matching, scanline stereo (Contents related to SGM are **NOT** REQ) 
 **15** •Deep learning:
 - forward propagation,
-- back propagation, (Equations related to loss and loss minimisation are Not required to be remembered)
+- back propagation, (Eqs loss and loss minimisation are **NOT** REQ)
 - fully connected network, 
-- Convolutional neural network (Equations related to local contrast normalisation are Not required to be remembered)
+- Convolutional neural network Eqs local contrast normalisation are **NOT** REQ)
 - Recurrent neural network (Only concepts, no equations)
 
 

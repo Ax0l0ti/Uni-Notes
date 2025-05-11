@@ -42,17 +42,9 @@ title: Machine Learning Y2425-CM22009 Key Terms
 ---
 
 
-> [!heart] Exam Format
-> 60 Marks
-> Multiple Choice
-> **10** General ML : training, hypothesis functions, MLOps, problem types
-> Short Ans
-> **15** Supervised 
-> **15** Unsupervised
-> **15** Deep Learning & NN Arch
-> Short-Med Ans Question   
-> **5** Legal, Ethical, Professinal and Socials
-> 
+> [!heart]+ Exam Format
+> ![[ML Exam Format.png]]
+> ![[MLexamSupervised.png]]
 
 
 ---
