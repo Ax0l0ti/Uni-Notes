@@ -98,8 +98,9 @@
 > - **Harris Corner Detector**: Measures change of intensity in all directions.
 >     
 > - **SIFT**: Scale-Invariant Feature Transform for detecting and describing local features.
->     
-> - **Gradient**: Rate of change of intensity.
+> - Scale, Rotation and Illumination Resistance 
+> - Robust to Noise 
+> - varying levels of $\sigma$ gaussian blur, uses local neighbourhood gradients to assign object vectors
 >     
 
 > [!example]+ Mid-Level Computer Vision

@@ -45,7 +45,7 @@ title: Machine Learning Y2425-CM22009 Key Terms
 > [!heart]+ Exam Format
 > ![[ML Exam Format.png]]
 > ![[MLexamSupervised.png]]
-
+> ![[MLexamUnsupervised.png]]
 
 ---
 ## 🧮 Definitions by Topic
