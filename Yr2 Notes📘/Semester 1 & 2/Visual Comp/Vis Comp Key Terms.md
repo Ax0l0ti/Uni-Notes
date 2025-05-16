@@ -7,7 +7,7 @@
 > > **Date:** 26-04-2025  
 > > **Module:** [[Visual Computing]]  
 > > **Teacher:** #Chatted  
-> > **Resources:** Lecture notes, coursework, recommended readings
+> > **Resources:** Lecture notes, coursework
 
 ---
 
