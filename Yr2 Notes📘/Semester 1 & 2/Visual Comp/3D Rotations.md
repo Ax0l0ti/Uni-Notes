@@ -66,6 +66,7 @@ This can be done with any number of 3 combinations. E.g 2 rotations in $x$ and 1
 An example of this can be seen below
 ![[Rotation Combination.png]]
 
+----
 ### Rotation Redundancy
 
 Whilst there is $3^3$ possible combinations for $x, y, z$, it is redundant to do 2 rotations of the same axis multiple times in a row

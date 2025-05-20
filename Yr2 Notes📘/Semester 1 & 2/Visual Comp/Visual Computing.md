@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
 > > *Module :* [[Visual Comp]]
 > > *Teacher*: Da Chen, Michael Yang, Deblina BHattacharjee
-> > *Resources :* [Devious Theft](https://youtube.com/@firstprinciplesofcomputerv3258?si=13w-fqmlju8KlZ_s) [fpcv.cs.columbia.edu](https://fpcv.cs.columbia.edu/)
+> > *Resources :* [Devious Theft](https://youtube.com/@firstprinciplesofcomputerv3258?si=13w-fqmlju8KlZ_s) [fpcv.cs.columbia.edu](https://fpcv.cs.columbia.edu/) [Computer Vision: Algorithms and Applications | SpringerLink](https://link.springer.com/book/10.1007/978-3-030-34372-9)
 
 ---
 > [!abstract]+ Contents

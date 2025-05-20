@@ -61,7 +61,7 @@
 **30** Matching:
 - template matching, (Eqs related to Normalized Cross Correlation Function are **NOT** REQ)
 - least square matching, (Eqs related to least square line fitting are **NOT** REQ)
-- Harris corner detector, descriptor, feature matching, RANSAC
+- Harris corner detector, descriptor, feature matching, RANSAC #TODO
 - window-based matching, scanline stereo (Contents related to SGM are **NOT** REQ) 
 **15** •Deep learning:
 - forward propagation,

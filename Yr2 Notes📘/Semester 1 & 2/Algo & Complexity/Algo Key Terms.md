@@ -98,6 +98,7 @@
 > - **Merge Sort**: Recursive split and merge — $O(n \log n)$.
 > - **Quicksort**: Partition around pivot — Avg: $O(n \log n)$, Worst: $O(n^2)$.
 > - **HeapSort**: Heap-based sorting — $O(n \log n)$.
+> - Create max heap, rem largest item, place in sorted, heapify repeat
 > - **TreeSort**: BST-based sort.
 > - **BFS/DFS**: Graph traversal.
 > - **Dijkstra**: Single-source shortest paths with non-negative weights.
@@ -112,4 +113,5 @@
 > - **Polyalgorithm**: Combines multiple algorithms based on context.
 > - **Cache Efficiency**: Optimization to make memory accesses faster.
 > - **Algorithm Crossover Points**: Switching to faster algorithm depending on input size.
-> - **Kruskal Algorithm** : #todo
+> - **Kruskal Algorithm** : Creates a minimum spanning tree. This appends cheapest unlinked edge
+

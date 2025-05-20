@@ -89,7 +89,9 @@
 > - **Meshes**: Collections of vertices, edges, and faces representing 3D shapes.
 >     
 > - **Textures**: 2D images wrapped onto 3D surfaces.
->     
+
+
+![[Graphics Pipeline.png]]
 
 > [!example]+ Low-Level Computer Vision
 > 
@@ -169,7 +171,7 @@
     
 - [Fourier Transform in Images](https://en.wikipedia.org/wiki/Fourier_transform)
     
-- [Ray Tracing](https://en.wikipedia.org/wiki/Ray_tracing_\(graphics\))
+- [Ray Tracing]([Ray tracing (graphics) - Wikipedia](https://en.wikipedia.org/wiki/Ray_tracing_\(graphics\)))
     
 - [Optical Flow](https://en.wikipedia.org/wiki/Optical_flow)
     
