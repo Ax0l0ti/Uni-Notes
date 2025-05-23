@@ -43,7 +43,7 @@
 > [!danger]+ Exam
 > | **S1 30%**                                                                                                                                             | **S2 70%**                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
-| **14** Convolution and Filtering<br>2D Transformations and Image Warping <br>**4**   Fourier Transforms<br>**12** SIFT, 3D transformations, and curves | **10** Optical Flow and Tracking<br>**15** Graphics<br>**30** Matching<br>**15** Deep learning |
+| **14** Imagine & Display:  Convolution, Filtering, <br>2D transform & Image warping   <br>**4**   Fourier Transforms<br>**12** SIFT, 3D transformations, and curves | **10** Optical Flow and Tracking<br>**15** Graphics<br>**30** Matching<br>**15** Deep learning |
 
 #### S1 
 **14** Convolution and Filtering
@@ -125,11 +125,13 @@
 > - **Edge Detection**: Finding areas of strong intensity change.
 >     
 > - **Harris Corner Detector**: Measures change of intensity in all directions.
+> - make matrix $H$ from $dx^2, dy^2$ and $dx\times dy$, if $C = \det{H} - k (dx^2 dy^2)$
+> - if $pos$, corner, if $neg$, edge if near $0$, flat 
 >     
 > - **SIFT**: Scale-Invariant Feature Transform for detecting and describing local features.
 >     
 > - **Gradient**: Rate of change of intensity.
->     
+> 
 
 > [!example]+ Mid-Level Computer Vision
 > 

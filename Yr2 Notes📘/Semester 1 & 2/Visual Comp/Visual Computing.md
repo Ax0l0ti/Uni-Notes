@@ -64,30 +64,8 @@ Mon 9.15 CB 4.17 12.15, Tue 13.15 lib lev 4 GtA PC
 
 ---
 ## Course Plan Sem 1 & Sem 2
-
+![[Vis Comp S1 Course Plane.png]]
 ![[Vis Comp S1 Course Plan.png]]
-
 ![[Vis Comp S2 Course Plan.png]]
 
 
-
-•Optical Flow and Tracking:
-- Optical Flow, (Equations related to Motion Field, Computing Partial Derivatives are NOT required to be remembered)
-- Tracking, (Equations related to Epanechnikov Kemel, Similarity metrics for Minimum Normalised Cross-Correlation are Not
-required to be remembered)
-•Graphics:
-- Mesh, Lighting, Reflection, Ray-tracing,
-- Graphics pipeline, Vertex processing, Clipping, Rasterisation, Painter's algorithm, The z-buffer algorithm,
-- Keyframe Animation, Motion Capture, Rigging
-•Matching:
-- template matching, (Equations related to Normalized Cross Correlation Function are Not required to be remembered)
-- least square matching, (Equations related to least square line fitting are Not required to be remembered)
-- Harris comer detector, descriptor,
-- feature matching, RANSAC,
-- window-based matching, scanline stereo (Contents related to SGM are Not required to be remembered)
-•Deep learning:
-- fomjard propagation,
-- back propagation, (Equations related to loss and loss minimisation are Not required to be remembered)
-- fully connected network,
-- Convolutional neural network (Equations related to local contrast normalisation are Not required to be remembered)
-CM22010 Visual Computing

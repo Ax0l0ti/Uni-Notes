@@ -128,6 +128,7 @@ title: Machine Learning Y2425-CM22009 Key Terms
 > - **Emergent Behavior**: Unexpected capabilities in large LMs.
 > - **Hallucination**: Confident but factually incorrect output.
 
-Misilanious
-ML lifecycle
-![[ML lifecycle.png]]
+
+> [!flower] Miscellaneous
+> ML lifecycle ![[ML lifecycle.png]]
+> 
