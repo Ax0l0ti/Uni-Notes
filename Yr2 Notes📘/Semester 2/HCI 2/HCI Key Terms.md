@@ -53,6 +53,7 @@
 > - **Friedman Test**: Non-parametric alternative to repeated measures ANOVA. 
 > - **GLMM**: Models with fixed and random effects for non-normal data.
 > - **Permutation Test**: Resamples data to test hypotheses without parametric assumptions.
+> - [9A_Non-parametric Statistics.pptx](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fbath-prod-sss1.s3.eu-west-1.amazonaws.com%2F8c%2F5e%2F8c5e8d9b10fdabade4e028c2cf48c15bc47c7ea4%3Fresponse-content-disposition%3Dinline%253B%2520filename%253D%25229A_Non-parametric%2520Statistics.pptx%2522%26response-content-type%3Dapplication%252Fvnd.openxmlformats-officedocument.presentationml.presentation%26X-Amz-Content-Sha256%3DUNSIGNED-PAYLOAD%26X-Amz-Algorithm%3DAWS4-HMAC-SHA256%26X-Amz-Credential%3DAKIAJBFBMNJTZPM2NVZA%252F20250528%252Feu-west-1%252Fs3%252Faws4_request%26X-Amz-Date%3D20250528T163055Z%26X-Amz-SignedHeaders%3Dhost%26X-Amz-Expires%3D21545%26X-Amz-Signature%3D1092c40123410130533658aa82321b316de2d0010d08e88960326b3bf604bb54&wdOrigin=BROWSELINK)
 
 > [!info]+ Data Types
 > - **Nominal**: Named categories (e.g., gender).
@@ -63,6 +64,7 @@
 > - **Continuous**: Can take any numeric value.
 > - **Qualitative**: Descriptive data.
 > - **Quantitative**: Numeric data.
+> - ![[DatatypesQualVsQuant.png]]
 
 > [!success]+ Input & Performance Models
 > - **Fitts’ Law**: $T = a + b \log_2\left(\frac{D}{W} + 1\right)$; predicts time to acquire a target.
