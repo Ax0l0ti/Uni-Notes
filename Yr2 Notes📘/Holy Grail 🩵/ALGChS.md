@@ -3,7 +3,7 @@
 > [!info]+ Module Details
 > Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
 > *Module Tag :* (ModCode :: CM22008) 
-> *Link :* [[Algorithms and Complexity]]
+> *Link :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---

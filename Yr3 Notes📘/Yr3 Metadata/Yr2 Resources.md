@@ -2,7 +2,7 @@
 ---
 > [!info]+ Linked Modules for Resources
 > Detailed Modules & Codes : 
-> > [[Yr2 Notes📘/Yr2 Metadata/Yr2 Module Codes]]
+> > [[Yr 3 Module Codes]]
 > 
 | Software Eng | Algorithms & Complexity | Machine Learning | Visual Computing | HCI 1    | Advanced Prog | HCI 2    | Cybersecurity |
 | ------------ | ----------------------- | ---------------- | ---------------- | -------- | ------------- | -------- | ------------- |
@@ -11,7 +11,7 @@
 ***Examined*** - [[Yr2 Notes📘/Holy Grail 🩵/ALGChS]]  [[Yr2 Notes📘/Holy Grail 🩵/VCChS]]  [[APChS]] [[Yr2 Notes📘/Holy Grail 🩵/HCIChS]] 
 
 [[About 2 📘]]
-[[Yr2 Notes📘/Yr2 Metadata/Yr2 PDFS]]
+[[Yr3 Notes📘/Yr3 Metadata/Yr2 PDFS]]
 
 ---
 ##### Contents: 

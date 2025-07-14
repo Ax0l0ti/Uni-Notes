@@ -11,22 +11,22 @@
 > List of links to notes on Topics within the Module
 > Semester 1
 > > Computer Vision
-> >[[Images & Colours]]
-> >[[Camera & Lenses]]
+> >[[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Images & Colours]]
+> >[[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Camera & Lenses]]
 > > Images
-> > [[Noise & Image Dehazing]]
-> > [[Image Dehazing Method]]
-> > [[Fourier]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Noise & Image Dehazing]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Image Dehazing Method]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier]]
 > > Modelling 
-> > [[2D Rotations]]
-> > [[3D Rotations]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/2D Rotations]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations]]
 > > Rendering
-> > [[Curves]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Curves]]
 > > [[]]
 > 
 > Semester 2
-> > [[Optical Flow]]
-> > [[WebGL]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Optical Flow]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/WebGL]]
 > 
 > Coursework
 > > [[Sem2 VisComp CW]]

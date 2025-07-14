@@ -32,7 +32,7 @@ e.g $δ \space q0 \times a → q1 \times b \times L$
 
 > [!omega] Title 
 > This was a speedrun, proper noting is here:
-Links to [[Turing Machine in Automata]]
+Links to [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata]]
 
 
 ## ChatGPT notes 
@@ -79,7 +79,7 @@ IF YOU REALLY READING THIS JUST GO TO YR2 BRO
 
 ##### 6. Turing Machines:
 
-- Turing Machines are a more powerful computational model than [[Finite Automata & Regular Languages|Finite State Machines]].
+- Turing Machines are a more powerful computational model than [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages|Finite State Machines]].
 - Consists of an infinite tape, a read/write head, and a finite set of states.
 - Can simulate the logic of any algorithm and solve problems that FSMs cannot.
 

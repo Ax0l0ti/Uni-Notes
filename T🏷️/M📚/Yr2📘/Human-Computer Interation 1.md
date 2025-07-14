@@ -8,4 +8,4 @@ aliases:
 > [!info]+ Module Details
 > Includes information about this Module related (genus:: Tag)
 > > *Module ID:* **CM22011**
-> > *Main Page*: [[HCI 1]]
+> > *Main Page*: [[Yr2 Notes📘/Semester 1/HCI 1/HCI 1]]

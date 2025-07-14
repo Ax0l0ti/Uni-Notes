@@ -10,15 +10,15 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > I kid you not, most useless module known to man. 
-> > [[Turing Machine in Automata]]
-> [[ChatGPT's Opinion on Sem1 Adv Prog]]
-> [[Shorthand of everything]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata]]
+> [[Yr2 Notes📘/Semester 1/Adv Prog/ChatGPT's Opinion on Sem1 Adv Prog]]
+> [[Yr2 Notes📘/Semester 1/Adv Prog/Shorthand of everything]]
 > > [[The C programming language]]
 > > [[Python]]
-> > [[Library Design]]
-> > [[MATLAB]]
-> > [[Dynamic Memory Allocation]]
-> > [[Adv Prog content Listed]]
+> > [[Yr2 Notes📘/Semester 1/Adv Prog/Library Design]]
+> > [[Yr2 Notes📘/Semester 1/Adv Prog/MATLAB]]
+> > [[Yr2 Notes📘/Semester 1/Adv Prog/Dynamic Memory Allocation]]
+> > [[Yr2 Notes📘/Semester 1/Adv Prog/Adv Prog content Listed]]
 
 > 
 > 

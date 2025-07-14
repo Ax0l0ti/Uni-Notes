@@ -11,17 +11,17 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > Semester 1
-> > [[Finite Automata & Regular Languages]]
-> [[Pumping Lemma]]
-> > [[How to use the Pumping Lemma]]
-> > [[Pushdown Automata]]
-> > [[Turing Machine in Automata]]
-> > [[Church-Turing Thesis]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Finite Automata & Regular Languages]]
+> [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pumping Lemma]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/How to use the Pumping Lemma]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Pushdown Automata]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Turing Machine in Automata]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Church-Turing Thesis]]
 > 
 > Semester 2 
-> > [[Sem 2 Breakdown Alg&C]]
-> > [[Complexity]]
-> > [[Sorting]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Complexity]]
+> > [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting]]
 > > [[]]
 
 

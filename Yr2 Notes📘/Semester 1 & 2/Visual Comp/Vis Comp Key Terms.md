@@ -5,7 +5,7 @@
 > [!info]+ File Details
 > 
 > > **Date:** 26-04-2025  
-> > **Module:** [[Visual Computing]]  
+> > **Module:** [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing]]  
 > > **Teacher:** #Chatted  
 > > **Resources:** Lecture notes, coursework
 

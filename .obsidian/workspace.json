@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a8bcefdee2ad605f",
+        "id": "8ab4769c8e90e052",
         "type": "tabs",
         "children": [
           {
-            "id": "bd0193609f27438e",
+            "id": "5c091e177695bf9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Semester 2/HCI 2/HCI Key Terms.md",
+                "file": "Templates🧬/Cheat Sheet 🩷.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HCI Key Terms"
+              "title": "Cheat Sheet 🩷"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gimbal",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,12 +163,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,57 +179,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd0193609f27438e",
+  "active": "5c091e177695bf9d",
   "lastOpenFiles": [
-    "Yr2 Notes📘/Semester 2/HCI 2/HCI 2.md",
     "Yr2 Notes📘/Semester 2/HCI 2/HCI Key Terms.md",
-    "Attachments/DatatypesQualVsQuant.png",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/CYBChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/HCIChS.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity.md",
+    "Templates🧬/Cheat Sheet 🩷.md",
+    "Templates🧬/Module 📚.md",
+    "Templates🧬/Mutiline maths & Matrix.md",
+    "Templates🧬/Notes 📝.md",
+    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Vis Comp Key Terms.md",
+    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sorting.md",
+    "Templates🧬/all callout block.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/ML Sexy Key Terms.md",
+    "Yr2 Notes📘/Holy Grail 🩵/HCIChS.md",
+    "Yr2 Notes📘/Holy Grail 🩵/TODO.md",
+    "Untitled.canvas",
+    "Syncing & Personals/Todos.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
+    "Yr3 Notes📘/Yr3 Metadata/Yr 3 Exam Periods and weightings.md",
+    "Yr3 Notes📘/Semester 2/Business",
+    "Yr3 Notes📘/Semester 1 & 2/Reinforcement L",
+    "Yr3 Notes📘/Semester 1 & 2/Untitled.md",
+    "Yr3 Notes📘/Semester 1 & 2/Adv Vision",
+    "Yr3 Notes📘/Semester 1 & 2/Adv Graphics",
+    "Yr3 Notes📘/Semester 1 & 2/Proj",
+    "Yr3 Notes📘/Yr3 Metadata/Yr 3 Module Codes.md",
+    "Yr3 Notes📘/Yr3 Metadata/Yr2 PDFS.md",
+    "Yr3 Notes📘/Holy Grail 🩵/TODO.md",
+    "Yr3 Notes📘/Yr3 Metadata/Yr2 Resources.md",
+    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
+    "Yr2 Notes📘/Yr2 Metadata/Yr2 PDFS.md",
+    "Yr3 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Yr3 Notes📘/Holy Grail 🩵/VCChS.md",
+    "Yr3 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
+    "Yr3 Notes📘/Semester 2/Cybersecurity/card.txt",
+    "Yr3 Notes📘/Semester 1/HCI 1",
+    "Yr3 Notes📘/Semester 1/Complexity",
+    "Yr3 Notes📘/Semester 1 & 2/Software Engi",
+    "Yr3 Notes📘/Semester 1 & 2/Visual Comp",
+    "Attachments/DatatypesQualVsQuant.png",
     "Attachments/Vis Comp S1 Course Plan.png",
     "Attachments/Vis Comp S1 Course Plane.png",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/ML Sexy Key Terms.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algo Key Terms.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/3D Rotations.md",
     "Attachments/Graphics Pipeline.png",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/WebGL.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing Terms.md",
-    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "Attachments/MLexamUnsupervised.png",
     "Attachments/Y2 ML sem 2 P1 Georgios.png",
     "Attachments/Y2 ML sem 2 P1 Georgios.png",
     "Attachments/MLexamSupervised.png",
     "Attachments/ML Exam Format.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Recurrent NN.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Naïve bayes.md",
-    "Yr2 Notes📘/Holy Grail 🩵/TODO.md",
-    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Sem 2 Breakdown Alg&C.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cyber CW Initial Planning.md",
-    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
-    "Yr2 Notes📘/Yr2 Metadata/Yr2 PDFS.md",
-    "Untitled.canvas",
-    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
-    "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN1.pdf",
-    "Yr1 Notes📗/Semester 1 & 2/Architecture/CSysArchLN2.pdf",
     "Attachments/ML lifecycle.png",
-    "Attachments/WN_HAR.har",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/card.txt",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/New Text Document.txt",
-    "Attachments/Payment Card Exercise2025-untracked.pdf",
-    "Attachments/Latex Cheatsheet.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCLN.pdf",
-    "Yr1 Notes📗/Semester 2/M 4 Comp/MfCCW1.pdf",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
-    "Syncing & Personals/Playground 🛝/other lectures",
     "Untitled 2.canvas"
   ]
 }

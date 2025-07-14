@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  11-11-2024
-> > *Module :* [[Advanced Programming]]
+> > *Module :* [[Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming]]
 > > *Teacher*: 
 > > *Resources :*
 

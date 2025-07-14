@@ -3,7 +3,7 @@
 ---
 
 Results of Code - 
-[[Kill me]]
+[[Yr2 Notes📘/Semester 2/Cybersecurity/Kill me]]
 
 Webnovel directed to - 
 [Cloudary Holdings Limited](https://checkout.stripe.com/c/pay/cs_live_a1TQSQf7AvN7hiobgasm5U93WIT5ZHW6sKJJXTL59UEdKXCZy95awLDWfg#fidkdWxOYHwnPyd1blppbHNgWlJuPDFMMzBfV2Bgb2xVYWpDY1B3S0x8UzU1dn9ANn8zc1UnKSdobGF2Jz9%2BJ2hwbGEnPydLRCcpJ3ZsYSc%2FJ0tEJyknYnBsYSc%2FJ0tEJ3gpJ2dgcWR2Jz9eWCknaWR8anBxUXx1YCc%2FJ3Zsa2JpYFpscWBoJyknd2BjYHd3YHdKd2xibGsnPydtcXF1dj8qKnVkfCtyYGdranNgaStmamgneCUl)

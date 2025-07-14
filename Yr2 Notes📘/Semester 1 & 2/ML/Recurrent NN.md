@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  14-04-2025
-> > *Module :* [[Machine Learning]]
+> > *Module :* [[Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning]]
 > > *Teacher*: 
 > > *Resources :*
 

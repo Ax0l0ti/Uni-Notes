@@ -8,5 +8,5 @@ aliases:
 > [!info]+ Module Details
 > Includes information about this Module related (genus:: Tag)
 > > *Module ID:* **CM22009**
-> > *Main Page*: [[Machine Learning]]
+> > *Main Page*: [[Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning]]
 

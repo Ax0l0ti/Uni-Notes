@@ -8,4 +8,4 @@ aliases:
 > [!info]+ Module Details
 > Includes information about this Module related (genus:: Tag)
 > > *Module ID:* **CM22014**
-> > *Main Page*: [[Cybersecurity]]
+> > *Main Page*: [[Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity]]

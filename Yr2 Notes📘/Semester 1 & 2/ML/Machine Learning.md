@@ -11,20 +11,20 @@
 > [!abstract]+ Contents
 > List of links to notes on Topics within the Module
 > Semester 1
-> > [[Supervised Learning Yr2]]
-> > [[Logistic Regression]]
-> > [[Naïve bayes]]
-> > [[Random Forest]] 
-> > [[Data Engineering]]
-> > [[Distance Metrics]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Supervised Learning Yr2]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Logistic Regression]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Naïve bayes]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Random Forest]] 
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Data Engineering]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Distance Metrics]]
 > > Post week 6
-> > [[Principal Component Analysis]]
-> > [[Stats & Covariance]]
-> > [[Gaussian Mixture Models]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models]]
 > 
 > Semester 2
-> > [[Sem 2 Breakdown ML]]
-> > [[Recurrent NN]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML]]
+> > [[Yr2 Notes📘/Semester 1 & 2/ML/Recurrent NN]]
 > > [[Natural Language Processing]]
 > > [[Deep Learning]]
 > > 

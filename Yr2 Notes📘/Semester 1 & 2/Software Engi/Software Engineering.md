@@ -11,9 +11,9 @@
 > List of links to notes on Topics within the Module
 > 
 > sub grouping
-> [[Software Engi Sem 1 ]]
+> [[Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1]]
 > [[Software Engi Sem 2]]
-> [[notes on presentation]]
+> [[Yr2 Notes📘/Semester 1 & 2/Software Engi/notes on presentation]]
 > 
 
 ---

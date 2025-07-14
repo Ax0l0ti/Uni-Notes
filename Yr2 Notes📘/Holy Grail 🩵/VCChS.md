@@ -3,7 +3,7 @@
 > [!info]+ Module Details
 > Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
 > *Module Tag :* (ModCode :: CM22010) 
-> *Link :* [[Visual Computing]]
+> *Link :* [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 
 > [!abstract]+ Contents
@@ -45,12 +45,6 @@
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | **14** Imagine & Display:  Convolution, Filtering, <br>2D transform & Image warping   <br>**4**   Fourier Transforms<br>**12** SIFT, 3D transformations, and curves | **10** Optical Flow and Tracking<br>**15** Graphics<br>**30** Matching<br>**15** Deep learning |
 
-#### S1 
-**14** Convolution and Filtering
-• 2D Transformations and Image Warping
-**4** Fourier Transforms
-**12** SIFT, 3D transformations, and curves
-
 #### S2 
 
 **10** Optical Flow and Tracking:
@@ -61,7 +55,7 @@
 **30** Matching:
 - template matching, (Eqs related to Normalized Cross Correlation Function are **NOT** REQ)
 - least square matching, (Eqs related to least square line fitting are **NOT** REQ)
-- Harris corner detector, descriptor, feature matching, RANSAC #TODO
+- Harris corner detector, descriptor, feature matching, RANSAC 
 - window-based matching, scanline stereo (Contents related to SGM are **NOT** REQ) 
 **15** •Deep learning:
 - forward propagation,

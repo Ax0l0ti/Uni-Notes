@@ -11,13 +11,13 @@
 > List of links to notes on Topics within the Module
 > 
 > sub grouping
-> > [[intro to cyber]]
-> [[Protocols]]
-> [[Cloud Computing]]
+> > [[Yr2 Notes📘/Semester 2/Cybersecurity/intro to cyber]]
+> [[Yr2 Notes📘/Semester 2/Cybersecurity/Protocols]]
+> [[Yr2 Notes📘/Semester 2/Cybersecurity/Cloud Computing]]
 > > [[Data Laws]]
 > 
 > Coursework
-> > [[Cyber CW Initial Planning]]
+> > [[Yr2 Notes📘/Semester 2/Cybersecurity/Cyber CW Initial Planning]]
 > > 
 
 

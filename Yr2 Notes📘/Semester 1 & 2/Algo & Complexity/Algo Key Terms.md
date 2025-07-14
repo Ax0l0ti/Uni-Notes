@@ -2,7 +2,7 @@
 ---
 > [!info]+ File Details
 > > *Date :*  26-04-2025  
-> > *Module :* [[Algorithms and Complexity]]  
+> > *Module :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]  
 > > *Teacher*: #Chatted  
 > > *Resources :*  
 

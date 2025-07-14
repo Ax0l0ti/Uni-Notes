@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  01-02-2025
-> > *Module :* [[Machine Learning]]
+> > *Module :* [[Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -20,7 +20,7 @@
 
 > [!leaf]+ Sem 2 Topic Branches
 > 
-> Below is the list of topics contained within [[Machine Learning]] for Semester 2 topics
+> Below is the list of topics contained within [[Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning]] for Semester 2 topics
 > - Deep learning & Supervised Learning
 > - Shallow Neural Networks
 > - Deep Neural Networks

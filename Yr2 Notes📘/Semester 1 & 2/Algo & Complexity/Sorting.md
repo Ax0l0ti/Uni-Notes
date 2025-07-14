@@ -3,7 +3,7 @@
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  11-02-2025
-> > *Module :* [[Algorithms and Complexity]]
+> > *Module :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -11,10 +11,8 @@
 > [!abstract]+ Contents
 > List of headings within this topic
 > > [[#Speed run]]
-> [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
+> [[#Master theorem]]
+
 
 --- 
 > [!danger]+ *Speed run*
@@ -26,8 +24,6 @@
 > $c)$ - Master Theorem
 
 ---
-
-#TODO 
 
 ## Sorting Algorithms
 
@@ -71,5 +67,22 @@ Proof:
 correctly maintains the sorted order. 
 
 Loop invariants are crucial in proving the correctness of algorithms like selection sort, insertion sort, and mergesort.
+
+--- 
 ## Master theorem
 
+
+
+$$\begin{aligned}
+&\text{Master Theorem} \\
+&\text{$a$ is req subproblems per layer, $b$ is rate of dividing (e.g div\&con b = 2)}  \\\\
+&T(n) = aT(n/b)+ f(n) \\
+&where \ f() \text{ is the recursive function O()} 
+\end{aligned}
+$$
+$$\begin{align}  
+&\text{Master Theorem (simplified) Theorem. Given the above recurrence, let $c = log_ba$.}\\ &1. \ \text{If $f(n)$ grows slower than $O(n^c)$ then $T(n) = Θ(n^c)$.}\\ & \ \text{2. If $f(n)$ is equal to $Θ(n^c)$ then $T(n) = Θ(n^clogn)$.}\\ &3. \ \text{If $f(n)$ grows faster than $Ω(n^c)$, then T(n) = Θ(f(n)).}
+\end{align}$$
+
+
+Master theorem basically tells us if a recursive's $O(n)$ is based off its ==**branching**== $(case \ 1)$, ==**function**== calls $(case \ 3)$ or ==**both**== equal $(case \ 2)$

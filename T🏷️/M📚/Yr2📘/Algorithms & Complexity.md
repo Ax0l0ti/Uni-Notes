@@ -7,4 +7,4 @@ aliases:
 > [!info]+ Module Details
 > Includes information about this Module related (genus:: Tag)
 > > *Module ID:* **CM22008**
-> > *Main Page*: [[Algorithms and Complexity]]
+> > *Main Page*: [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]

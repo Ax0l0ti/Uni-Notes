@@ -11,8 +11,8 @@
 > List of links to notes on Topics within the Module
 > 
 > > Design Methods
-> > [[Task Analysis]]
-> > [[Absolute Speed Run of HCI1]]
+> > [[Yr2 Notes📘/Semester 1/HCI 1/Task Analysis]]
+> > [[Yr2 Notes📘/Semester 1/HCI 1/Absolute Speed Run of HCI1]]
 > 
 > Coursework
 > [[]]
