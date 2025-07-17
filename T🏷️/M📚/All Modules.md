@@ -13,6 +13,19 @@ list
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 1
 ```
 
+
+Yr3 Notes 
+	Holy Grail
+	Semester 1
+		Complexity
+	Semester 1 & 2
+		Adv Graphics
+		Adv Vision
+		Proj
+		Reinforcement Learning
+	Semester 2
+		Business 
+
 ---
 ## Year 2 Modules
 ```dataview
@@ -21,16 +34,15 @@ FROM ""
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 2
 
 ```
----
-```dataview 
+
+
+> [!example]+ Yr 2 Module Content
+> ```dataview 
 table
 file.outlinks AS "Module Content" 
 FROM ""
 WHERE genus = "Module" & file.name !="Module 📚" & Year = 2 
 
+---
 
 
-```
-
-
-á

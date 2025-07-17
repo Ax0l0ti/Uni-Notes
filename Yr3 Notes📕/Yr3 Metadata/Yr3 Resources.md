@@ -8,10 +8,10 @@
 | ------------ | ----------------------- | ---------------- | ---------------- | -------- | ------------- | -------- | ------------- |
 | CM22007     | CM22008                | CM22009         | CM22010         | CM22011 | CM22012      | CM22013 | CM22014      |
 
-***Examined*** - [[Yr2 Notes📘/Holy Grail 🩵/ALGChS]]  [[Yr2 Notes📘/Holy Grail 🩵/VCChS]]  [[APChS]] [[Yr2 Notes📘/Holy Grail 🩵/HCIChS]] 
+***Examined*** - 
 
 [[About 2 📘]]
-[[Yr3 Notes📘/Yr3 Metadata/Yr2 PDFS]]
+[[Yr3 PDFS]]
 
 ---
 ##### Contents: 

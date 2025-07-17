@@ -1,34 +1,35 @@
 # {{title}} 
 ---
 > [!info]+ Module Details
-> Contains details on this (genus:: Module) from [Year::2]: Module tag, Teacher tags and Resources 
+> Contains details on this (genus:: Module) from [Year::2]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: ) 
 > > *Teacher*: 
 > > *Resources :*
 
 ---
 > [!abstract]+ Contents
-> List of links to notes on Topics within the Module
+> List of links to notes on Topics within the Module (fill in probable topics)
 > 
-> sub grouping
+>Module Sub-Topics
 > > [[]]
 > [[]]
-> [[]]
+> ...
 > > [[]]
 > 
 > Coursework
 > > [[]]
 
 ---
-### Coursework 100 vs 0 Examed
+### Coursework X% vs XX% Examed
 - CW1 - 
 	**Details** - 
-- CW2 - 
+- Exam - 
 	**Details** - 
 ---
 ### Course Description
 
 > [!info]+  Course Description
+> Course Description copied from link (insert Link) 
 > 
 |                        | Content |
 | ---------------------- | ------- |
