@@ -41,16 +41,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+                "file": "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Strat"
+              "title": "CYBChS"
+            }
+          },
+          {
+            "id": "a8eed983233723b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -200,6 +212,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "canvas:Create new canvas": false,
       "graph:Open graph view": false,
       "switcher:Open quick switcher": false,
@@ -208,10 +221,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6539ac67dd9e5077",
+  "active": "a8eed983233723b3",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
+    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
+    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
+    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
     "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
@@ -223,7 +243,6 @@
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Templates🧬/Cheat Sheet 🩷.md",
     "Templates🧬/Module 📚.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "T🏷️/M📚/All Modules.md",
     "T🏷️/S⚙️/YrAbouts/About 3 📕.md",
     "T🏷️/S⚙️/YrAbouts/About 2 📘.md",
@@ -232,12 +251,6 @@
     "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr3 PDFS.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr 3 Module Codes.md",
-    "Templates🧬/Mutiline maths & Matrix.md",
-    "Templates🧬/all callout block.md",
-    "Yr2 Notes📘/Semester 2/HCI 2/HCI Key Terms.md",
-    "Templates🧬/Notes 📝.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
     "Untitled.canvas",
     "Yr3 Notes📕/Semester 2/Business Strategy",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L",
