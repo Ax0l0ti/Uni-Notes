@@ -18,7 +18,7 @@
 
 > [!danger]+ _🕰️ Speed run_
 > 
-> - **Topic**: Key terms 
+> - **Topic**: Keyterm 1, Keyterm 2, Keyterm 3
 >  
 > - **Topic**: Key terms
 > 
@@ -43,7 +43,9 @@
 ( **Can use :** note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug )
 
 > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]+ topic
-> - **Keyterm**: Definition
+> - **Keyterm 1**: Definition 1
+> - **Keyterm 2**: Definition 2
+> - **Keyterm 3**: Definition 3
 
 
 > [!leaf]+ Additional Topics from Learning Outcomes and Unit Description

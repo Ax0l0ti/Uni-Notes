@@ -19,7 +19,7 @@
 
 ---
 ### Coursework 20% vs 80% Examined
-Assessment Detail - Closed-book written examination (EXCB 100% - Qualifying Mark: 40)
+Assessment Detail - Closed-book written examination (EXCB 100% - Qualifying Mark: 40) 
 
 ---
 ### Course Description
