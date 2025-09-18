@@ -14,5 +14,8 @@
   "userIgnoreFilters": [
     "T🏷️/S⚙️/"
   ],
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "spellcheckDictionary": [
+    "smol"
+  ]
 }

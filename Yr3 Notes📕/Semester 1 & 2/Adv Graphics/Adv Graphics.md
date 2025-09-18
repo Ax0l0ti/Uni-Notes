@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32021)
 > > *Teacher*: 
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32021.html)
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32021.html) 
 
 ---
 > [!abstract]+ Contents

@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32022)
 > > *Teacher*: 
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32022.html)
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32022.html) [Computer Vision | Universität Tübingen](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/computer-vision/)
 
 ---
 > [!abstract]+ Contents

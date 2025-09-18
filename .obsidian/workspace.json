@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+                "file": "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Business Strat"
+              "title": "Adv Vision"
+            }
+          },
+          {
+            "id": "1381d8e178c85341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adv Graphics"
             }
           },
           {
@@ -36,35 +50,35 @@
             }
           },
           {
-            "id": "6539ac67dd9e5077",
+            "id": "aa505fb1d6098d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
+                "file": "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CYBChS"
+              "title": "Adv Graphics"
             }
           },
           {
-            "id": "a8eed983233723b3",
+            "id": "5ada2eb002d370a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
+                "file": "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Complexity"
+              "title": "VCChS"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -223,11 +237,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8eed983233723b3",
+  "active": "5ada2eb002d370a0",
   "lastOpenFiles": [
+    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Temp vision.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Temp Graphics.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
+    "README.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Discrete Maths.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Functions (maps).md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of set theory.md",
+    "2.md",
+    "Attachments/Complexity.png",
+    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr3 PDFS.md",
+    "Untitled.canvas",
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Yr3 Notes📕/Holy Grail 💖/BStratChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/CYBChS.md",
     "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
     "Templates🧬/Cheat Sheet 🩷.md",
     "Templates🧬/Module 📚.md",
@@ -236,24 +267,8 @@
     "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Random Forest.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
-    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
-    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
-    "Yr3 Notes📕/Holy Grail 💖/Untitled.md",
-    "Yr3 Notes📕/Holy Grail 💖/VisionChS.md",
-    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
-    "T🏷️/M📚/All Modules.md",
-    "T🏷️/S⚙️/YrAbouts/About 3 📕.md",
-    "T🏷️/S⚙️/YrAbouts/About 2 📘.md",
     "T🏷️/M📚/Yr3📕",
     "T🏷️/M📚/Yr2📘/Untitled",
-    "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
-    "Yr3 Notes📕/Yr3 Metadata/Yr3 PDFS.md",
-    "Untitled.canvas",
     "Yr3 Notes📕/Semester 2/Business Strategy",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision",
@@ -273,7 +288,6 @@
     "Attachments/MLexamSupervised.png",
     "Attachments/ML Exam Format.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
-    "Attachments/ML lifecycle.png",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",
     "Untitled 2.canvas"
