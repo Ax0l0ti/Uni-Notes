@@ -33,6 +33,7 @@
 - mini suncream, zinc suncream
 - razors
 - travel pack (mini body wash)
+- swim shorts
 - Veruca treatment
 - liquid skin
 - nail clippers
@@ -58,6 +59,7 @@
 
 - Big knife
 - smol knifes
+- 2 sets of cutlery, baby spoon
 - 2 baby chop board  
 - 1 big chop board
 - scales
@@ -71,7 +73,7 @@
 - Glass containers
 - freezer bags
 - Can opener
-- 
+- knife sharpener 
 
 #### Food food
 - Manukau
@@ -85,7 +87,7 @@
 - chia seeds
 - W sugar, golden icing, Light muscavado
 - dried chickpea & Lentils
-- 
+
 
 
 > [!example]+ Random ass spices
@@ -110,3 +112,14 @@
 - 3 pairs of disposable flip flops
 - Crocs 
 - Trainers
+
+- 11 Boxers + 4 
+- Sock Pairs 8B + 6W  + 1Smol
+- 12 T-shirt + 4 Tech NO SMART
+-  6 T + 1 Trousers + 3T + 4Shorts + 2PJs1Grey1Green
+-  2 Smart Trou + 2 Shorts 
+
+
+GREEN PJ IN WASH
+
+

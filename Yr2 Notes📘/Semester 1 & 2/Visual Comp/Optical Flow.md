@@ -44,7 +44,8 @@ We **WANT** Optical flow = motion Field but sadly this doesn't always happen
 
 > [!help]+  Motion Fields 
 > Used to find the difference between 2 frames by using perspective projection to relate seen velocity and actual velocity.
-> This is done by taking projected distance along sensor taken from pinhole camera 
+> This is done by taking projected distance along sensor taken from [Pinhole camera - Wikipedia](https://en.wikipedia.org/wiki/Pinhole_camera) 
+> 
 >  ![[Motion Field.png|600]]
 
 > [!flower]+  Optical flow
