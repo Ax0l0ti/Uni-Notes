@@ -1,3 +1,4 @@
+#Chatted 
 Here’s an outline of subtopics + key terms for your **Advanced Computer Graphics** module, plus a list of useful lecture-notes / PDFs for most of the sections to help you pre-learn. If you like, I can also pull together a reading list per week for structured study.
 
 ---
@@ -30,5 +31,3 @@ Here are several good PDFs / lecture slide sets etc., that map to those subtopic
 |**Machine Learning for Graphics & Contemporary Topics**|• Recent papers like _Mesh Convolution with Continuous Filters for 3D Surface Parsing_ include mesh decimation + ML methods. ([arXiv](https://arxiv.org/abs/2112.01801?utm_source=chatgpt.com "Mesh Convolution with Continuous Filters for 3D Surface Parsing")) • _CvxNet: Learnable Convex Decomposition_ – combining implicit / parametric and ML for geometry. ([arXiv](https://arxiv.org/abs/1909.05736?utm_source=chatgpt.com "CvxNet: Learnable Convex Decomposition")) • _BSP-Net: Generating Compact Meshes via Binary Space Partitioning_ – generative / ML geometry. ([arXiv](https://arxiv.org/abs/1911.06971?utm_source=chatgpt.com "BSP-Net: Generating Compact Meshes via Binary Space Partitioning"))|
 
 ---
-
-If you like, I can collect a set of complete lecture course PDFs (from top universities) that cover _all_ these subtopics, and send you download links (or reading plan) so you’re well-prepared. Do you want me to do that?
