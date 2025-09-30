@@ -22,8 +22,21 @@
 
 ---
 ### Coursework 50% vs 50% Examined
-- Examination (EXCB 50%)
-- Creation of advanced graphics software (CWPI 50%)
+- Semester 1 Examination (EXCB 50%)
+- short form & multiple choice
+
+- Semester 2 Creation of advanced graphics software (CWPI 50%) from a random paper covered in Sem 2
+
+---
+### Recommended reading
+
+• Alan Watt, 3D Computer Graphics, Addison-Wesley
+• Kevin Suffern, Ray Tracing from the Ground Up, A. K. Peters
+http://www.raytracegroundup.com
+[Ray Tracing from the Ground Up | Kevin Suffern | Taylor & Francis eBoo](https://www.taylorfrancis.com/books/mono/10.1201/b10675/ray-tracing-ground-kevin-suffern)
+• John A. Vince, Mathematics for Computer Graphics (Undergraduate
+Topics in Computer Science)
+
 ---
 ### Course Description
 

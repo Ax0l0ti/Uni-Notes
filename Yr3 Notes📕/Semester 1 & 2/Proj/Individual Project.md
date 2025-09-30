@@ -10,6 +10,7 @@
 > [!abstract]+ Contents
 > 
 > Module Sub-Topics
+> > [[Project Overview]]
 > > [[Project Planning]]
 > [[Implementation]]
 > [[Evaluation]]
@@ -20,9 +21,20 @@
 > [[Presentation]]
 
 ---
-### Coursework 100% vs 0% Examined
-- Demonstration of Progress (CWVI 10%)
-- Dissertation (CWDI 90% - Qualifying Mark: 40)
+**Submission Dates** 
+Project Proposal Fri 7 November 2025, 8 PM (TBC) 
+Literature, Technology and Data Survey Fri 5 December 2025, 8 PM (TBC) 
+Demonstration of Progress (10%) Mon 16 February 2026, 8 PM (TBC) 
+Dissertation (90%) Fri 1 May 2026, 8 PM (TBC
+
+
+•Weeks 1–3: select project ideas and find a supervisor
+•Weeks 3–6: create Project Proposal and submit it
+•Weeks 6–10 write Literature, Technology and Data Survey and submit it
+
+•From Week 6: start with main project work
+•Week 21: Demonstration of Progress (10% of final grade)
+•End of Semester 2: Dissertation (90% of final grade)
 
 ---
 ### Course Description
