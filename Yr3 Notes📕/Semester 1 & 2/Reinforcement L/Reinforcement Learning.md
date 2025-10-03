@@ -3,8 +3,8 @@
 > [!info]+ Module Details
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32032)
-> > *Teacher*: 
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32032.html) [Reinforcement Learning An Introduction 2nd ed](https://0-lucas.github.io/digital-garden/99.-Books/Reinforcement-Learning,-Second-Edition-_-An-Introduction----Richard-S_-Sutton;-Andrew-G_-Barto-.pdf) [Reinforcement Learning: An Introduction | MIT Press eBooks | IEEE Xplore](https://ieeexplore-ieee-org.ezproxy1.bath.ac.uk/book/6267343)
+> > *Teacher*:  Joshua Evans
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32032.html) [Reinforcement Learning An Introduction 2nd ed](https://0-lucas.github.io/digital-garden/99.-Books/Reinforcement-Learning,-Second-Edition-_-An-Introduction----Richard-S_-Sutton;-Andrew-G_-Barto-.pdf) [Reinforcement Learning: An Introduction | MIT Press eBooks | IEEE Xplore](https://ieeexplore-ieee-org.ezproxy1.bath.ac.uk/book/6267343) 
 
 ---
 > [!abstract]+ Contents
@@ -19,11 +19,15 @@
 ---
 ### Coursework 100% vs 0% Examined
 - Project output Group (CWPG 100%)
+- Create a RL project, First thoughts are "**getting over it**"
+Link to main page of proj - [CM32032: Group Project Work Plan | Home](https://moodle.bath.ac.uk/mod/page/view.php?id=1490558)
+
+![[RL Assessment Breakdown.png]]
 
 ---
 ### Course Description
 
-> [!info]+ Course Description
+> [!info]+ Course Description taken from Bath Catalogue
 > Course Description copied from link 
 > 
 |   | Content  |
@@ -32,26 +36,40 @@
 |**Synopsis:**|You will explore reinforcement learning as a problem-solving method, and how it differs from other fundamental techniques such as supervised and unsupervised learning. You will learn to formulate real-world problems as reinforcement learning problems, to apply basic solution methods, and to appreciate the difficulties involved in large, complex reinforcement learning problems in practice.|
 |**Content:**|Topics covered normally include: dynamic programming, Monte Carlo methods, temporal-difference algorithms, integration of planning and learning, value function approximation, and policy gradient methods.|
 
-
 ---
+## Scraped
 
-## Semester 1 
+> [!omega]+ ## Unit Content
+> 
+> > [!example]+ #### Semester 1
+>>  In the first half of Semester 1, we will cover the following topics:
+> > 1. The reinforcement learning problem.  
+> > 2. Markov decision processes.  MDP
+> > 3. Dynamic programming methods.  
+> > 4. Monte-Carlo methods.  
+> > 5. Temporal-difference methods.  
+> > 6. Planning and n-step methods.  
+> > 
+> > 7. READING WEEK
+> > 
+> > In the second half of Semester 1, we will cover the following topics:  
+> >
+> > 8. Function approximation and generalisation in reinforcement learning.  
+> > 9. Linear function approximated methods.  
+> > 10. Deep reinforcement learning methods.  
+> > 11. Policy-gradient methods.  
+> > 12. Actor-critic methods.  
+> .
+> 
+> > [!abstract]+  ### Semester 2
+> > The symbol contains everything and defaults to note
 
-In the first half of Semester 1, we will cover the following topics:
+--- 
 
-1. The reinforcement learning problem.
-2. Markov decision processes.
-3. Dynamic programming methods.
-4. Monte-Carlo methods.
-5. Temporal-difference methods.
-6. Planning and n-step methods.
+## Unit Convenor
 
-In the second half of Semester 1, we will cover the following topics:
-
-1. Function approximation and generalisation in reinforcement learning.
-2. Linear function approximated methods.
-3. Deep reinforcement learning methods.
-4. Policy-gradient methods.
-5. Actor-critic methods.
-
-## Semester 2
+Joshua Evans -Lecturer and Unit Convenor 
+His research focuses on the problem of skill discovery in hierarchical reinforcement learning. 
+His supervisor is Professor Özgür Şimşek, this unit’s original convenor. 
+My personal website: https://people.bath.ac.uk/jbe25/ 
+The Bath RL Laboratory’s website: https://bathrllab.github.io

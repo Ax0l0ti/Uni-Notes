@@ -35,8 +35,12 @@
 ---
 # 🧠 Definitions by Topic
 
-> [!note]+ SIFT
-> - **Definition**: Scale-invariant feature transform for detecting keypoints
+> [!note]+ Filters
+> - **Histogram Equalisation**: By spreading out the histogram, #todo 
+> - *Cumulative density function* = $\sum_{j=0}^i{p(j)}$ where $p()=\frac{n_i}{n}$ and $n$ is the total number of pixels 
+> - **neighbourhood filter** : Reduces noise by averaging over an area (smooths edges + reduce noise)
+> -
+> 
 
 > [!note]+ CNNs
 > - **Definition**: Convolutional Neural Networks for image processing

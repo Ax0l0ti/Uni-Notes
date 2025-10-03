@@ -5,7 +5,7 @@
 > > *Date :*  15-09-2025
 > > *Module :* [[]]
 > > *Teacher*: 
-> > *Resources :* [Quantum Lec Notes](https://arxiv.org/pdf/1907.09415) [IBM Quantum Computing | Qiskit](https://www.ibm.com/quantum/qiskit)
+> > *Resources :* Entirety of quantum [qclec.pdf](https://www.scottaaronson.com/qclec.pdf) AI recs [Quantum Lec Notes](https://arxiv.org/pdf/1907.09415) [IBM Quantum Computing | Qiskit](https://www.ibm.com/quantum/qiskit) 
 
 ---
 > [!abstract]+ Contents

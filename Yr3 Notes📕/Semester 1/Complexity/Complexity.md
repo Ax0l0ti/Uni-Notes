@@ -11,6 +11,7 @@
 > 
 > Module Sub-Topics
 > > [[P vs NP]]
+> > [[Big O]]
 > [[NP-completeness]]
 > [[Reductions]]
 > [[Space Complexity]]
@@ -18,8 +19,10 @@
 > 
 > Coursework
 
+
+
 ---
-### Coursework 20% vs 80% Examined
+### Coursework 0% vs 100% Examined
 Assessment Detail - Closed-book written examination (EXCB 100% - Qualifying Mark: 40) 
 
 ---

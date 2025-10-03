@@ -9,9 +9,8 @@
 
 ---
 
-Arguably the most useless module I have ever studied yet including a levels
-
-Brilliant Book recommendation of Godel Escher Bach 🩷🩷🩷
+Arguably the most useless module I have ever studied yet including a levels EXCEPT from 
+Brilliant Book recommendation of "Godel Escher Bach" 🩷🩷🩷
 
 Exam done, but shoulda put ancient laguanges in here 
 
