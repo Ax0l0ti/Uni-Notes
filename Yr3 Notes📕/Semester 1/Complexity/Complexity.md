@@ -11,7 +11,7 @@
 > 
 > Module Sub-Topics
 > > [[P vs NP]]
-> > [[Big O]]
+> > [[Big O & Complexity Basics]]
 > [[NP-completeness]]
 > [[Reductions]]
 > [[Space Complexity]]

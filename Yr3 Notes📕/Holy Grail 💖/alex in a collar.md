@@ -1,9 +1,9 @@
-# {{title}}
+# alex in a collar
 ---
 > [!info]+ File Details
 > Includes information about this (genus:: Note) from [Year::3]. Contains details on when this was created, what module the note belongs to.
-> > *Date :*  {{date}}
-> > *Module :* [[]]
+> > *Date :*  03-10-2025
+> > *Module :* [[Yr3 Notes📕/Semester 1/Complexity/Complexity|Complexity]]
 > > *Teacher*: 
 > > *Resources :*
 

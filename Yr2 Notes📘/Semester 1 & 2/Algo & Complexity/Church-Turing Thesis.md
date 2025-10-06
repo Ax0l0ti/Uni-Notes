@@ -19,10 +19,9 @@
 --- 
 > [!danger]+ *Speed run*
 > Break down of topic 
-> > $a)$ -  
+> > $a)$ -  Church Turing Thesis - Any algorithm can be ran with a Deterministic TM, any D TM can be ran with an algorithm  [[Finite Automata & Regular Languages]] 
 > $b)$ - 
 > $c)$ - 
-
 ---
 
-#TODO 
+

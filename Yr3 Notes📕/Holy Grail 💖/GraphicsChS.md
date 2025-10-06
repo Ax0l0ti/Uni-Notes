@@ -41,9 +41,24 @@
 > [!note]+ Ray Tracing
 > - **Definition**: Simulates light paths for realistic rendering
 
-> [!leaf]+ Additional Topics
-> - Shadow Mapping
-- Global Illumination
+> [!leaf]+ Vectors & Intersections
+> - For finding if a ray intersects a sphere 
+>$$\begin{align}  
+\text{ for sphere X Y Z, R, substitute Ray =} P_{XY or Z} + tD_{XY or Z} \\\\
+(Px + t * Dx)2 + (Py + t * Dy)2 + (Pz + t * Dz)2 – R2 = 0 \\ 
+\text{expand out and then group like below} = 0\\ 
+(Dx2+Dy2+Dz2) *t2 + (Dx*Px + Dy*Py+ Dz*Pz)*2t + (Px2 + Py2 + Pz2 – R2) = 0 \\ 
+(D.D) * t2 + (D.P) * 2t + (P.P – R2) = 0 \\
+\text{anything dotted w itself = its length squared (think pythag } a^2+b^2=c^2\text{) so D.D = 1}
+\end{align}$$
+> Short form is $b^2 -4ac$ = $(2(D.P))^2 - 4(P.P – R2)$
+> - For finding if a ray intersects a plane 
+> $$\begin{align}  
+  ax+by+cz+d = 0, a^2+b^2 +c^2 = 1, [a, b, c] = Normal N \\
+  \text{Ray =} P_{XY or Z} + tD_{XY or Z} \\
+  t = -\frac{N.P + d}{N.D} \end{align}$$
+
+
 ---
 #TODO
 [[Grail 🩷]]

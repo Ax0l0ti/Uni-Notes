@@ -10,6 +10,7 @@
 > [!abstract]+ Contents
 > 
 > Module Sub-Topics
+> > [[Curves]]
 > > [[Graphics Pipeline]]
 > [[Rasterisation]]
 > [[Ray Tracing]]
@@ -49,3 +50,6 @@ Topics in Computer Science)
 |**Synopsis:**|Building on the skills and knowledge developed in Computer Graphics (year 2), you will explore the theory and practice of advanced computer graphics modelling and rendering techniques. You will learn the principles of animation, interactive and immersive experiences, and will consider established ideas as well as the latest trends in computer graphics, including the application of machine learning.|
 |**Content:**|Advanced modelling: implicit vs parametric surfaces; procedural geometry; constructive solid geometry; mesh decimation. Advanced rendering: The rendering equation; BRDFs; global illumination, advanced textures, non-photorealistic rendering; volume rendering; tone mapping. Animation: Blendshape models; kinematics, skeletons and bones; skinning; motion capture; retargeting; simulation. Interactive and immersive graphics: GPUs; the graphics pipeline; rasterisation; deferred shading; virtual and augmented reality. Machine learning for graphics: generative models; differentiable/inverse rendering; rendering; adaptive tools; just-in-time rendering and denoising. Contemporary topics in computer graphics.|
 
+---
+
+![[Adv Graphics S1.png]]

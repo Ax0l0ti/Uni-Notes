@@ -47,7 +47,7 @@
 
 ![[Hermite Explanation.png|500]]
 
-
+---
 ## Bezier
 
 ![[Pasted image 20241127112813.png|500]]
