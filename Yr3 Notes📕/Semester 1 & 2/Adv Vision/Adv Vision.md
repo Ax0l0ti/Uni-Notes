@@ -11,7 +11,7 @@
 > 
 > Module Sub-Topics
 > > [[Fourier]]
-> [[Feature Detection]]
+> [[Edge Detection]]
 > [[Deep Learning]]
 > [[Segmentation]]
 > [[Recognition]]
@@ -46,6 +46,7 @@
 ▪ Linear Filters* 
 ▪ Edge Detection* 
 ▪ Interest Points* 
+
 ▪ NN based Vision 
 ▪ Template Matching 
 ▪ Vision Transformer 
@@ -55,3 +56,4 @@
 ▪ Segmentation
 
 Histogram Equalisation
+

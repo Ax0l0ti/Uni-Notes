@@ -1,7 +1,6 @@
 [1907.09415](https://arxiv.org/pdf/1907.09415)
 
-
-# Inventory
+# 3rd Year Inventory
 ---
 ### Bedding / Bigs
 - Blue blanket

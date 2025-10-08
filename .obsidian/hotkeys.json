@@ -55,10 +55,9 @@
   "editor:insert-callout": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
-      "key": "C"
+      "key": "Q"
     }
   ]
 }

@@ -62,3 +62,8 @@
 ---
 #TODO
 [[Grail 🩷]]
+
+
+Words to add 
+Barycentric Coordinates
+OBJ

@@ -36,10 +36,11 @@
 # 🧠 Definitions by Topic
 
 > [!note]+ Filters
-> - **Histogram Equalisation**: By spreading out the histogram, #todo 
+> - **Histogram Equalisation**: By spreading out the histogram, this ramps up the contrast [Histogram equalization - Wikipedia](https://en.wikipedia.org/wiki/Histogram_equalization) ![[Pasted image 20251007172416.png|100]]
 > - *Cumulative density function* = $\sum_{j=0}^i{p(j)}$ where $p()=\frac{n_i}{n}$ and $n$ is the total number of pixels 
 > - **neighbourhood filter** : Reduces noise by averaging over an area (smooths edges + reduce noise)
-> -
+> - Low Pass Filters REMOVE High Frequency e.g Gaussian Filter (sum to 1)
+> - Derivative Filters can calculate Edge detection e.g Deriv of Gauss, (sum to 0)
 > 
 
 > [!note]+ CNNs
