@@ -17,8 +17,11 @@
 --- 
 > [!danger]+ 🕰️* Speed run*
 > Break down of topic 
-> - p1
-> - p2
+> - **Perlin noise**: [Perlin noise - Wikipedia](https://en.wikipedia.org/wiki/Perlin_noise) (used in minecraft for texture)
+> - **Bump Mapping**: like texture mapping but overlays mesh to create illusion of complex geometry
+> 	- Most common is height map  
+> - **Reflection Maps**: R assume small obj comapred to distance, hence can use refl vector from obj centre, not face
+> - **Shadow Map**: We hold a depth map from light source to tell if light is blocked and obj in shadow
 
 ---
 
@@ -46,10 +49,10 @@ Meshes
 
 > [!important] Subdivision
 > recursively smoothing a mesh means we need to store less and can smooth a surface till required level 
-> > [!example]+ Chaikin’s Subdivision Method in 2D
+> > [!example]- Chaikin’s Subdivision Method in 2D
 >  > ![[Chaikins 2D subdivision.png|500]]
 > 
->  > [!omega]+ Doo Sabin
+>  > [!omega]- Doo Sabin
 >  > [Doo–Sabin subdivision surface - Wikipedia](https://en.wikipedia.org/wiki/Doo%E2%80%93Sabin_subdivision_surface)
 >  > Doo Sabin works by 
 >  > ![[Pasted image 20251006175011.png|300]]
@@ -65,7 +68,7 @@ Meshes
 | • Union • $𝐹𝑐∪𝑆 . =min{𝐹𝑐(.),𝐹𝑆(.)}$<br><br><br>• Intersection • $𝐹𝑐∪𝑆 . =m𝑎𝑥{𝐹𝑐(.),𝐹𝑆(.)}$<br><br><br>• Difference • $𝐹𝑐∪𝑆 . =max{−𝐹𝑐(.),𝐹𝑆(.)}$ | <br>![[Pasted image 20251006174111.png\|200]] |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | 
 > 
-> > [!heart] Examples of CSG Heirachies
+> > [!heart]- Examples of CSG Heirachies
 > > This can be combined with trees to produce the following examples
 >  > ![[Pasted image 20251006174412.png]]
 

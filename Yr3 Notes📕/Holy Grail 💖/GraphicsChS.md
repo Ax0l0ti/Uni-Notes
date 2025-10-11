@@ -41,6 +41,15 @@
 > [!note]+ Ray Tracing
 > - **Definition**: Simulates light paths for realistic rendering
 
+
+> [!Examples] Meshes
+> - **Perlin noise**: [Perlin noise - Wikipedia](https://en.wikipedia.org/wiki/Perlin_noise) (used in minecraft for texture)
+> - **Bump Mapping**: like texture mapping but overlays mesh to create illusion of complex geometry
+> 	- Most common is height map  
+> - **Reflection Maps**: R assume small obj comapred to distance, hence can use refl vector from obj centre, not face
+> - **Shadow Map**: We hold a depth map from light source to tell if light is blocked and obj in shadow
+
+
 > [!leaf]+ Vectors & Intersections
 > - For finding if a ray intersects a sphere 
 >$$\begin{align}  
@@ -57,6 +66,7 @@
   ax+by+cz+d = 0, a^2+b^2 +c^2 = 1, [a, b, c] = Normal N \\
   \text{Ray =} P_{XY or Z} + tD_{XY or Z} \\
   t = -\frac{N.P + d}{N.D} \end{align}$$
+
 
 
 ---

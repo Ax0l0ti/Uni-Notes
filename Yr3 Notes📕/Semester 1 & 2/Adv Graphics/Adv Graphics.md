@@ -12,6 +12,7 @@
 > Module Sub-Topics
 > > [[Curves]]
 > > [[Meshes]]
+> > [[Advanced Textures]]
 > > [[Graphics Pipeline]]
 > [[Rasterisation]]
 > [[Ray Tracing]]

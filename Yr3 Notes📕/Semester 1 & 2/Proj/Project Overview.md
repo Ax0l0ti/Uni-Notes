@@ -23,12 +23,18 @@ Potential People
 
 
 ### Jie Zhang
-Project 1: Detecting and Analyzing Algorithmic Collusion in Dynamic Pricing Systems This project investigates the emergence of tacit collusion among AI-powered pricing algorithms in competitive markets. Building on recent research showing that Q-learning algorithms can spontaneously develop collusive pricing strategies without explicit coordination and communication, the project aims to develop detection mechanisms and analytical frameworks for identifying algorithmic collusion in real-world pricing scenarios. The research will employ (deep-) reinforcement learning simulations, game-theoretic modeling, and statistical analysis to understand how pricing algorithms learn collusive behaviors through trial-and-error interactions. Key objectives include creating early warning systems for competition authorities, developing algorithmic transparency tools, and proposing regulatory frameworks to prevent anti-competitive AI behavior while preserving legitimate algorithmic efficiency gains in pricing systems.
+
+Project 1: Detecting and Analyzing Algorithmic Collusion in Dynamic Pricing Systems This project investigates the emergence of tacit collusion among AI-powered pricing algorithms in competitive markets. Building on recent research showing that Q-learning algorithms can spontaneously develop collusive pricing strategies without explicit coordination and communication, the project aims to develop detection mechanisms and analytical frameworks for identifying algorithmic collusion in real-world pricing scenarios. The research will employ (deep-) reinforcement learning simulations, game-theoretic modeling, and statistical analysis to understand how pricing algorithms learn collusive behaviours through trial-and-error interactions. Key objectives include creating early warning systems for competition authorities, developing algorithmic transparency tools, and proposing regulatory frameworks to prevent anti-competitive AI behavior while preserving legitimate algorithmic efficiency gains in pricing systems.
 Ref:
 
 [1] [Artificial Intelligence, Algorithmic Pricing, and Collusion](http://libproxy.bath.ac.uk/login?qurl=https%3A%2F%2Fwww.aeaweb.org%2Farticles%3Fid%3D10.1257%2Faer.20190623) 
 
 [2] [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785966](http://libproxy.bath.ac.uk/login?qurl=https%3A%2F%2Fpapers.ssrn.com%2Fsol3%2Fpapers.cfm%3Fabstract_id%3D3785966)
+
+### Dr Julian Padget
+Neuro-symbolic biological world models
+
+TL;DR World models provide the means to embed real world knowledge (physics, chemistry, biology, amongst others) in a model so that it aligns with what is known and not just with the data used to construct it.
 
 ### Andreas Theophilou
 
@@ -45,7 +51,3 @@ The basic reinforcement learning framework uses only an extrinsically motivated 
  You can find more details [here](http://libproxy.bath.ac.uk/login?qurl=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1AUtmmI4z3BmPE9X3gGKr1IqEcnGdyUcRjMW5LWjqlXs%2Fedit%3Fusp%3Dsharing).
 
 
-### Dr Julian Padget
-Neuro-symbolic biological world models
-
-TL;DR World models provide the means to embed real world knowledge (physics, chemistry, biology, amongst others) in a model so that it aligns with what is known and not just with the data used to construct it.

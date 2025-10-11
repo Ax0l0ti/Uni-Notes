@@ -24,7 +24,7 @@
 ---
 # Exam breakdown
 
-> [!danger]+ Exam
+> [!danger]- Exam
 > Exam details when given
 > 
 > > [!heart]+ Structure Overview
@@ -36,12 +36,13 @@
 ---
 # 🧠 Definitions by Topic
 
-> [!note]+ P vs NP
-> - **P**: Problems solvable in polynomial time
+> [!note]- P vs NP
+> - **Decision problem**: a computational problem that can be answered either "**Yes**" or "**No**"
+> - **P**: Problems solvable in polynomial time with a DTM
 > - **NP**: Problems verifiable in polynomial time
-
-> [!note]+ NP-Complete
-> - Problems in NP to which every NP problem reduces in polynomial time
+> - **Co-NP**:  A problem $X$ is Co-NP $\iff$ (if and only if) its complement $\bar X$ is in the class $NP$ problem. Meaning, we can confirm a given "**No**" answer from the NP in Polynomial time 
+> - **NP-Completeness**: 
+> - **NP-Hardness**: 
 
 > [!leaf]+ Additional Topics
 > - Cook-Levin theorem

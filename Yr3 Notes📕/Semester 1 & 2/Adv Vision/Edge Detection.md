@@ -46,7 +46,7 @@ This is great for **Recognising Objects** and calculating **3D Shape & Geometry*
 > We can define these Intensities as seen below $$\Delta I(x, y)= \frac{\delta I(x,y)}{\delta x} \frac{\delta I(x,y)}{\delta y}$$
 > AN example of how the noise affects can be seen below
 > ![[noise on Intensity gradient.png|300]]
-> > [!Success]+ Solution
+> > [!Success]- Solution
 > > By using a Gaussian Smoothing Filter can be used to map a Signal of the original image via a convolution to make $f \times g$ 
 > > ![[Gaussian Smoothing Filter.png|400]]
 > > BUT this is very expensive. To compensate, we can use the derivative of gaussian to do the removal of noise and use derivative to find the edge **together**
