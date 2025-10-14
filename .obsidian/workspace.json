@@ -11,20 +11,32 @@
             "id": "4b647a26e9f8653e",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-                "viewState": {
-                  "x": 35,
-                  "y": -50,
-                  "zoom": 0
-                }
+                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Minecraft"
+              "icon": "lucide-file",
+              "title": "Project Proposal"
+            }
+          },
+          {
+            "id": "b9fb6a787bef9184",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Project Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,14 +196,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4b647a26e9f8653e",
+  "active": "b9fb6a787bef9184",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Attachments/Workflow Proj Idea.png",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Edge Detection.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
+    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Yr3 Notes📕/Semester 1/Complexity/P vs NP.md",
     "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Edge Detection.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Temp Graphics.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Meshes.md",
     "Templates🧬/all callout block.md",
@@ -213,18 +230,12 @@
     "Attachments/Pasted image 20251010113117.png",
     "Attachments/Manual texture.png",
     "Attachments/Texture mapping.png",
-    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Attachments/Non-Maximum Suppression.png",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
-    "Attachments/noise on Intensity gradient.png",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Temp vision.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Syncing & Personals/Playground 🛝/Year 3 Inventory.md",
     "Untitled.canvas",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
-    "Syncing & Personals/Playground 🛝/Untitled.md",
-    "Syncing & Personals/Playground 🛝/Minecraft.md",
     "T🏷️/M📚/Yr3📕",
     "T🏷️/M📚/Yr2📘/Untitled",
     "Yr3 Notes📕/Semester 2/Business Strategy",

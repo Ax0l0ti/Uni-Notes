@@ -22,6 +22,10 @@
 Potential People 
 
 
+### Alok Joshi 
+
+Predicting A-Level Student Performance: A Comparative Analysis of Machine Learning Models, Feature Engineering Strategies, and Data Trends
+
 ### Jie Zhang
 
 Project 1: Detecting and Analyzing Algorithmic Collusion in Dynamic Pricing Systems This project investigates the emergence of tacit collusion among AI-powered pricing algorithms in competitive markets. Building on recent research showing that Q-learning algorithms can spontaneously develop collusive pricing strategies without explicit coordination and communication, the project aims to develop detection mechanisms and analytical frameworks for identifying algorithmic collusion in real-world pricing scenarios. The research will employ (deep-) reinforcement learning simulations, game-theoretic modeling, and statistical analysis to understand how pricing algorithms learn collusive behaviours through trial-and-error interactions. Key objectives include creating early warning systems for competition authorities, developing algorithmic transparency tools, and proposing regulatory frameworks to prevent anti-competitive AI behavior while preserving legitimate algorithmic efficiency gains in pricing systems.
