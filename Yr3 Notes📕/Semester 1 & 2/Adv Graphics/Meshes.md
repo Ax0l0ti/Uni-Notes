@@ -1,6 +1,6 @@
 # Meshes
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::3]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  06-10-2025
 > > *Module :* [[Adv Graphics]]

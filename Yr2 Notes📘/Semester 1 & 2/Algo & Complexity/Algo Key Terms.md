@@ -1,6 +1,6 @@
 # AlgoSexy Key Terms
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > > *Date :*  26-04-2025  
 > > *Module :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]  
 > > *Teacher*: #Chatted  

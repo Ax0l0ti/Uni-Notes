@@ -1,6 +1,6 @@
 # Inverting Matrices
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to. 
 > >*Date :* 10-01-24
 > > *Module :* (ModCode :: CM12006) 

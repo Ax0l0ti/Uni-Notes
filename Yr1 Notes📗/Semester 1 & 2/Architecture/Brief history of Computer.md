@@ -1,8 +1,8 @@
 # Computing History
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
-> > > [!info]+ File Details
+> > > [!info]- File Details
 > > > *Date :*  04-10-2023 
 > > > *Module :* (ModCode :: CM12002) 
 > > > *Teacher*: #FabioNemetz

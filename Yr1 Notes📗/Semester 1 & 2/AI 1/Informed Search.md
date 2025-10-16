@@ -1,6 +1,6 @@
 # Informed Search
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  21-11-2023 
 > > *Module :* (ModCode :: CM12001) 

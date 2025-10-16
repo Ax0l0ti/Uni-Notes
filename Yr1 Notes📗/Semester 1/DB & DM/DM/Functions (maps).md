@@ -1,6 +1,6 @@
 # Functions (maps)
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note). Contains details on when this was created, what module the note belongs to.
 > > *Date :* 24-10-2023 
 > > *Module :* (ModCode :: CM12004DM) (ModCode :: CM12006) 

@@ -1,6 +1,6 @@
 # P vs NP
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::3]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  10-10-2025
 > > *Module :* [[Yr3 Notes📕/Semester 1/Complexity/Complexity|Complexity]]

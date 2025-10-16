@@ -1,6 +1,6 @@
 # Eigen vectors & Eigen values
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :* 21/03/24
 > > *Module :* (ModCode :: CM12006) 

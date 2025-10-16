@@ -1,6 +1,6 @@
 # CyberSexy Key Terms
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Cheat Sheet) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  14-04-2025  
 > > *Module :* [[Yr2 Notes📘/Semester 2/Cybersecurity/Cybersecurity]]  

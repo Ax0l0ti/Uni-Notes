@@ -1,6 +1,6 @@
 # Camera & Lenses
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  07-10-2024
 > > *Module :* [[Yr2 Notes📘/Semester 1 & 2/Visual Comp/Visual Computing]]

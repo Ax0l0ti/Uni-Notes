@@ -1,6 +1,6 @@
 # Intro to Probability
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::1]. Contains details on when this was created, what module the note belongs to.
 > > *Date :* 09-02-2024
 > > *Module :* (ModCode :: CM12001) 

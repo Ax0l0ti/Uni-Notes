@@ -2,7 +2,7 @@
 [[About 1 📗]]
 
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Includes Links of all PDFs used over year 1
 
 ---

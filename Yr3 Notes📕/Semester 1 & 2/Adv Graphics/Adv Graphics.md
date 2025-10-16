@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32021)
 > > *Teacher*: 
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32021.html) 
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32021.html) [The Goat](https://www.youtube.com/@firstprinciplesofcomputerv3258)
 
 ---
 > [!abstract]+ Contents
@@ -13,14 +13,13 @@
 > > [[Curves]]
 > > [[Meshes]]
 > > [[Advanced Textures]]
+> > [[Global Lighting]]
 > > [[Graphics Pipeline]]
 > [[Rasterisation]]
 > [[Ray Tracing]]
 > [[Shading Models]]
-> [[Global Illumination]]
 > 
-> Coursework
-> > [[Rendering Project]]
+[[Rendering Project]]
 > [[Exam Preparation]]
 
 ---

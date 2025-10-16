@@ -1,6 +1,6 @@
 # Todo list #TODO 
 ---
-> [!info]+ File Details
+> [!info]- File Details
 > Contains my TODOs
 
 ## Check emails... Just... always
