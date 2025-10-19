@@ -17,17 +17,17 @@
 --- 
 > [!danger]+ 🕰️* Speed run*
 > Break down of topic 
+> - The **Markov property** says:
+> 	“The future depends only on the **current state and action**, not on what happened before.”
+> 
+> - Functions best when no model given. Learns from taking actions
 > - episodic means can be split in episodes
 > - continuation task mean the task has no clear breaks/ last forever
-> - how sequential decision problems can be either **episodic** or **continuing**,
 > - introduced notation with which we can describe both episodic and continuing sequential problems,
 > - discussed what information needs to be summarised in our state representation, in order to ensure that the **Markov property** holds, and
 > - formulated sequential decision problems formally as **Markov decision processes (MDPs)**.
 
 ---
-
-#TODO 
-
 
 
 1. Components of MDP: states, actions, transition probabilities, rewards, and initial state distribution,
@@ -38,12 +38,12 @@
 • An **initial** state distribution: $h(s), s \in S$
 We will often combine $p$ and $r$ into $p(s', r | s, a).$
 
-2. Expected values of random variables,
-3. Value functions: state value function and action value function,
-4. Optimal policies and comparison of policies,
-5. Bellman equations: Bellman equation for state value and Bellman optimality equation,
+2. Value functions: state value function and action value function,
+#todo 
+3. Optimal policies and comparison of policies,
+4. Bellman equations: Bellman equation for state value and Bellman optimality equation,
 
-6. Dynamic programming methods for solving MDPs,
+5. Dynamic programming methods for solving MDPs,
 ![[Dynamic Prog for Bellman.png|400]]
 7. Policy evaluation and policy improvement,
 8. Iterative policy evaluation algorithm,

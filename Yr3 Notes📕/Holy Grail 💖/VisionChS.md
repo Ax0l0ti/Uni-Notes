@@ -43,10 +43,21 @@
 > - **Derivative Filters**: can calculate Edge detection e.g Deriv of Gauss, (sum to 0)
 > 
 
-
 > [!bug] Detection
 > **Hough Transform** : detects edges, uses Hough Voting over parameter space
 > **Canny**:
+
+
+> [!example]+ Low-Level Computer Vision
+> 
+> - **Edge Detection**: Finding areas of strong intensity change.
+>     
+> - **Harris Corner Detector**: Measures change of intensity in all directions.
+> - make matrix $H$ from $dx^2, dy^2$ and $dx\times dy$, if $C = \det{H} - k (dx^2 dy^2)$
+> - if $pos$, corner, if $neg$, edge if near $0$, flat 
+>     
+> - **SIFT**: Scale-Invariant Feature Transform for detecting and describing local features.
+> 
 
 
 > [!note]+ CNNs

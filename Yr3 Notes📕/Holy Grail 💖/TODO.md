@@ -7,14 +7,17 @@
 
 ---
 > [!abstract]+ Contents
-> List of todos by topic
-> > [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
+> List of todos
+> > [[#Random things]]
+> > [[#Automated list]]
 
 ---
+
+## Random things
+
+- change all > [!danger]+ 🕰️* Speed run* into > [!tip]+ 🕰️* Speed run*
+
+## Automated list 
 
 ```dataview
 LIST

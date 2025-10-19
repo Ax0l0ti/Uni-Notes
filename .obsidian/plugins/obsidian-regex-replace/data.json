@@ -1,6 +1,6 @@
 {
-  "findText": "§",
-  "replaceText": "\n",
+  "findText": "xi",
+  "replaceText": "$x_i$",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,

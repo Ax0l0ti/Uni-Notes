@@ -6,27 +6,19 @@
 ## Check emails... Just... always
 
 --- 
-> [!leaf]+ health 
+> [!leaf]- health 
 > - **wacky** exercise
 > 	- [ ] Learn to handstand
-> 	- [x] L sit
 > 	- [ ] Front Lever
 > 	- [ ] Splits cos y not
-> - **proper** health
-> 	- Collagen??
-> 	- [x] Exercies For shoulder Joint
 > - **KITESURF** 
 > 	- [x] pop to board grab
 > 	- [x] back roll
-> 	- [ ] practice darkslides & Looing
+> 	- [ ] practice darkslides & Looping
 
 ---
 > [!abstract]+ Vault / Work 
-> > [!example]+ Vault Todos
-> > - [ ] Summer Internship
-> > 	- [x] Research quantifi 
-> > - [ ] catch thu 14 11
-> 
+> > [!example]- Vault Todos
 > 
 > > [!todo]+ 
 > > > The following Note files contain the #TODO tag: 

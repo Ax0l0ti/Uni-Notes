@@ -18,23 +18,20 @@
 > [!danger]+ 🕰️* Speed run*
 > Break down of topic 
 > 1. Global lighting effects,
-> 2. Shadow calculations in ray tracing,
-> 3. Shadow rays and intersection tests,
-> 4. Ambient light contribution,
-> 5. Diffuse and specular light terms,
-> 6. Lambertian reflection model,
-> 7. Dot product calculations for lighting,
-> 8. Reflection and glossy surfaces,
-> 9. Specular reflection calculations,
-> 10. Reflection direction and ray tracing,
-> 11. Recursive ray tracing for reflections,
-> 12. Fresnel equations for refraction,
-> 13. Snell's law and angle calculations,
-> 14. Total internal reflection considerations,
-> 15. Shadow handling in ray tracing,
-> 16. Recursive definitions and stopping conditions,
-> 17. Visual effects in ray tracing,
-> 18. Practical ray tracing examples and rendering,
+> 2. Shadows
+> 3. Ambient light contribution,
+> 4. Diffuse and specular light terms,
+> 5. Lambertian reflection model,
+> 6. Dot product calculations for lighting,
+> 7. Reflection and glossy surfaces,
+> 8. Reflection direction and ray tracing,
+> 9. Fresnel equations for refraction,
+> 10. Snell's law and angle calculations,
+> 11. Total internal reflection considerations,
+> 12. Shadow handling in ray tracing,
+> 13. Recursive definitions and stopping conditions,
+> 14. Visual effects in ray tracing,
+> 15. Practical ray tracing examples and rendering,
 
 ---
 
@@ -52,6 +49,7 @@ https://youtu.be/HPNW0we-ft0?si=a-ERiKG2tx9FqYL5
 Specular
 [Reflection from Rough Surfaces | Radiometry and Reflectance](https://www.youtube.com/watch?v=oa3Yo7Ro02A)
 
+![[Pasted image 20251017113928.png]]
 
 3. Shadow calculations in ray tracing,
 4. Shadow rays and intersection tests,

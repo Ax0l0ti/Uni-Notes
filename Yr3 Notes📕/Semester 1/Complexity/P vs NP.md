@@ -3,7 +3,7 @@
 > [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::3]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  10-10-2025
-> > *Module :* [[Yr3 Notes📕/Semester 1/Complexity/Complexity|Complexity]]
+> > *Module :* [[Yr3 Notes📕/Semester 1/Comple$x_i$ty/Comple$x_i$ty|Comple$x_i$ty]]
 > > *Teacher*: 
 > > *Resources :*
 
@@ -40,4 +40,39 @@
 > > [Subgraph isomorphism problem - Wikipedia](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
 > 
 
+
+
+## Exploring SAT 
+---
+> [!tip]+ Speed run
+> - **SAT is NP-Complete**
+> - **Monte Carlo** (Different from ML MC) A polynomial-time algorithm that returns the right result with high probability (but not necessarily 1). 
+> - **Example** Rabin’s primality: if N is prime returns “prime”, if not, returns “prime” with probability ≤ 1/4 (so if run 10 times on N, ≤ 1/410 < 10−6). [Dav92, random!] 
+> - **One-sided error**, there are also algorithms with two-sided errors. 
+> - Comple$x_i$ty $RP$ (one-sided: randomized polynomial time) $⊆ BPP$ (two-sided: Bounded-error probabilistic polynomial). 
+> - **Las Vegas** Always the right result, and polynomial time with high probability (expected polynomial time). Comple$x_i$ty class ZPP (zero-error probabilistic polynomial time). 
+> - **Theorem**: $ZPP=RP∩co-RP$. 
+> - **Proof**: run both until they agree! 
+> - **Atlantic City** Polynomial time with high probability and right result with high probability
+
+### DPLL 
+while $S \neq ∅$
+1 If Some clause is just $x_i$, set $x_i$ to true, remove all clauses containing $x_i$ from S, and delete all $x_i$ from clauses in S. 
+2 If Some clause is just $x_i$, set $x_i$ to false, remove all clauses containing $x_i$ from S, and delete all $x_i$ from clauses in S. 
+3 If There are no $x_i$ in clauses in S, set $x_i$ to true, remove all clauses containing $x_i$ from S 
+4 If There are no $x_i$ in clauses in S, set $x_i$ to true, remove all clauses containing $x_i$ from S 
+5 Pick some $x_i$, compute DPLL(S ∪{$x_i$}). If this works, return DPLL(S ∪{$x_i$}) with $x_i$ = T 
+6 Otherwise return DPLL(S ∪{$x_i$}) with $x_i$ = F NB Can do $x_i$ and $x_i$ in either order 
+
+Essentially Resolution meets lazy brute force
+
+### Conflict Directed Clause Learning 
+
+> [!Success]+ Solutions
+> > [!d]- Conflict Directed Clause Learning
+> > Basically back jumping. If contradiction, find contradicting elements and make new rule
+> > ![[Pasted image 20251017144705.png|450]]
+> 
+> > [!Danger]- Restarts
+> > ![[Pasted image 20251017144900.png|450]]
 
