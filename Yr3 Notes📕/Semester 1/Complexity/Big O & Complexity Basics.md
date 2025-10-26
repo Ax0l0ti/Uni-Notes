@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - Big O Notation is also known as Landau's Notation
 > - the removal of smaller factors from $O(n^22^n)$ is known as "Soft O" $Õ(2^n)$ 

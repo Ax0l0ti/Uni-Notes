@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - p1
 > - p2

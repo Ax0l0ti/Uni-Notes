@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - Dynamic Programming apporaches are great if we have a perfect model of the environment as a Markov decision process (MDP) 
 > - p2

@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - **Temporal Difference**: 
 > - On-Policy,  Off-Policy Temporal-Difference methods.

@@ -79,7 +79,7 @@
 > - **Video**: Sequence of frames over time, typically 24-60 fps.
 >     
 
-> [!tip]+ Image Formation
+> [!danger]+ Image Formation
 > 
 > - **Pinhole Camera Model**: Light passes through a small hole projecting an inverted image onto a surface.
 >     

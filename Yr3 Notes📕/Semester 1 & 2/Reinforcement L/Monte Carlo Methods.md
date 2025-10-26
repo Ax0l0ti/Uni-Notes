@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > **Monte Carlo**  : Value of $V(S) = \text{Average of all returns after visiting S}$
 > 

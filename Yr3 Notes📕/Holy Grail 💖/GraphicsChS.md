@@ -15,10 +15,12 @@
 
 ---
 > [!danger]+ _🕰️ Speed run_
-> 
-> - **Rasterisation Pipeline**: stages and functions
-> - **Ray Tracing**: algorithms and acceleration structures
-> - **Lighting Models**: Phong, Blinn-Phong, PBR
+> #todo at the end of the term
+
+### **Words to add** 
+Barycentric Coordinates
+OBJ
+
 
 ---
 # Exam breakdown
@@ -35,22 +37,92 @@
 ---
 # 🧠 Definitions by Topic
 
-> [!note]+ Rasterisation
-> - **Definition**: Conversion of 3D primitives to 2D pixels
-
-> [!note]+ Ray Tracing
-> - **Definition**: Simulates light paths for realistic rendering
-
+> [!example]+ Light & Shadow
+> > [!d]- Light
+> > **Ambient Light**: Why under the table is not pitch black. Light Diffuses $𝐼 =𝐼_𝑎𝑘_𝑎 +\sum{𝐼_𝑥(𝑘_𝑑 𝑁.𝐿 +𝑘_𝑠(𝑅.𝑉)^𝑛)}$
+> > - $k_a$ ambient reflection co-efficient, $I_a$ intensity
+> >
+> > **Specular**: perfect reflective [Global Lighting], Reflection $R = I - 2.0 * (I.N) * N$ 
+> > **Diffusion Mode**l: Dull matte 
+> > **Glossy**: balance between Spec and Diff
+> > **Translucence**: By firing Transmission rays though an object, we can create translucents via Super Sampling
+> > **Pre-baked Lighting**: 
+> > **Radiosity**: 
+> > • Primary rays – from the eye into the scene. 
+> > • Shadow rays – from an object to a light.
+> > 
+> > 
+> 
+> > [!omega]- Shadow & Shade
+> > Shadows are vital to a realistic scene, but is costly to do realistically. To find, work out if light intersection hits other obj
+> > **Z buffer** 
+> > **Depth Buffer**
+> > **Shadow Mapping**
+> > **Phong**: Approximation of Micro Facets
+> > **Cook-Torrance/BRDF**
 
 > [!Examples] Meshes
+> - **Mesh**
+> **- Tesselation**
 > - **Perlin noise**: [Perlin noise - Wikipedia](https://en.wikipedia.org/wiki/Perlin_noise) (used in minecraft for texture)
 > - **Bump Mapping**: like texture mapping but overlays mesh to create illusion of complex geometry
 > 	- Most common is height map  
 > - **Reflection Maps**: R assume small obj comapred to distance, hence can use refl vector from obj centre, not face
 > - **Shadow Map**: We hold a depth map from light source to tell if light is blocked and obj in shadow
 
+> [!quote] Modelling
+> **Implicit Surfaces**
+> **Parametric Surfaces**
+> **Procedural Geometry**
+> **Constructive Solid Geometry**
+> **Mesh Decimation**
 
-> [!leaf]+ Vectors & Intersections
+> [!example] Rendering
+> **Rendering Equation**
+> **BRDFs**
+> **Global Illumination**
+> **Advanced Textures**
+> **Non-Photorealistic Rendering**
+> **Photon-mapping**
+> **Volume Rendering**
+> **Tone Mapping**
+> 
+> > [!NOTE]- Quality
+> > Ray tracing
+> > Ray Casting
+> > Super Sampling Anti-Aliasing 
+> > Anti-Aliasing 
+
+---
+
+> [!bug] Animation
+> **Blendshape Models**
+> **Kinematics**
+> **Skeletons & Bones**
+> **Skinning**
+> **Motion Capture**
+> **Retargeting**
+> **Simulation**
+
+> [!NOTE]+ Pipeline
+> **GPUs**
+> **Graphics Pipeline**
+> **Rasterisation**
+> **Deferred Shading**
+> **Clipping**
+> **Vertex Processing**
+> **Frame Buffer**
+> **Post-Processing**
+
+> [!Heart] Machine Learning for Graphics
+> **Generative Models**
+> **Differentiable Rendering**
+> **Inverse Rendering**
+> **Adaptive Tools**
+> **Just-in-Time Rendering**
+> **Denoising**
+
+> [!leaf]- Vectors & Intersections
 > - For finding if a ray intersects a sphere 
 >$$\begin{align}  
 \text{ for sphere X Y Z, R, substitute Ray =} P_{XY or Z} + tD_{XY or Z} \\\\
@@ -70,10 +142,4 @@
 
 
 ---
-#TODO
 [[Grail 🩷]]
-
-
-Words to add 
-Barycentric Coordinates
-OBJ

@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - The **Markov property** says:
 > 	“The future depends only on the **current state and action**, not on what happened before.”

@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - Edges caused by Discontinuity in Surface normal, Depth, Colour, Illumination
 > - Smoothing filters

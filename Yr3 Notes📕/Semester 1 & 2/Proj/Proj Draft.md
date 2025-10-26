@@ -15,7 +15,7 @@
 
 
 --- 
-> [!danger]+ 🕰️* Speed run*
+> [!tip]+ 🕰️* Speed run*
 > Break down of topic 
 > - p1
 > - p2
@@ -38,3 +38,18 @@ Scraped from a paper
 | **Trend Analysis**           | Insights about which features most influence prediction, temporal or demographic patterns.                               |
 | **Discussion / Ethics**      | Bias and fairness in educational ML, transparency, implications for schools and students.                                |
 | **Conclusion & Future Work** | Summarising findings, potential policy integration, improvements in data or methodology.                                 |
+
+
+---
+
+[Machine learning-based academic performance prediction with explainability for enhanced decision-making in educational institutions | Scientific Reports](https://www.nature.com/articles/s41598-025-12353-4)
+Models used
+K-Nearest Neighbors Regressor, Linear Regression, CatBoost, XGBoost, AdaBoost, and ensemble voting regression (VR)
+
+decision trees, support vector machines (SVM), and boosting methods
+
+---
+[Methods used by teachers to predict final A Level grades for their students](https://www.cambridgeassessment.org.uk/Images/561974-methods-used-by-teachers-to-predict-final-a-level-grades-for-their-students.pdf) - Cambridge Assessment
+
+
+---
