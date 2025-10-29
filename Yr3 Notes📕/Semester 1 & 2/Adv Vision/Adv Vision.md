@@ -14,6 +14,8 @@
 > [[Edge Detection]]
 > [[Deep Learning]]
 > [[Segmentation]]
+> [[CNN]]
+> [[Project Planning]]
 > [[Recognition]]
 > 
 > Coursework

@@ -1,15 +1,18 @@
 # Individual Project
+#### Predicting A-Level Student Performance: A Comparative Analysis of Machine Learning Models, Feature Engineering Strategies, and Data Trends
 ---
 > [!info]+ Module Details
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32017)
-> > *Teacher*: Project Supervisor
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32017.html)
+> > *Teacher*: Alok Joshi
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32017.html) [Project Management | Trello](https://trello.com/b/A1Ge2htJ/project-management) 
+> > 
 
 ---
 > [!abstract]+ Contents
 > 
 > Module Sub-Topics
+> > [[Project Potentials]]
 > > [[Project Overview]]
 > > [[Project Proposal]]
 > > [[Project Planning]]

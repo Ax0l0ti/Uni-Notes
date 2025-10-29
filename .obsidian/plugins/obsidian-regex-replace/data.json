@@ -1,6 +1,6 @@
 {
-  "findText": "xi",
-  "replaceText": "$x_i$",
+  "findText": "·",
+  "replaceText": "-",
   "useRegEx": false,
   "selOnly": false,
   "caseInsensitive": false,

@@ -30,3 +30,9 @@
 ---
 
 #TODO 
+
+First Visit vs Every visit
+
+First Visit algo 
+$$
+\begin{aligned} &\text { Input: a policy } \pi \text { to be evaluated } \\ &\text { Initialize: } \\ &\qquad \begin{array}{l} V(s) \in \mathbb{R}, \text { arbitrarily, for all } s \in \mathcal{S} \\ \textit { Returns }(s) \leftarrow \text { an empty list, for all } s \in \mathcal{S} \end{array} \\ \\ &\text { Loop forever (for each episode): } \\ &\qquad \text {Generate an episode following } \pi: S_{0}, A_{0}, R_{1}, S_{1}, A_{1}, R_{2}, \ldots, S_{T-1}, A_{T-1}, R_{T} \\ &\qquad G \leftarrow 0 \\ &\qquad \text {Loop for each step of episode, } t=T-1, T-2, \ldots, 0: \\ &\qquad \qquad G \leftarrow \gamma G+R_{t+1} \\  &\qquad \qquad \text { Unless } S_{t} \text { appears in } S_{0}, S_{1}, \ldots, S_{t-1}: \\ &\qquad \qquad \qquad \text {Append } G \text { to } \textit{Returns }\left(S_{t}\right) \\ &\qquad \qquad \qquad V\left(S_{t}\right) \leftarrow \text { average }\left(\textit{Returns }\left(S_{t}\right)\right) \end{aligned}|$$
