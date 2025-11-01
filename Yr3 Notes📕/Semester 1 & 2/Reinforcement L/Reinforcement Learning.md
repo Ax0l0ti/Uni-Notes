@@ -64,6 +64,23 @@ Link to main page of proj - [CM32032: Group Project Work Plan | Home](https://mo
 > > [!abstract]+  ### Semester 2
 > > The symbol contains everything and defaults to note
 
+
+In the first half of Semester 1, we will cover the following topics:
+1. The reinforcement learning problem.  
+2. Markov decision processes.  MDP
+3. Dynamic programming methods.  
+4. Monte-Carlo methods.  
+5. Temporal-difference methods.  on and off policy
+6. Planning and n-step methods.  
+
+7. READING WEEK
+
+8. Function approximation and generalisation in reinforcement learning.  
+9. Linear function approximated methods.  
+10. Deep reinforcement learning methods.  
+11. Policy-gradient methods.  
+12. Actor-critic methods.  
+
 --- 
 
 ## Unit Convenor

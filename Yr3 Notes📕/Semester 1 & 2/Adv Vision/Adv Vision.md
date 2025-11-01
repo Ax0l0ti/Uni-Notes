@@ -23,8 +23,14 @@
 
 ---
 ### Coursework 50% vs 50% Examined
-- Coursework in labs (CWSG 50%)
-- Exam (EXCB 50%)
+
+> [!example]+ Formatives CW & Exam
+> > [!d]- Coursework in labs (CWSG 50%)
+> > 
+> 
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]- Exam (EXCB 50%)
+> 
+
 
 ![[Adv Vision Assessment Breakdown.png]]
 

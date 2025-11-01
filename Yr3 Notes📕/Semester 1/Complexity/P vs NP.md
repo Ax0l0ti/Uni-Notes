@@ -26,7 +26,7 @@
 
 > [!example]+  Examples of Problems
 > > [!flower]- Traveling salesman
-> > Given N locations, can a salesman work out the quickest route to visit every location at least once?
+> > Given N locations, can a salesman work out a route of weight $\leq$ K that visits all vertices and returns to the start?
 > > This ends up resulting in $N!$ possible routes, as after the first there are $N-1$ left, hence $f(N)=N(N-1)(N-2)... = N!$
 > > [Travelling salesman problem - Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem)
 > 
@@ -38,6 +38,7 @@
 > > [!leaf]- Subgraph isomorphism
 > > Given two graphs, $H$ and  $G$, can you prove one is a subgraph of the other?
 > > [Subgraph isomorphism problem - Wikipedia](https://en.wikipedia.org/wiki/Subgraph_isomorphism_problem)
+> > 
 > 
 
 

@@ -7,3 +7,4 @@ READ direc studies emails
 check restictions nad pre req in course cat
 complete comp sci change of unit 
 email cssjkh@bath.ac.uk once completed
+

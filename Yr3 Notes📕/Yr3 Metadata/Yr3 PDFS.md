@@ -1,12 +1,11 @@
-# Year 2 PDFs
+# Year 3 PDFs
 --- 
-[[About 2 📘]]
+[[About 3 📕]]
 
 --- 
 
 > [!info]- File Details
-> This file contains all the PDFs linked to Year 2 content 
-
+> This file contains all the PDFs linked to Year 3 content 
 
 ---
 > [!abstract]+ Contents
@@ -17,4 +16,8 @@
 > > [[#]]
 
 ---
+
+## Visual Coursework
+
+[[CM32022_Advanced_Computer_Vision_CW1_25_26.pdf]]
 

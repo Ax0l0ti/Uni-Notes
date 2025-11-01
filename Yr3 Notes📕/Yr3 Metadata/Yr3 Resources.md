@@ -1,4 +1,4 @@
-# Yr2 Resources 
+# Yr3 Resources 
 ---
 > [!info]+ Linked Modules for Resources
 > Detailed Modules & Codes : 
@@ -10,7 +10,7 @@
 
 ***Examined*** - 
 
-[[About 2 📘]]
+[[About 3 📕]]
 [[Yr3 PDFS]]
 
 ---

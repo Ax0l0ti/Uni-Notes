@@ -36,3 +36,25 @@ First Visit vs Every visit
 First Visit algo 
 $$
 \begin{aligned} &\text { Input: a policy } \pi \text { to be evaluated } \\ &\text { Initialize: } \\ &\qquad \begin{array}{l} V(s) \in \mathbb{R}, \text { arbitrarily, for all } s \in \mathcal{S} \\ \textit { Returns }(s) \leftarrow \text { an empty list, for all } s \in \mathcal{S} \end{array} \\ \\ &\text { Loop forever (for each episode): } \\ &\qquad \text {Generate an episode following } \pi: S_{0}, A_{0}, R_{1}, S_{1}, A_{1}, R_{2}, \ldots, S_{T-1}, A_{T-1}, R_{T} \\ &\qquad G \leftarrow 0 \\ &\qquad \text {Loop for each step of episode, } t=T-1, T-2, \ldots, 0: \\ &\qquad \qquad G \leftarrow \gamma G+R_{t+1} \\  &\qquad \qquad \text { Unless } S_{t} \text { appears in } S_{0}, S_{1}, \ldots, S_{t-1}: \\ &\qquad \qquad \qquad \text {Append } G \text { to } \textit{Returns }\left(S_{t}\right) \\ &\qquad \qquad \qquad V\left(S_{t}\right) \leftarrow \text { average }\left(\textit{Returns }\left(S_{t}\right)\right) \end{aligned}|$$
+
+1. Dynamic Programming Methods
+2. Limitations of Dynamic Programming
+3. Transition Functions in Decision Processes
+4. Monte Carlo Methods
+5. Policy Evaluation
+6. Expected Return Calculation
+7. First-Visit vs. Every-Visit Monte Carlo Methods
+8. Exploring Starts
+9. Epsilon-Greedy Policy for Exploration
+10. Off-Policy vs. On-Policy Learning
+11. Behavior Policy vs. Target Policy
+12. Importance Sampling
+13. Coverage Assumption in Reinforcement Learning
+14. Updating Value Estimates
+15. Average Returns Calculation
+16. Action Selection in Reinforcement Learning
+17. Exploration vs. Exploitation Trade-off
+
+Key Terms: Dynamic Programming, Transition Functions, Monte Carlo Methods, Policy Evaluation, Expected Return, First-Visit Monte Carlo, Every-Visit Monte Carlo, Exploring Starts, Epsilon-Greedy, Off-Policy Learning, On-Policy Learning, Behavior Policy, Target Policy, Importance Sampling, Coverage Assumption, Value Estimates, Average Returns, Action Selection, Exploration, Exploitation.
+
+UUID: 64a710ef-533d-4edb-9e68-b378010be545
