@@ -19,7 +19,11 @@
 ---
 ### Coursework 100% vs 0% Examined
 - Project output Group (CWPG 100%)
+- [Assignments & Progress | Trello](https://trello.com/b/LWO6UoaC/assignments-progress)
+- Evolutionary Algorithm?
+- Reward up, but if route goes down, have collectable on route
 - Create a RL project, First thoughts are "**getting over it**"
+- Other ideas are pokemon, 
 Link to main page of proj - [CM32032: Group Project Work Plan | Home](https://moodle.bath.ac.uk/mod/page/view.php?id=1490558)
 
 ![[RL Assessment Breakdown.png]]

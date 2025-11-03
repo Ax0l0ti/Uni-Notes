@@ -24,6 +24,8 @@ optimal policy.
 > - Off-Policy methods use two. 
 > 	- Behaviour policy $b(a|s)$ which is used to generate experience.
 > 	- Target policy $\pi(a|s)$ which we want to actually learn about.
+> - SARSA - TD OnP 
+> - QLearning - TD OffP
 
 ---
 

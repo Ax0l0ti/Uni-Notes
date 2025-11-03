@@ -62,6 +62,9 @@
 > > ![[TD Prediction Visual.png|400]]
 > > This update can be re-arragned to give the **TD Error** which minimises error. This is the block of immediate reward + discounted next reward - old expected reward
 > > ![[Pasted image 20251029183613.png|300]]
+> > > [!Success] Variants 
+> > > SARSA is on-policy TD 
+> > > QLEarning is Off-policy TD
 > > 
 > > 
 > 
