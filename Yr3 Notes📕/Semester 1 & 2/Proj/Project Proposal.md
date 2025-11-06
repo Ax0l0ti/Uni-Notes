@@ -3,7 +3,7 @@
 > [!info]- File Details
 > Includes information about this (genus:: Note) from [Year::3]. Contains details on when this was created, what module the note belongs to.
 > > *Date :*  07-10-2025
-> > *Module :* [[Individual Project]]
+> > *Module :* [[Individual Project Home Node]]
 > > *Teacher*: 
 > > *Resources :*
 

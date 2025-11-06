@@ -1,30 +1,24 @@
 # Individual Project
-#### Predicting A-Level Student Performance: A Comparative Analysis of Machine Learning Models, Feature Engineering Strategies, and Data Trends
+#### Title : Predicting A-Level Student Performance: An Analysis of Machine Learning Models, Feature Engineering Strategies, and Data Trends
 ---
 > [!info]+ Module Details
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: CM32017)
-> > *Teacher*: Alok Joshi
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32017.html) [Project Management | Trello](https://trello.com/b/A1Ge2htJ/project-management) 
+> > *Supervisor*: Alok Joshi 
+> > *Resources :* [Project Management | Trello](https://trello.com/b/A1Ge2htJ/project-management) [Overleaf Proposal](https://www.overleaf.com/project/6904bc8fa217b6b28abfa313) [Overleaf Dis](https://www.overleaf.com/project/68ff5e64042bcdd1e644d7b3)  [CM32017: Excellent Project Proposals from Past Years | Home](https://moodle.bath.ac.uk/mod/folder/view.php?id=1476438) [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/cm/CM32017.html)
 > > 
 
 ---
 > [!abstract]+ Contents
-> 
-> Module Sub-Topics
-> > [[Project Potentials]]
+> Final Dissertation due Fri 1 May 2026, 8 PM (TBC) **worth 90%**
+> Project Branches 
+> > [[Potential Projects]]
 > > [[Project Overview]]
-> > [[Project Proposal]]
+> > [[Project Proposal]] - **Due** Fri 7 November 2025, 8 PM (TBC) 
+> > [[Literature, Technology and Data Survey]] - **Due** Fri 5 December 2025, 8 PM (TBC) 
 > > [[Project Planning]]
 > [[Implementation]]
-> [[Evaluation]]
-> [[Presentation]]
-
-> Coursework
-> > [[Final Report]]
-> [[Presentation]]
-
-[CM32017, CM32028, CM52018 – Supervisor Selection Form](https://docs.google.com/forms/d/e/1FAIpQLSfJZNVw8BcorSybg9h1Pv8HC4OEHZFD41MkPocucuI7LLNJ9w/viewform)
+> [[Demonstration of Progress]] - **Due** Mon 16 February 2026, 8 PM (TBC) **worth 10%** 
 
 ---
 
@@ -32,7 +26,7 @@
 Project Proposal Fri 7 November 2025, 8 PM (TBC) 
 Literature, Technology and Data Survey Fri 5 December 2025, 8 PM (TBC) 
 Demonstration of Progress (10%) Mon 16 February 2026, 8 PM (TBC) 
-Dissertation (90%) Fri 1 May 2026, 8 PM (TBC
+Dissertation (90%) Fri 1 May 2026, 8 PM (TBC)
 
 
 •Weeks 1–3: select project ideas and find a supervisor
