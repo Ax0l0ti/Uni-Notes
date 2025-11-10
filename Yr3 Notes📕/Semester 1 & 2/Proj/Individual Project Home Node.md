@@ -15,6 +15,7 @@
 > > [[Potential Projects]]
 > > [[Project Overview]]
 > > [[Project Proposal]] - **Due** Fri 7 November 2025, 8 PM (TBC) 
+> > [[Proj Interviews]]
 > > [[Literature, Technology and Data Survey]] - **Due** Fri 5 December 2025, 8 PM (TBC) 
 > > [[Project Planning]]
 > [[Implementation]]

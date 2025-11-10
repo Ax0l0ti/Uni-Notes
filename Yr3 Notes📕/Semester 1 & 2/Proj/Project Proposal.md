@@ -118,10 +118,14 @@ Second, we propose a multiclass student performance prediction model (RLCHI) bui
 post cord 
 different post codes different schools
 
+
+OFQUAL ALGO 
+[Ofqual exam results algorithm - Wikipedia](https://en.wikipedia.org/wiki/Ofqual_exam_results_algorithm)
 ### Datasets
 ---
 Overall Trends
 [A level outcomes in England](https://analytics.ofqual.gov.uk/apps/Alevel/Outcomes/)
+
 Kaggle
 [Dataset for Multiple Regression](https://www.kaggle.com/datasets/mitgandhi10/dataset-for-multiple-regression)
 10,000 rows and six features including ‘Hours Studied’, ‘Previous Scores’, ‘Extracurricular Activities’, ‘Sleep Hours’, ‘Sample Question Papers Practiced’, and ‘Performance Index’—which serves as the target variable reflecting overall academic achievement.
@@ -183,3 +187,12 @@ The Portuguese student performance dataset, available through UCI Machine Learni
 5. Evaluate models on UK educational datasets (OULAD, individual school data) with A-Level specific features, avoiding over-generalization from international datasets.
     
 6. Combine algorithmic predictions with teacher judgment through hybrid models that preserve teacher expertise while leveraging computational pattern recognition.
+
+
+
+recursive feature elimination (RFE)
+[Linear Support Vector Machines for Prediction of Student Performance in School‐Based Education - Naicker - 2020 - Mathematical Problems in Engineering - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1155/2020/4761468)
+
+
+NN [Modelling, prediction and classification of student academic performance using artificial neural networks | Discover Applied Sciences](https://link.springer.com/article/10.1007/s42452-019-0884-7)
+LOOK AT THISS [Paper Title (use style: paper title)](https://www.ripublication.com/ijaer18/ijaerv13n2_46.pdf)
