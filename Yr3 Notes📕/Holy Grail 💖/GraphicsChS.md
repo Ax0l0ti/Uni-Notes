@@ -15,12 +15,13 @@
 
 ---
 > [!danger]+ _🕰️ Speed run_
-> #todo at the end of the term
+> todo at the end of the term
 
 ### **Words to add** 
 Barycentric Coordinates
 OBJ
-
+Fresnel 
+Snell's
 
 ---
 # Exam breakdown

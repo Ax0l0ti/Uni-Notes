@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
+                "file": "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Proposal"
+              "title": "Adv Vision"
             }
           }
         ]
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"yr 2\"",
+                "query": "specu",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,12 +183,19 @@
   },
   "active": "d67119d85f7b5a39",
   "lastOpenFiles": [
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
+    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
+    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/Cloud Computing.md",
+    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Interviews.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temporal Difference Learning.md",
@@ -214,15 +221,8 @@
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Monte Carlo Methods.md",
     "Attachments/Importance Sampling.png",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Markov Decision Processes.md",
-    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
-    "Yr1 Notes📗/Yr1 Metadata/Yr 1 PDFS.md",
     "Attachments/Latex Cheatsheet.pdf",
-    "Yr3 Notes📕/Semester 1/Complexity/P vs NP.md",
     "Yr3 Notes📕/Semester 1/Complexity/ComplexityLectureNotes.pdf",
-    "Yr3 Notes📕/Semester 1/Complexity/Big O & Complexity Basics.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
-    "Yr3 Notes📕/Holy Grail 💖/3rd Year Intro.md",
-    "Yr3 Notes📕/Holy Grail 💖/BStratChS.md",
     "Attachments/triplet loss vs Classification.png",
     "Attachments/Triplet Loss.png",
     "Untitled.canvas",

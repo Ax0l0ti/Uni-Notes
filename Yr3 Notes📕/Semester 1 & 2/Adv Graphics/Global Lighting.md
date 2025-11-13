@@ -45,6 +45,12 @@ general light in a scene. The reason shadows and under table has light & colour
 Directional lights
 from a source
 Diffuse / Lambertian 
+**Lambertian reflection model**
+$𝐼 =𝐼_𝑖𝑘_𝑑 (𝑁.𝐿)$ $𝐼_𝑖$ is the diffuse intensity of the light $i$. 
+$𝑘_𝑑$ is the diffuse co-efficient of the object surface. 
+𝑁 is the normal of the object surface. 
+𝐿 is the direction towards the light.
+
 https://youtu.be/HPNW0we-ft0?si=a-ERiKG2tx9FqYL5
 ![[Pasted image 20251020144702.png|300]]
 Specular
@@ -60,26 +66,19 @@ Reason why under the table has light
 6. Diffuse and specular light terms,
 Specular is mirror, inifintely far light source
 Diffuse is light diffuses OBVIOUSLLY
-7. Lambertian reflection model
-$𝐼 =𝐼_𝑖𝑘_𝑑 (𝑁.𝐿)$ $𝐼_𝑖$ is the diffuse intensity of the light $i$. 
-$𝑘_𝑑$ is the diffuse co-efficient of the object surface. 
-𝑁 is the normal of the object surface. 
-𝐿 is the direction towards the light.
 
-8. Dot product calculations for lighting,
-9. Reflection and glossy surfaces,
-10. Specular reflection calculations,
-11. Reflection direction and ray tracing,
-12. Recursive ray tracing for reflections,
-13. Fresnel equations for refraction,
-14. Snell's law and angle calculations,
-15. Total internal reflection considerations,
-16. Shadow handling in ray tracing,
-17. Recursive definitions and stopping conditions,
-18. Visual effects in ray tracing,
-19. Practical ray tracing examples and rendering,
-20. CM5 coursework preparation details
-
+7. Specular reflection calculations,
+8. Reflection direction and ray tracing,
+9. Recursive ray tracing for reflections,
+10. Fresnel equations for refraction,
+11. Snell's law and angle calculations,
+12. Total internal reflection considerations,
+13. Shadow handling in ray tracing,
+14. Recursive definitions and stopping conditions,
+15. Visual effects in ray tracing,
+16. Practical ray tracing examples and rendering,
+17. CM5 coursework preparation details
+Fresnel Snell's
 
 ![[graphics lab struct.png]]
 

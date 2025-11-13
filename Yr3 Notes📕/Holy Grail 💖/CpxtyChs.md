@@ -58,6 +58,14 @@ Exam details when given
 > > [Independent set (graph theory) - Wikipedia](https://en.wikipedia.org/wiki/Independent_set_\(graph_theory\)) also called Anti-Clique
 > 
 
+> [!heart]+ Proofs
+> > [!d]- 
+> > **infimum**- 
+> > **supramum**
+> 
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-
+> 
+
 
 
 > [!leaf]+ Additional Topics

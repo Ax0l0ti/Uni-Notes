@@ -18,20 +18,19 @@
 
 --- 
 > [!danger]+ *Speed run*
-> Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
+> 
+We change everything in the feature domain to avoid higher computation to do **mults** instead of **powers**
 
 ---
 
-#TODO [Topic: Lecture 7&8 Fourier Transform: Properties and Applications | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=9)
+#TODO Search up 3blue1brown forier
+[Topic: Lecture 7&8 Fourier Transform: Properties and Applications | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=9)
 
 The Fourier transform enables us to observe the characteristics of the image and design the filter that would solve the problem 
 
 This is similar to the way we used histogram equalization to get insights about the intensity domain and design a point filter
 
-We change everything in the feature domain to avoid higher computation to do mults instead of powers
+We change everything in the feature domain to avoid higher computation to do **mults** instead of **powers**
 
 #### Definition and Formula
 
