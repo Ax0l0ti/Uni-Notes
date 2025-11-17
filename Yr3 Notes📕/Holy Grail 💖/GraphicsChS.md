@@ -52,7 +52,7 @@ Snell's
 > > • Primary rays – from the eye into the scene. 
 > > • Shadow rays – from an object to a light.
 > > 
-> > 
+> > ![[Pasted image 20251113161851.png]]
 > 
 > > [!omega]- Shadow & Shade
 > > Shadows are vital to a realistic scene, but is costly to do realistically. To find, work out if light intersection hits other obj
@@ -106,6 +106,8 @@ Snell's
 > **Simulation**
 
 > [!NOTE]+ Pipeline
+> Pipeline overview
+> ![[3D Pipeline overview.png|500]]
 > **GPUs**
 > **Graphics Pipeline**
 > **Rasterisation**

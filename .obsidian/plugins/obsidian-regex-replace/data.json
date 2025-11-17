@@ -1,6 +1,6 @@
 {
-  "findText": "–",
-  "replaceText": "-",
+  "findText": "dagger",
+  "replaceText": "top",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

@@ -25,8 +25,6 @@
 > Semester 2
 > > [[Yr2 Notes📘/Semester 1 & 2/ML/Sem 2 Breakdown ML]]
 > > [[Yr2 Notes📘/Semester 1 & 2/ML/Recurrent NN]]
-> > [[Natural Language Processing]]
-> > [[Deep Learning]]
 > > 
 > 
 

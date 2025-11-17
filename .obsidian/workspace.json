@@ -20,8 +20,47 @@
               "icon": "lucide-file",
               "title": "Adv Vision"
             }
+          },
+          {
+            "id": "2e5a957c4a558480",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T🏷️/M📚/Yr3📕/Vision.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vision"
+            }
+          },
+          {
+            "id": "ef8434b539383949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "T🏷️/M📚/Yr3📕/Graphics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Graphics"
+            }
+          },
+          {
+            "id": "931f3ce425dd4490",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -40,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "specu",
+                "query": "tag:#Chatted",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,13 +96,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Global Lighting"
+              "title": "Outline"
             }
           },
           {
@@ -181,51 +219,51 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d67119d85f7b5a39",
+  "active": "931f3ce425dd4490",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
-    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Cloud Computing.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Interviews.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temporal Difference Learning.md",
-    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-    "Attachments/Pasted image 20251030222203.png",
-    "T🏷️/M📚/All Modules.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
-    "Yr3 Notes📕/Yr3 Metadata/Yr3 PDFS.md",
-    "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
-    "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
+    "T🏷️/M📚/Yr3📕/Business Strat.md",
+    "T🏷️/M📚/Yr2📘/ML.md",
+    "T🏷️/M📚/All Modules.md",
+    "T🏷️/M📚/Yr3📕/Graphics.md",
+    "T🏷️/M📚/Yr3📕/Complexity.md",
+    "T🏷️/M📚/Yr3📕/Proj.md",
+    "T🏷️/M📚/Yr3📕/RL.md",
+    "T🏷️/M📚/Yr3📕/Vision.md",
+    "T🏷️/M📚/Yr2📘/Algorithms & Complexity.md",
+    "T🏷️/M📚/Yr2📘/Cyber Security.md",
+    "T🏷️/M📚/Yr2📘/Advanced Prog.md",
     "T🏷️/S⚙️/YrAbouts/About 2 📘.md",
     "T🏷️/S⚙️/YrAbouts/About 3 📕.md",
     "T🏷️/S⚙️/YrAbouts/About 1 📗.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr 3 Exam Periods and weightings.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr 3 Module Codes.md",
+    "Untitled.canvas",
+    "Yr2 Notes📘/Yr2 Metadata/Yr2 Resources.md",
+    "Attachments/Simple.png",
+    "Attachments/Pasted image 20251007151153.png",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
+    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
+    "Attachments/3D Pipeline overview.png",
+    "Attachments/Pasted image 20251113161851.png",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
+    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
+    "Attachments/Pasted image 20251030222203.png",
+    "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
+    "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
     "Base of Everything.base",
     "Attachments/Pasted image 20251029183613.png",
     "Attachments/TD Prediction Visual.png",
     "Attachments/Table of Bootstrapping & Sampling.png",
     "Attachments/Summary of 1st Half of Sem 1 RL.png",
     "Attachments/Monte Carlo Visual.png",
-    "Attachments/Dynamic Prog visual.png",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Monte Carlo Methods.md",
-    "Attachments/Importance Sampling.png",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Markov Decision Processes.md",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr3 Notes📕/Semester 1/Complexity/ComplexityLectureNotes.pdf",
-    "Attachments/triplet loss vs Classification.png",
-    "Attachments/Triplet Loss.png",
-    "Untitled.canvas",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "T🏷️/M📚/Yr3📕",
     "T🏷️/M📚/Yr2📘/Untitled",

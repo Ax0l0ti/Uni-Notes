@@ -73,6 +73,14 @@
 > > **Bootstrapping**: Do we base our new estimates off of old estimates?
 > > **Sampling**: Can we update based on generated sample experience instead of relying on a perfect model ?
 > > ![[Table of Bootstrapping & Sampling.png|300]]
+> 
+> 
+> > [!NOTE]-  Dyna Q
+> >  Q learning, but after each update, take random **simulated** steps that help propagate the updated value. However, if environment changes, its cooked. New exploit is easier to learn than old best path blocked. Dyna Q + solves changing environment
+> > 
+> > > [!NOTE] Dyna Q + 
+> > >  the longer it has been since we tried $(S, a)$ assume higher chance it has changed.  $\tau_{s,a}$ is the time steps since reward  taken. This $\gamma$ addition rewards exploration, 
+> > >  $Q(s,a) \leftarrow Q(s,a) + \alpha [ r + k\sqrt{\tau_{s,a}} + \gamma \max_{a'} Q(s',a') - Q(s,a) ]$
 
 
 

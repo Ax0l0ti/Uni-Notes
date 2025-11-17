@@ -78,3 +78,245 @@ Exam details when given
 ---
 #TODO
 [[Grail 🩷]]
+
+
+
+#Chatted 
+
+---
+
+## 🧠 Complexity Theory Foundations
+
+**Algorithm** — A finite, well-defined sequence of computational steps that transform input into output.
+
+**Computational Problem** — A task mapping valid inputs to desired outputs, often formalised as a function or decision problem.
+
+**Mathematical Model of Computation** — A formal abstraction (e.g. Turing Machine) defining what an algorithm can do and how efficiently.
+
+**Turing Machine (TM)** — A theoretical model with a tape, head, and finite control used to define computation and algorithmic complexity.
+
+**Input Encoding** — Representation of problem instances as finite strings over a finite alphabet.
+
+**Alphabet ($\Sigma$)** — A finite set of symbols used to build input strings.
+
+**Word / String** — A finite sequence of symbols from an alphabet.
+
+**Yes–No Problem (Decision Problem)** — A computational problem whose answer is either _Yes_ or _No_.
+
+**Polynomial-Time Algorithm** — An algorithm whose running time grows no faster than a polynomial in the size of its input.
+
+**Exponential Time** — Algorithms whose running time grows as $O(a^n)$ for some $a>1$; generally infeasible for large $n$.
+
+**Effective Algorithm** — A precisely defined and executable procedure guaranteed to produce correct results for valid inputs.
+
+**Brute Force Algorithm** — Searches all possible cases exhaustively, usually taking exponential time.
+
+---
+
+## ⚙️ Asymptotic Notation
+
+**Big-O ($O$)** — Upper bound: $f(n)=O(g(n))$ means $f(n)$ grows at most as fast as $cg(n)$ for some constant $c$.
+
+**Big-Omega ($\Omega$)** — Lower bound: $f(n)=\Omega(g(n))$ means $f(n)$ grows at least as fast as $cg(n)$ for large $n$.
+
+**Big-Theta ($\Theta$)** — Tight bound: $f(n)=\Theta(g(n))$ means $f(n)$ grows at the same asymptotic rate as $g(n)$.
+
+**Polynomial Growth** — Growth proportional to some $n^k$, where $k$ is constant.
+
+**Exponential Growth** — Growth proportional to $a^n$, where $a>1$.
+
+**Logarithmic Growth** — Growth proportional to $\log n$, increases very slowly.
+
+---
+
+## 🧩 Graph Theory Concepts
+
+**Graph $G=(V,E)$** — A set of vertices $V$ and edges $E$ connecting them.
+
+**Vertex (Node)** — A single point in a graph representing an entity.
+
+**Edge (Arc)** — A connection or relation between two vertices.
+
+**Directed Graph (Digraph)** — Graph where edges have a direction $(v_i,v_j) \neq (v_j,v_i)$.
+
+**Undirected Graph** — Graph where edges are unordered pairs; direction is irrelevant.
+
+**Adjacency Matrix** — A binary matrix where entry $(i,j)=1$ if edge $(v_i,v_j)\in E$.
+
+**Graph Encoding** — Representation of a graph as a binary or symbolic string for Turing Machines.
+
+**Travelling Salesman Problem (TSP)** — Find the shortest route visiting all cities exactly once and returning to the start.
+
+**Triangle Inequality** — For distances $d$, $d(i,j) + d(j,k) \ge d(i,k)$.
+
+**Minimum Spanning Tree (MST)** — A subset of edges connecting all vertices with minimum total weight.
+
+**Kruskal’s Algorithm** — Builds the MST by repeatedly adding the smallest edge that doesn’t form a cycle.
+
+**Prim’s Algorithm** — Grows an MST by starting at one vertex and repeatedly adding the smallest adjacent edge.
+
+**Approximation Algorithm** — Produces near-optimal solutions within a provable ratio $\rho(n)$ of the optimum.
+
+---
+
+## 🧮 Computational Classes
+
+**Class $P$** — Set of decision problems solvable by a deterministic TM in polynomial time.
+
+**Class $NP$** — Set of decision problems whose _solutions_ can be _verified_ in polynomial time by a deterministic TM, or _solved_ by a nondeterministic TM in polynomial time.
+
+**NP-Hard** — Problems at least as hard as any problem in $NP$, not necessarily in $NP$ themselves.
+
+**NP-Complete** — Problems in $NP$ to which every other $NP$ problem can be polynomially transformed.
+
+**Polynomial Transformation (Reduction)** — A function $f$ computable in polynomial time such that $x\in L_1 \iff f(x)\in L_2$.
+
+**Polynomial Equivalence** — Two problems reducible to each other in polynomial time ($L_1 \propto L_2$ and $L_2 \propto L_1$).
+
+**Cook’s Theorem** — Proves that SAT is NP-Complete.
+
+**Satisfiability Problem (SAT)** — Determine whether a Boolean formula has a truth assignment that makes it true.
+
+**3-SAT** — SAT restricted to formulas in CNF where each clause has exactly three literals.
+
+**Decision Problem** — Problem with binary (Yes/No) answers.
+
+**Search Problem** — Problem requiring explicit construction of a solution, not just existence.
+
+**Turing Transformation** — A general reduction allowing multiple calls to a subroutine for another problem.
+
+**Oracle Turing Machine (OTM)** — TM equipped with a special tape and oracle that can instantly decide a particular language.
+
+---
+
+## 🔢 Boolean Logic and Formulas
+
+**Boolean Variable** — A variable that can take values _true_ or _false_.
+
+**Literal** — A Boolean variable $x_i$ or its negation $\bar{x_i}$.
+
+**Clause** — A disjunction ($\lor$) of literals, e.g. $(x_1 \lor \bar{x_2} \lor x_3)$.
+
+**Conjunctive Normal Form (CNF)** — A conjunction ($\land$) of clauses, each a disjunction of literals.
+
+**Disjunctive Normal Form (DNF)** — A disjunction ($\lor$) of conjunctions of literals.
+
+**Tseitin Transformation** — Converts an arbitrary Boolean formula into an _equisatisfiable_ CNF formula, increasing size only linearly.
+
+**Resolution** — Rule of inference combining clauses $(A \lor x)$ and $(B \lor \bar{x})$ into $(A \lor B)$ to simplify SAT.
+
+**DPLL Algorithm** — Recursive SAT-solving method that chooses variable assignments and backtracks when contradictions occur.
+
+**CDCL (Conflict-Driven Clause Learning)** — Advanced SAT solver extending DPLL with learned clauses from conflicts.
+
+**Two-Watched-Literals Scheme** — Efficient SAT implementation tracking two unassigned literals per clause to minimize scanning.
+
+---
+
+## 📈 Algorithmic Problems & Proofs
+
+**Hamiltonian Cycle** — A cycle visiting each vertex exactly once.
+
+**Graph Isomorphism** — Determine whether two graphs are structurally identical via a bijective mapping of vertices.
+
+**Subgraph Isomorphism** — Determine whether one graph contains a subgraph isomorphic to another; NP-complete.
+
+**Linear Programming (LP)** — Determine if a system of linear inequalities has a solution; solvable in polynomial time.
+
+**Distinctness Problem** — Determine whether all elements of a list are distinct.
+
+**Sorting Lower Bound** — Any comparison-based sorting algorithm requires at least $\Omega(n \log n)$ comparisons.
+
+**Algebraic Computation Tree** — Decision model for problems defined by algebraic operations and comparisons.
+
+**Decision Tree** — Tree structure representing comparisons guiding an algorithm’s choices.
+
+**Semialgebraic Set** — Subset of $\mathbb{R}^n$ defined by finitely many polynomial equalities/inequalities.
+
+---
+
+## 💡 Randomized and Probabilistic Classes
+
+**Monte Carlo Algorithm** — Runs in polynomial time and returns the correct result _with high probability_.
+
+**Las Vegas Algorithm** — Always returns a correct result; running time is polynomial _on average_.
+
+**Class $RP$** — Problems solvable by a probabilistic polynomial-time algorithm that may err on _false negatives_.
+
+**Class $co\text{-}RP$** — Complement of $RP$, may err on _false positives_.
+
+**Class $BPP$** — Problems solvable in polynomial time with bounded two-sided error probability ($<\frac{1}{2}$).
+
+**Class $ZPP$** — Zero-error probabilistic polynomial time; expected polynomial runtime and always correct.
+
+**Atlantic City Algorithm** — Informal class: polynomial time with high probability and correct with high probability.
+
+---
+
+## 🧬 Quantum Computing Concepts
+
+**Qubit** — Quantum analogue of a bit; a normalized vector in $\mathbb{C}^2$.
+
+**Basis States** — Orthonormal vectors $|0\rangle$ and $|1\rangle$ spanning $\mathbb{C}^2$.
+
+**Superposition** — A qubit state $|\psi\rangle = \alpha|0\rangle + \beta|1\rangle$ with $|\alpha|^2 + |\beta|^2 = 1$.
+
+**Unitary Matrix** — Matrix $U$ satisfying $U^\dagger U = I$, representing reversible evolution.
+
+**Hermitian Matrix** — Matrix equal to its own conjugate transpose ($A = A^\dagger$).
+
+**Hadamard Matrix / Gate** — Single-qubit gate creating equal superpositions: $H|0\rangle = \frac{1}{\sqrt{2}}(|0\rangle + |1\rangle)$.
+
+**Tensor Product ($\otimes$)** — Combines quantum states or matrices to represent multi-qubit systems.
+
+**Non-Commutativity** — $A \otimes B \ne B \otimes A$ in general.
+
+**Bloch Sphere** — Geometric representation of qubit states as points on a unit sphere.
+
+**Entanglement** — Non-separable multi-qubit state exhibiting correlations stronger than classical ones.
+
+**Quantum Measurement** — Collapses superposed state probabilistically into a basis state.
+
+**Quantum Gate** — Unitary operator acting on qubits to manipulate states.
+
+**Oracle Gate** — Encodes a function $f(x)$ within a quantum circuit, often used for black-box problems.
+
+**Quantum Circuit** — Network of quantum gates performing computation on qubits.
+
+**Quantum Parallelism** — Evaluating $f(x)$ on many superposed inputs simultaneously.
+
+---
+
+## 🔬 Mathematical & Algebraic Tools
+
+**Vector Space** — Set of vectors closed under addition and scalar multiplication.
+
+**Linear Transformation** — Function preserving vector addition and scalar multiplication.
+
+**Adjoint ($A^\dagger$)** — Conjugate transpose of a complex matrix.
+
+**Complex Conjugate ($\bar{z}$)** — Reflection of a complex number across the real axis.
+
+**Semialgebraic Geometry** — Study of sets defined by polynomial constraints, used in lower bound proofs.
+
+**Connected Components** — Maximal subsets of a topological space that are path-connected.
+
+---
+
+## 🧾 Meta Concepts
+
+**Rigorous Definition of Algorithm** — Necessary for proving nonexistence or existence of algorithms within a model.
+
+**Reasonable Encoding Scheme** — Encoding that doesn’t artificially inflate input size beyond polynomial limits.
+
+**Reduction** — Mapping one problem into another, preserving solvability and typically computable in polynomial time.
+
+**Approximation Ratio ($\rho$)** — Quantifies how close an approximate solution is to optimal.
+
+**Lower Bound Proof** — Demonstrates that no algorithm can solve a problem faster than a certain complexity.
+
+**Existence vs. Nonexistence of Algorithm** — Foundational to proving problems are unsolvable or intractable.
+
+---
+
+Would you like me to generate a **second version** formatted as an **Obsidian callout summary** (with collapsible sections for each topic and styled headers like `> [!info]` or `> [!abstract]`)? That format works beautifully for visual organization in your vault.
