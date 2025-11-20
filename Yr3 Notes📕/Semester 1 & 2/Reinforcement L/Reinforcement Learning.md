@@ -14,6 +14,7 @@
 > [[Dynamic Programming]]
 > [[Monte Carlo Methods]]
 > [[Temporal Difference Learning]]
+> [[Deep Deterministic Policy Gradient]]
 > [[Deep RL]]
 
 ---

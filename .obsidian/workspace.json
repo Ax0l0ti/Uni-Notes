@@ -53,10 +53,14 @@
             "id": "931f3ce425dd4490",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Deep Deterministic Policy Gradient.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Deterministic Policy Gradient"
             }
           }
         ],
@@ -221,6 +225,12 @@
   },
   "active": "931f3ce425dd4490",
   "lastOpenFiles": [
+    "Attachments/DDPG pseudo code.png",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Deep Deterministic Policy Gradient.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Attachments/Pasted image 20251117112942.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
     "T🏷️/M📚/Yr3📕/Business Strat.md",
@@ -244,14 +254,9 @@
     "Attachments/Simple.png",
     "Attachments/Pasted image 20251007151153.png",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
-    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Attachments/3D Pipeline overview.png",
     "Attachments/Pasted image 20251113161851.png",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
     "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Attachments/Pasted image 20251030222203.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
@@ -261,7 +266,6 @@
     "Attachments/TD Prediction Visual.png",
     "Attachments/Table of Bootstrapping & Sampling.png",
     "Attachments/Summary of 1st Half of Sem 1 RL.png",
-    "Attachments/Monte Carlo Visual.png",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr3 Notes📕/Semester 1/Complexity/ComplexityLectureNotes.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",

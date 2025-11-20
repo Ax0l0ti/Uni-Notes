@@ -17,7 +17,7 @@
 --- 
 > [!tip]+ 🕰️* Speed run*
 > Break down of topic 
-> - p1
+> link [Week: Assessment | CM32017 - Individual Project (also CM32028) | Home](https://moodle.bath.ac.uk/course/section.php?id=263326#module-1476441)
 > - p2
 
 ---
