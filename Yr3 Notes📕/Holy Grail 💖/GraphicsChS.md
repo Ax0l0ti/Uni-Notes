@@ -94,6 +94,22 @@ Snell's
 > > Super Sampling Anti-Aliasing 
 > > Anti-Aliasing 
 
+> [!example]+ Animation Principles
+> 1. Stretch and squish - gives life
+> 2. anticipation - use watchers expectation
+> 3. staging - where things are placed. Convo face toward feels inclusive 
+> 4. Inbetweening / Pose to pose - Keyframes and algorithm to draw inbetween
+> 5. Independence - different parts have different timeframes ( cape falls after superhero landing)
+> 6. Acceleration and decelleration 
+> 7. arc - perfect straight is unnatural 
+> 8. Second action - always supplementary actions
+> 9. Timing - not reality, can show mood, theme, emotion
+> 10. Exaggeration - adds more life
+> 11. Always think 3d even in 2d
+> 12. Appeal - animation version of charisma (likability)
+
+
+
 ---
 
 > [!bug] Animation
