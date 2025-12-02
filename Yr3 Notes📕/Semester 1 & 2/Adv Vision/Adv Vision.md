@@ -14,9 +14,10 @@
 > [[Edge Detection]]
 > [[Deep Learning]]
 > [[Segmentation]]
+> [[Vision Transformers]]
 > [[CNN]]
-> [[Project Planning]]
-> [[Recognition]]
+> [[Face Recognition]]
+> [[Segmentation]]
 > 
 > Coursework
 > > [[Vision Project]]

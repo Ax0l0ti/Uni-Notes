@@ -57,8 +57,8 @@
 > - if $pos$, corner, if $neg$, edge if near $0$, flat 
 >     
 > - **SIFT**: Scale-Invariant Feature Transform for detecting and describing local features.
+> - Blob detection Scale invariant intrest points are local maxima for different sized Laplace of Gauss
 > 
-
 
 > [!note]+ CNNs
 > - **Definition**: Convolutional Neural Networks for image processing

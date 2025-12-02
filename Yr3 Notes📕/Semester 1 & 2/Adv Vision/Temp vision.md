@@ -32,3 +32,5 @@ Here are strong resources (lecture notes, course pages) you can use to study ahe
 |**CAP 6412 Advanced Computer Vision (UCF Lecture Notes PDF)**|Classic advanced-vision lecture handouts etc. [crcv.ucf.edu](https://www.crcv.ucf.edu/wp-content/uploads/2019/03/CAP6412_Spring2016_lec2.pdf?utm_source=chatgpt.com)|
 
 ---
+
+![[Pasted image 20251127161122.png]]
