@@ -82,6 +82,14 @@
 > > >  the longer it has been since we tried $(S, a)$ assume higher chance it has changed.  $\tau_{s,a}$ is the time steps since reward  taken. This $\gamma$ addition rewards exploration, 
 > > >  $Q(s,a) \leftarrow Q(s,a) + \alpha [ r + k\sqrt{\tau_{s,a}} + \gamma \max_{a'} Q(s',a') - Q(s,a) ]$
 
+> [!example]+
+> > [!d]- Coarse Decoding
+> > Convert to binary feature vector correspondent to circles. If new visited state shares states (same intersection) best course of action likely the same
+> > ![[Coarse Decoding.png]]
+> 
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]- Tile Decoding
+> 
+
 
 
 ---

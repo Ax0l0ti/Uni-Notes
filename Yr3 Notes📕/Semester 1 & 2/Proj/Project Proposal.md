@@ -196,3 +196,5 @@ recursive feature elimination (RFE)
 
 NN [Modelling, prediction and classification of student academic performance using artificial neural networks | Discover Applied Sciences](https://link.springer.com/article/10.1007/s42452-019-0884-7)
 LOOK AT THISS [Paper Title (use style: paper title)](https://www.ripublication.com/ijaer18/ijaerv13n2_46.pdf)
+
+[An-Artificial-Intelligence-Approach-to-Monitor-and-Predict-Student-Academic-Performance.pdf](https://www.researchgate.net/profile/Noornajwa-Md-Amin/publication/381321809_An_Artificial_Intelligence_Approach_to_Monitor_and_Predict_Student_Academic_Performance/links/66c94c9575613475fe76f12a/An-Artificial-Intelligence-Approach-to-Monitor-and-Predict-Student-Academic-Performance.pdf)

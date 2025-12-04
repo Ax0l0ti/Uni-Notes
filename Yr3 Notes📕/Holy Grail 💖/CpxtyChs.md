@@ -2,7 +2,7 @@
 ---
 > [!info]+ Module Details
 > Includes information about (genus:: Cheat Sheet) from [Year::3]. Links to Module Note and its correspondent attribute tag 
-> *Module Tag :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Complexity]]
+> *Module Tag :* [[Yr3 Notes📕/Semester 1/Complexity/Complexity|Complexity]]
 > *Link :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Complexity]]
 > *Cheat Sheet tag :* [[Grail 🩷]]
 > 
@@ -57,6 +57,15 @@ Exam details when given
 > > **Independent Set Problem** - (is complement of clique) set of vertices where no 2 adjacent
 > > [Independent set (graph theory) - Wikipedia](https://en.wikipedia.org/wiki/Independent_set_\(graph_theory\)) also called Anti-Clique
 > 
+
+> [!example]+ Quantum
+> > [!d]- Deutsch and Deutsch-Josza 
+> > 
+> 
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-
+> 
+
+
 
 > [!heart]+ Proofs
 > > [!d]- 
