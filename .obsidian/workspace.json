@@ -67,14 +67,17 @@
             "id": "de5dc538c9097507",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
-                "mode": "source",
-                "source": false
+                "file": "Syncing & Personals/Playground 🛝/Minecraft.canvas",
+                "viewState": {
+                  "x": 37.54690979687157,
+                  "y": 30.652143567599577,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Project Overview"
+              "icon": "lucide-layout-dashboard",
+              "title": "Minecraft"
             }
           }
         ],
@@ -239,13 +242,14 @@
   },
   "active": "de5dc538c9097507",
   "lastOpenFiles": [
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Untitled.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Base of Everything.base",
     "Yr3 Notes📕/Semester 1/Complexity/Temp Complexity.md",
     "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
     "Attachments/Coarse Decoding.png",
     "Yr1 Notes📗/Holy Grail 💚/MfCChS.md",
@@ -272,8 +276,6 @@
     "Attachments/Pasted image 20251117112942.png",
     "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
-    "T🏷️/M📚/Yr3📕/Business Strat.md",
-    "Untitled.canvas",
     "Attachments/Simple.png",
     "Attachments/Pasted image 20251007151153.png",
     "Attachments/3D Pipeline overview.png",
