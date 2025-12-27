@@ -67,17 +67,14 @@
             "id": "de5dc538c9097507",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-                "viewState": {
-                  "x": 37.54690979687157,
-                  "y": 30.652143567599577,
-                  "zoom": 0
-                }
+                "file": "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Minecraft"
+              "icon": "lucide-file",
+              "title": "CpxtyChs"
             }
           }
         ],
@@ -242,11 +239,14 @@
   },
   "active": "de5dc538c9097507",
   "lastOpenFiles": [
+    "Attachments/Quantum Fourier.png",
+    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
+    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Untitled.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Base of Everything.base",
     "Yr3 Notes📕/Semester 1/Complexity/Temp Complexity.md",
     "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
@@ -270,7 +270,6 @@
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/CNN.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Dynamic Programming.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
-    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
     "Attachments/DDPG pseudo code.png",
     "Attachments/Pasted image 20251117112942.png",
@@ -279,7 +278,6 @@
     "Attachments/Simple.png",
     "Attachments/Pasted image 20251007151153.png",
     "Attachments/3D Pipeline overview.png",
-    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
     "Attachments/Latex Cheatsheet.pdf",

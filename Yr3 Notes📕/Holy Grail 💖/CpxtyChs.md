@@ -62,8 +62,18 @@ Exam details when given
 > > [!d]- Deutsch and Deutsch-Josza 
 > > 
 > 
-> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-  Shor, Grover
+> > b
 > 
+> > [!danger]+ Quantum Key Distribution
+> >  Since we are relying on quantum mechanics, A and B must actually be able to share quanta. So if A and B are using a fibre optic cable to communicate the quanta, that cable must directly connect A and B, with no repeaters etc. in the way. 
+> >  All known schemes rely on A and B sharing an authenticated classical communications channel. Hence authenticated channel invalidates need of secrecy. BUT given time this could be cracked, whilst the resultant setup would **NOT**
+> >  3. A and B must have good random number generators that can’t be predicted by an eavesdropper, even though the eavesdropper can see some output of the generator.
+> 
+> > [!NOTE] Quantum Fourier
+> > ![[Quantum Fourier.png]]
+
+
 
 
 
