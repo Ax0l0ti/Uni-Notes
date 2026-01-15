@@ -27,10 +27,15 @@ Snell's
 # Exam breakdown
 
 > [!danger]+ Exam
-> Exam details when given
+> Exam
 > 
 > > [!heart]+ Structure Overview
-> > Combination of theory questions and implementation tasks
+> > 3 Q of subparts made of bookwork and thinking 
+> > contain brief amount of bookwork - innovative parts of calculation will be similar to Problem sheet. 
+> > Could imagine do definiitions of deutcha, then non-bookwork part
+> > Might get asked to adapt, extend or apply in a different scenario
+> > 3007 was last version - pretty good structural similarity
+> > 
 > 
 > > [!omega]+ KEY NOTE
 > > Focus on diagrams and pseudo-code clarity

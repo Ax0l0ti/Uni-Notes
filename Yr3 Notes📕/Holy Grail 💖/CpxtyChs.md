@@ -29,7 +29,11 @@
 Exam details when given
 > 
 > > [!heart]+ Structure Overview
-> > Likely essay questions and problem-solving proofs
+> > 3 Q of subparts made of bookwork and thinking 
+> > contain brief amount of bookwork - innovative parts of calculation will be similar to Problem sheet. 
+> > Could imagine do definiitions of deutcha, then non-bookwork part
+> > Might get asked to adapt, extend or apply in a different scenario
+> > 3007 was last version - pretty good structural similarity
 > 
 > > [!omega]+ KEY NOTE
 > > Focus on clear definitions and correct notation
@@ -63,7 +67,8 @@ Exam details when given
 > > 
 > 
 > > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-  Shor, Grover
-> > b
+> > Grover is a Q Algo for solving unstructured search. Provides Quadratic Speed up ($N$ to $\sqrt{N}$). Starts superposition of all states, (achieved by Hadamard trans for each qubit). Oracle func marks state containing item via flipping amplitudes. Grover Diffusion Operator amplifies marked state & reduces amps of others. Repeat flip and amp roughly $\frac{\pi}{4}O(\sqrt{N})$ times. Measure probability
+> > 
 > 
 > > [!danger]+ Quantum Key Distribution
 > >  Since we are relying on quantum mechanics, A and B must actually be able to share quanta. So if A and B are using a fibre optic cable to communicate the quanta, that cable must directly connect A and B, with no repeaters etc. in the way. 
