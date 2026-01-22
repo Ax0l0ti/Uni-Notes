@@ -63,14 +63,14 @@ Exam details when given
 > 
 
 > [!example]+ Quantum
-> > [!d]- Deutsch and Deutsch-Josza 
-> > 
+> > [!omega]- Deutsch and Deutsch-Josza 
+> > Balanced or Constant. Deutsch for single cubit ( w check qubit). Deutsch-Josza for multi-cubit  $N+1$ ( w check qubit)
 > 
-> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-  Shor, Grover
+> > [!heart]-  Shor, Grover
 > > Grover is a Q Algo for solving unstructured search. Provides Quadratic Speed up ($N$ to $\sqrt{N}$). Starts superposition of all states, (achieved by Hadamard trans for each qubit). Oracle func marks state containing item via flipping amplitudes. Grover Diffusion Operator amplifies marked state & reduces amps of others. Repeat flip and amp roughly $\frac{\pi}{4}O(\sqrt{N})$ times. Measure probability
 > > 
 > 
-> > [!danger]+ Quantum Key Distribution
+> > [!danger]- Quantum Key Distribution
 > >  Since we are relying on quantum mechanics, A and B must actually be able to share quanta. So if A and B are using a fibre optic cable to communicate the quanta, that cable must directly connect A and B, with no repeaters etc. in the way. 
 > >  All known schemes rely on A and B sharing an authenticated classical communications channel. Hence authenticated channel invalidates need of secrecy. BUT given time this could be cracked, whilst the resultant setup would **NOT**
 > >  3. A and B must have good random number generators that can’t be predicted by an eavesdropper, even though the eavesdropper can see some output of the generator.
@@ -343,4 +343,140 @@ Exam details when given
 
 ---
 
-Would you like me to generate a **second version** formatted as an **Obsidian callout summary** (with collapsible sections for each topic and styled headers like `> [!info]` or `> [!abstract]`)? That format works beautifully for visual organization in your vault.
+## Computational Complexity & Theory  
+Cook’s Theorem  
+Ladner’s Theorem  
+P vs NP  
+NP  
+NP-Complete  
+NP-Hard  
+NP-Intermediate Problems  
+NP-Complete Problems  
+BQP  
+BPP  
+RP  
+Co-RP  
+Polynomial Time Complexity  
+Polynomial Space  
+Polynomial Time Transformations  
+Polynomial Transformations  
+Complexity Classes  
+Computational Complexity  
+Undecidability  
+Halting Problem  
+Semi-Decidable Sets  
+Computability  
+  
+## Decision Problems & Reductions  
+Decision Problems  
+Search Problems  
+Boolean Satisfiability Problem (SAT)  
+K-SAT  
+3-SAT  
+Satisfiability  
+Satisfiability Threshold Conjecture  
+Set Inclusion Problem  
+Membership Test  
+Feasibility Problem  
+  
+## Algorithms & Algorithmic Paradigms  
+Shor’s Algorithm  
+Grover’s Algorithm  
+Deutsch–Jozsa Algorithm  
+Quantum Phase Estimation  
+Quantum Fourier Transform  
+Continued Fraction Algorithm  
+Approximation Algorithms  
+Greedy Algorithms  
+Binary Search  
+Comparison-Based Sorting  
+Master Theorem  
+  
+## Quantum Computation & Information  
+Qubits  
+Multiple Qubits  
+Quantum Algorithms  
+Quantum Circuits  
+Quantum Gates  
+Controlled Operations  
+Unitary Matrices  
+Quantum Superposition  
+Quantum Entanglement  
+Quantum State Vectors  
+Measurement Probabilities  
+State Collapse  
+Independence of Qubits  
+Tensor Product for Multiple Qubits  
+Quantum Turing Machine  
+Quantum Communications  
+Quantum Key Distribution  
+Quantum Key Establishment  
+Eavesdropping Detection  
+  
+## Linear Algebra & Mathematical Foundations (Advanced Use)  
+Inner Product  
+Outer Products  
+Tensor Product  
+Kronecker Product  
+Orthonormal Basis  
+Gram–Schmidt  
+Eigenvalues  
+Eigenvectors  
+Hermitian Matrices  
+Adjoint  
+Unitary Operators  
+Bra–Ket Notation  
+Bloch Sphere  
+Orthogonality  
+  
+## Logic, SAT Solvers & Formal Methods  
+DPLL  
+CDCL (Conflict-Directed Clause Learning)  
+SMT  
+Resolution Algorithm  
+Conjunctive Normal Form (CNF)  
+Disjunctive Normal Form (DNF)  
+Clause Representation  
+Restart Strategies  
+Variable Assignment  
+  
+## Computation Models  
+Turing Machine  
+Oracle Turing Machine  
+Non-Deterministic Turing Machine  
+Single-Tape Turing Machine  
+Random Access Machine  
+Uniform Sequence of Machines  
+  
+## Decision Trees & Algebraic Geometry  
+Decision Tree  
+Computational Tree  
+Algebraic Computation Tree  
+Algebraic Computation Trees  
+Semi-Algebraic Sets  
+Cylindrical Algebraic Decomposition  
+Quantifier Elimination  
+Tarski’s Decision Method  
+Collins’ Algorithm  
+  
+## Graph Theory & NP Problems  
+Clique Problem  
+Vertex Cover Problem  
+Independent Set Problem  
+Travelling Salesman Problem  
+Hamiltonian Circuit  
+Graph Isomorphism  
+Bipartite Graphs  
+Connected Components  
+Minimum Spanning Tree  
+  
+## Randomised Algorithms  
+Monte Carlo Algorithms  
+Las Vegas Algorithms  
+  
+## Cryptography  
+RSA  
+Discrete Logarithm  
+Diffie–Hellman  
+Elliptic Curve Cryptography  
+Factoring

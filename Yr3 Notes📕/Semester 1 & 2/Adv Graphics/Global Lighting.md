@@ -35,8 +35,6 @@
 
 ---
 
-#TODO 
-
 1. Global lighting effects,
 2. Local lighting recap,
 Surface model

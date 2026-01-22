@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+                "file": "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indv Proj Data Used"
+              "title": "CpxtyChs"
             }
           },
           {
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deutsch",
+                "query": "hadam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,13 +101,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 246.50390243530273,
-    "collapsed": true
+    "width": 246.50390243530273
   },
   "right": {
     "id": "c3550d6260ac942e",
@@ -196,21 +194,27 @@
   },
   "active": "de5dc538c9097507",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+    "Attachments/Quantum Fourier.png",
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Temp Complexity.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
+    "Yr3 Notes📕/Holy Grail 💖/TODO.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
+    "Yr3 Notes📕/Semester 1/Complexity/P vs NP.md",
+    "T🏷️/M📚/Yr3📕/Complexity.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Yr3 Notes📕/Holy Grail 💖/Untitled.base",
     "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
     "Untitled.md",
-    "Attachments/Quantum Fourier.png",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
     "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Untitled.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Base of Everything.base",
-    "Yr3 Notes📕/Semester 1/Complexity/Temp Complexity.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
     "Attachments/Coarse Decoding.png",
     "Yr1 Notes📗/Holy Grail 💚/MfCChS.md",
@@ -226,15 +230,8 @@
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Temp vision.md",
     "Attachments/Pasted image 20251127161122.png",
     "Attachments/Transformer Block.png",
-    "Yr3 Notes📕/Holy Grail 💖/VisionChS.md",
-    "Yr2 Notes📘/Holy Grail 🩵/VCChS.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/CNN.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Dynamic Programming.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
     "Attachments/DDPG pseudo code.png",
     "Attachments/Pasted image 20251117112942.png",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Machine Learning.md",
     "Attachments/Simple.png",
     "Attachments/Pasted image 20251007151153.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
