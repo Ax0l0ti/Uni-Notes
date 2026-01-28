@@ -20,7 +20,12 @@
 > Need to talk about 
 > 
 
-
+> [!heart] Meeting no 2 27/01
+> Reason 
+> Story Line, What correlates (regional scale) within london? Correlate grades with Area income, housing, crime rates, ethnicity (then normalised by region density etc)
+> Does this correlation hold on a broader spectrum? e.g county. Mabye check census data 
+> What correlates with individual grades? No Uk database found so using portugal db
+> 
 
 --- 
 
@@ -67,3 +72,7 @@
 > 
  
 ---
+
+
+# Story line
+
