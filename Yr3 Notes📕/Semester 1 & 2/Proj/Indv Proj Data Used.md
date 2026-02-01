@@ -13,19 +13,56 @@
 > > [[#Speed run]]
 > [[#]]
 
-
-> [!heart] Meeting
-> I found rich detailed data about uni students with socio-economic factors. I have acquired overview data of alevels from the GOV website which works with national regional and local area values. My current plan is use GOV uk data to compare london boroughs stats. OULAD not really useful, need to redo literature data survey 
-> What is an acceptable level of coding? 
-> Need to talk about 
+> [!heart]+ Meeting no 1
+> > [!note]- Notes
+> >  I found rich detailed data about uni students with socio-economic factors. I have acquired overview data of alevels from the GOV website which works with national regional and local area values. My current plan is use GOV uk data to compare london boroughs stats. OULAD not really useful, need to redo literature data survey 
+> What is an acceptable level of coding?  
+> 
+> > [!abstract]- Response
+> > 
+> Overview more background details + reasoning
+> Outline review
+> Contributions - add bulletpoints, discuss quantity of details of models
+> qualitive but more QUANTIVIE 
+> Tables
+> Descriptive headings
 > 
 
-> [!heart] Meeting no 2 27/01
-> Reason 
-> Story Line, What correlates (regional scale) within london? Correlate grades with Area income, housing, crime rates, ethnicity (then normalised by region density etc)
+
+> [!heart]+ Meeting no 2 
+> Worked at a school, no concrete model or main contributers. During covid, massive outrage about predictive models used across country as opposed per student. Is there a way to decent way of combine the two of regional and per student? 
+> Regional by borough in london
+> Then we expand out to across the UK, still same correlations?
+> Per student, no a public a level database found, however portugal academic data laws means access to portugal university
+> 
+> > [!note]- Notes
+ > Reason 
+> Story Line, What correlates (regional scale) within london? Correlate grades with Area income, housing, crime rates, QOL, ethnicity (then normalised by region density etc)
 > Does this correlation hold on a broader spectrum? e.g county. Mabye check census data 
-> What correlates with individual grades? No Uk database found so using portugal db
+> Is it alright to just say, cant find uk data, however can find data from portugal
+> What correlates with individual grades? We have a Uni db and portugal A-level equivalent
+> This is where I can bring in the models and Ex-AI 
 > 
+> > [!abstract]- Response
+> > 5 slides
+> > Background and motivation - make engaging photos
+> > About literature, gaps in literature, intresting facts in the literature
+> > Research question
+> > Methodology - pipeline figures - how connected
+> > Prelim results - preprocessing, prelim 
+> > Next step plan - expected outcomes
+> > 
+> > 
+
+
+## Built database
+Hunt w [Our Data - areas.london](https://areas.london/our-data/) 
+Per borough / region 
+- grades A* / A ... / U (GOV)
+- Average income of tax payers
+- Average House Price
+- Happiness [Personal Well-being (Happiness) by Borough - London Datastore](https://data.london.gov.uk/dataset/personal-well-being-happiness-by-borough-2r87d/)
+- Crime index
 
 --- 
 
