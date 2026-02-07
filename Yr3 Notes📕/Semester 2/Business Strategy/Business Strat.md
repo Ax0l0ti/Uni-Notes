@@ -4,7 +4,7 @@
 > Contains details on this (genus:: Module) from [Year::3]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: MN32184)
 > > *Teacher*: 
-> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/mn/MN32184.html)
+> > *Resources :* [Bath Catalogue](https://www.bath.ac.uk/catalogues/2025-2026/mn/MN32184.html) [Exploring Strategy: Text and Cases, 12e](https://api.pageplace.de/preview/DT0400.9781292282466_A39514658/preview-9781292282466_A39514658.pdf)
 
 ---
 > [!abstract]+ Contents
