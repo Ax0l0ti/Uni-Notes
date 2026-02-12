@@ -113,3 +113,15 @@ Per borough / region
 
 # Story line
 
+Exploring grade prediction. 
+COVID grade prediction ended in outrage. Done using "given that past achievement" for each school as if static. 
+Grade Correlation
+regionally how do grades **correlate**? analysis of boroughs
+
+
+
+Lack of data for project within ethical guidelines. 
+Portugal has very useful datasets
+
+
+Region Correlations

@@ -51,3 +51,8 @@ Be aware that only Year 2018-2019 semester 2 onwards is a similar exam format.
 
 
 ![[Business Strat.png]]
+
+PESTE 
+![[PESTE_square.png]]
+
+![[MN Five Forces Model.png]]

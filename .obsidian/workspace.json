@@ -11,14 +11,17 @@
             "id": "de5dc538c9097507",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Yr3 Notes📕/Semester 2/Business Strategy/Case-Studies.md",
-                "mode": "source",
-                "source": false
+                "file": "Syncing & Personals/Playground 🛝/Minecraft.canvas",
+                "viewState": {
+                  "x": 35,
+                  "y": -50,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Case-Studies"
+              "icon": "lucide-layout-dashboard",
+              "title": "Minecraft"
             }
           },
           {
@@ -35,7 +38,8 @@
               "title": "Indv Proj Data Used"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,19 +199,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de5dc538c9097507",
+  "active": "e196c05e1d4cca51",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Base of Everything.base",
+    "README.md",
+    "Syncing & Personals/Playground 🛝/ZANE.md",
+    "Untitled.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
+    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Attachments/MN Five Forces Model.png",
+    "Yr3 Notes📕/Semester 2/Business Strategy/Case-Studies.md",
+    "Attachments/PESTE_square.png",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
     "Yr3 Notes📕/Semester 2/Business Strategy/MN32184 Handbook.pdf",
-    "Yr3 Notes📕/Semester 2/Business Strategy/Case-Studies.md",
     "Attachments/Business Strat.png",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
-    "Untitled.md",
-    "Untitled.canvas",
     "Yr3 Notes📕/Holy Grail 💖/Untitled.base",
     "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Attachments/Quantum Fourier.png",
@@ -223,21 +232,16 @@
     "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
-    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-    "Base of Everything.base",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
     "Attachments/Coarse Decoding.png",
     "Yr1 Notes📗/Holy Grail 💚/MfCChS.md",
     "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Deep Deterministic Policy Gradient.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Segmentation.md",
     "Attachments/Pasted image 20251128140711.png",
     "Attachments/Pasted image 20251128140634.png",
     "Attachments/Pasted image 20251127161122.png",
     "Attachments/Transformer Block.png",
     "Attachments/DDPG pseudo code.png",
-    "Attachments/Pasted image 20251117112942.png",
-    "Attachments/Simple.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
     "Attachments/Latex Cheatsheet.pdf",

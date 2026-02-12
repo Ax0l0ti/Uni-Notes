@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"2623a68176b5a25f","type":"text","text":"Caves\n\n\n-58 740 beaitifffull cave\ndrop at -358 799 - Mined out 39 Do\n","x":-280,"y":-220,"width":250,"height":130},
-		{"id":"808e1685e3d7bca1","type":"text","text":"Home - spawn for now\n\nPotential 1300 1900","x":100,"y":-120,"width":250,"height":60},
-		{"id":"21279db744907f97","type":"text","text":"Points of Intrest\nno snow -170 700\n\nMob spawner 1640, -14, 23590 type shii","x":-280,"y":-60,"width":250,"height":180}
+		{"id":"808e1685e3d7bca1","type":"text","text":"Home - spawn for now\n\nPotential 1300 1900\n\n[Server | Aternos | Free Minecraft Server](https://aternos.org/server/)\nSERVER SEED - -8189526856760070848\nversion - Java 1.21.9- 1.21.11","x":-120,"y":-380,"width":250,"height":240},
+		{"id":"2623a68176b5a25f","type":"text","text":"Caves\n\n\n-58 740 beaitifffull cave\ndrop at -358 799 - Mined out 39 Do\n","x":20,"y":-100,"width":250,"height":130},
+		{"id":"21279db744907f97","type":"text","text":"Mob spawner 1640, -14, 23590 type shii","x":-280,"y":-100,"width":250,"height":180}
 	],
 	"edges":[]
 }

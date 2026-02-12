@@ -21,6 +21,35 @@
 > - p2
 
 ---
+## Ryanair
+Link - [Section: Lecture 2: 10 February 2026: Macro-environment, Industry and Sector Analysis | Business strategy | Home](https://moodle.bath.ac.uk/course/section.php?id=265365)
 
-#TODO 
+### Notes 
+
+Today 
+17th Feb 2h
+24th Feb 1h (9:15-10:15)
+3rd Mar 2h 
+Break
+17th Mar 1h (9:15-10:15)
+24th Mar 2h
+Break
+14th Apr 1h (9:15-10:15)
+21st Apr 2h 
+28th Apr 1h (9:15-10:15)
+May 
+
+
+
+
+
+
+
+
+
+---
+## Case 
+Link - 
+
+### Notes 
 
