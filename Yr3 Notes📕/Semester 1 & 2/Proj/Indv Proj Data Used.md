@@ -117,7 +117,7 @@ Exploring grade prediction.
 COVID grade prediction ended in outrage. Done using "given that past achievement" for each school as if static. 
 Grade Correlation
 regionally how do grades **correlate**? analysis of boroughs
-
+[Local indicators for London (E12000007) - ONS](https://www.ons.gov.uk/explore-local-statistics/areas/E12000007-london/indicators#get-the-data)
 
 
 Lack of data for project within ethical guidelines. 
