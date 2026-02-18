@@ -37,6 +37,12 @@ Get used to the business article language
 Be aware that only Year 2018-2019 semester 2 onwards is a similar exam format.
 
 
+|             | Resources                                                               | Capabilities                                                                               |
+| ----------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| Threshhold  | Coffee beans and machines required to exist                             | Ability to use resources to meet the minimum                                               |
+| Distinctive | Defining resource that separates from the competition. Himalayan coffee | Ability to utilise resources in a distinctive way that seperates ( friendly baristas only) |
+
+
 ---
 ### Course Description
 

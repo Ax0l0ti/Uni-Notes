@@ -54,6 +54,10 @@
 > > 
 > > 
 
+TOO look at [(PDF) Predictive analytics in education: machine learning approaches and performance metrics for student success – a systematic literature review](https://www.researchgate.net/publication/390001148_Predictive_analytics_in_education_machine_learning_approaches_and_performance_metrics_for_student_success_-_a_systematic_literature_review)
+
+IV, RDD, DiD or DAG
+
 
 ## Built database
 Hunt w [Our Data - areas.london](https://areas.london/our-data/) 
@@ -63,6 +67,8 @@ Per borough / region
 - Average House Price
 - Happiness [Personal Well-being (Happiness) by Borough - London Datastore](https://data.london.gov.uk/dataset/personal-well-being-happiness-by-borough-2r87d/)
 - Crime index
+
+
 
 --- 
 
