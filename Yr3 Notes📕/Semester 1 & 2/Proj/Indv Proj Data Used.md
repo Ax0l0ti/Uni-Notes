@@ -54,6 +54,67 @@
 > > 
 > > 
 
+
+> [!example]+
+> > [!heart]-
+> > 
+> > 
+> 
+> > [!note abstract tip info success failure todo heart flower sigma leaf omega help example quote warning danger bug]-
+> 
+
+**Rationale of the project**
+Clearly motivates the problem of using poor predictors of academic performance. I would like to know more about what the purpose of these indicators would be.
+
+I have list of hypotheses related to this project that I intend to explore in the project. One of those is seeing if borough indexes can boost grade prediction. To paraphrase it, quality of life in a borough correlates to quality of grade results. 
+I intend to try model grade distributions based purely off past year results first, then I intend to incorporate the indexes and their trends into the training data. I expect the additional features to improve our prediction accuracy by a measurable degree.
+
+**Exposition of the state of the art**
+Good overview of the important considerations such an analysis: causality vs prediction, fairness and mitigating the effect of existing biases, assimilating data from different contexts (here, partitioning by regions/demographics).
+
+
+**Methods and results achieved so far**
+I really like the explicit examples of insights gained from the pre-processing. I would want more details about how the borough-level analysis and student-level analysis might interact.
+
+When I started this project, I wanted to tie together regional and individual scale analysis of the same area, but data constraints around students was much worse than I anticipated. I hope to show correlation between factors on both scales regardless of my differing data sources (e.g mental health and grades correlates across individuals but also regionally, or urban vs rural students). Whilst I have both scales, their origins strain any ties or linkages I try make, so whilst I hope and intend for them to interact, I think there will be less interaction then I would like. 
+
+**Plans for the conclusion of the project**
+Good timeline to complete the project. Thinqs always take lonqer than expected, I miqht try to complete the borough-level models and student-level models individually by February, leaving March to explore ways to combine those Insights into deeper ones.
+
+**Further comments and questions that might help the student improve their project and achieve a higher grade**
+How do you plan on incorporating causality? It seems likely to be helpful for both prediction and mitigating biases. Also, how do you plan to mitigate biases? (These are difficult questions without straightforward answers, but are definitely worth thinking about.)
+Do you have plans for the borough-level analysis and student-level analysis to inform each other?
+
+From the research I have done, what I gather is association and correlation is easy to prove. Causation is magnitudes harder. I intend to discuss and try analyse it. I found a bunch of methods and intend to use SHAP, casual inference and statistical tests for correlation and maybe build a Causal Inference Framework DAG (Directed Acylic Graph). I have also seen research around tools like Instrumental Variables to try distinguish between correlation and causation of variables.
+
+Regarding bias, similar to how boroughs resultant A\*s needs to be normalised by the number of students, I intend to normalise factors like gender and ethnicity by the relative poverty of the areas. Past models I've seen learnt that Caucasian people do better than minorities. Whilst it was an existent trend in data (less wealthy areas had worse results and higher ethnic populations), extrapolating to individual student prediction ends terribly and I want to avoid such a problem. I feel its near impossible to completely mitigate, but at least I hope to reduces bias within any model I produce. 
+
+
+
+
+I would like to know more about what the purpose of these indicators would be.
+I have list of hypotheses related to this project that I intend to explore in the project. One of those is seeing if borough indexes can boost grade prediction. To paraphrase it, quality of life in a borough correlates to quality of grade results. 
+I intend to try model grade distributions based purely off past year results first, then I intend to incorporate the indexes and their trends into the training data. I expect the additional features to improve the prediction accuracy by a measurable degree I can provide in my paper.
+
+I would want more details about how the borough-level analysis and student-level analysis might interact.
+When I started this project, I wanted to tie together regional and individual scale analysis of the same area, but data constraints around students was much worse than I anticipated. I hope to show correlation between factors on both scales regardless of my differing data sources (e.g mental health and grades correlates across individuals but also regionally, or urban vs rural students). Whilst I have both scales, their origins strain any ties or linkages I try make. I think there will be less interaction then I would have liked, but I do intend for them to interact. 
+
+How do you plan on incorporating causality? 
+From the research I have done, what I gather is association and correlation is easy to prove. Causation is magnitudes harder. I intend to discuss and try analyse causation. I found a bunch of methods and intend to use SHAP, casual inference and statistical tests for correlation and maybe build a Causal Inference Framework DAG (Directed Acylic Graph). I have also seen research around tools like Instrumental Variables to try distinguish between correlation and causation of variables.
+
+Also, how do you plan to mitigate biases?
+Regarding bias, similar to how boroughs resultant A\*s needs to be normalised by the number of students, I intend to normalise factors like gender and ethnicity by the relative poverty of the areas. Past models I've seen learnt that Caucasian people do better than minorities. Whilst it was an existent trend in data (less wealthy areas had worse results and higher ethnic populations), extrapolating to individual student prediction ends terribly and I want to avoid such a problem. I feel its near impossible to completely mitigate, but at least I hope to reduces bias within any model I produce. 
+
+Do you have plans for the borough-level analysis and student-level analysis to inform each other?
+There are numerous features that are related between my regional and individual datasets. With any luck, a positive correlation, or the lack there-of, will help inform my decisions and reasoning for any claims about correlation vs causation. 
+
+I have selected yes for wanting a call simply so if you would like to discuss any queries further, we can. But if there is nothing further you wish to discuss, do not worry. As an additional note, my ethical approval is ready to send off, I just wanted to confirm the wording of my title with my project supervisor
+before I submitted such a document. 
+
+
+DIDINT SEND 
+I do have one query though, looking at the mark scheme, I was wondering if there is a soft deadline for the ethics form that might affect the "Planning and control" Criteria which would bar me from a first. If there is, I would appreciate knowing 
+
 TOO look at [(PDF) Predictive analytics in education: machine learning approaches and performance metrics for student success – a systematic literature review](https://www.researchgate.net/publication/390001148_Predictive_analytics_in_education_machine_learning_approaches_and_performance_metrics_for_student_success_-_a_systematic_literature_review)
 
 IV, RDD, DiD or DAG

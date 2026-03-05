@@ -37,9 +37,21 @@
               "icon": "lucide-file",
               "title": "Indv Proj Data Used"
             }
+          },
+          {
+            "id": "ebfb6b903e272c11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,13 +211,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e196c05e1d4cca51",
+  "active": "ebfb6b903e272c11",
   "lastOpenFiles": [
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Attachments/Pasted image 20260303092207.png",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
     "Attachments/Pasted image 20260215182749.png",
     "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
     "Base of Everything.base",
     "README.md",
     "Syncing & Personals/Playground 🛝/ZANE.md",
@@ -213,7 +228,6 @@
     "Attachments/MN Five Forces Model.png",
     "Yr3 Notes📕/Semester 2/Business Strategy/Case-Studies.md",
     "Attachments/PESTE_square.png",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
     "Yr3 Notes📕/Semester 2/Business Strategy/MN32184 Handbook.pdf",
     "Attachments/Business Strat.png",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
@@ -229,7 +243,6 @@
     "Yr3 Notes📕/Semester 1/Complexity/P vs NP.md",
     "T🏷️/M📚/Yr3📕/Complexity.md",
     "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
     "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
@@ -241,7 +254,6 @@
     "Attachments/Pasted image 20251128140711.png",
     "Attachments/Pasted image 20251128140634.png",
     "Attachments/Pasted image 20251127161122.png",
-    "Attachments/Transformer Block.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
     "Attachments/Latex Cheatsheet.pdf",

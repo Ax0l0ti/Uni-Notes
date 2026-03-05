@@ -59,6 +59,10 @@ Be aware that only Year 2018-2019 semester 2 onwards is a similar exam format.
 ![[Business Strat.png]]
 
 PESTE 
-![[PESTE_square.png]]
+![[PESTE_square.png|400]]
 
 ![[MN Five Forces Model.png]]
+
+#TODO MISSING LEC 4 
+
+![[Pasted image 20260303092207.png|300]]
