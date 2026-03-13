@@ -37,21 +37,9 @@
               "icon": "lucide-file",
               "title": "Indv Proj Data Used"
             }
-          },
-          {
-            "id": "ebfb6b903e272c11",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -211,7 +199,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebfb6b903e272c11",
+  "active": "e196c05e1d4cca51",
   "lastOpenFiles": [
     "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
