@@ -24,7 +24,7 @@
 # Exam breakdown
 
 > [!danger]+ Exam
-> Exam details when given
+> 1/3 from S1, 2/3 from s2
 > 
 > > [!heart]+ Structure Overview
 > > Short-answer theory and coding exercises
@@ -69,3 +69,6 @@
 ---
 #TODO
 [[Grail 🩷]]
+
+![[Y3S2outline.png|300]]
+![[Y3S2outline2.png|300]]
