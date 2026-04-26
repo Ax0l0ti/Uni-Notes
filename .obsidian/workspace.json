@@ -42,12 +42,14 @@
             "id": "5b97f3ff4be939fc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "Project Overview"
             }
           }
         ],
@@ -213,13 +215,13 @@
   },
   "active": "5b97f3ff4be939fc",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Interviews.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
     "Yr3 Notes📕/Semester 1 & 2/Adv Vision/CNN.md",
