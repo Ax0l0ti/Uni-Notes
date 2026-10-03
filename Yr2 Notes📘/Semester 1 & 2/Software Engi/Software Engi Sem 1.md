@@ -1,141 +1,74 @@
-# Software Engi Sem 1
+# Algorithms and Complexity Cheat Sheet
 ---
-> [!info]- File Details
-> Includes information about this (genus:: Note) from [Year::2]. Contains details on when this was created, what module the note belongs to.
-> > *Date :*  11-01-2025
-> > *Module :* [[]]
-> > *Teacher*: 
-> > *Resources :*
-
----
-> [!abstract]+ Contents
-> List of headings within this topic
-> > [[#Speed run]]
-> [[#]]
-> [[#]]
-> [[#]]
-> [[#]]
-
---- 
-> [!danger]+ *Speed run*
-> Break down of topic 
-> > $a)$ -  
-> $b)$ - 
-> $c)$ - 
+> [!info]+ Module Details
+> Includes information about (genus:: Cheat Sheet), link to CS module and it's correspondent attribute tag 
+> *Module Tag :* (ModCode :: CM22008) 
+> *Link :* [[Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity]]
+> *Cheat Sheet tag :* [[Grail 🩷]]
 
 ---
 
-#TODO 
-
-# Software Engineering run down of content 
-
-> [!note]+ Week 1: Introduction to Software Engineering
-> Learn about the foundational aspects of software engineering, including key definitions, course objectives, and the interplay between theoretical and practical knowledge.
-> - Introduction to Software Engineering
-> - Importance of Software Engineering course
-> - Interplay between Software Engineering and Entrepreneurship
-> - Practical aspects and theoretical framework of Software Engineering
-> - Software failures and successes
-> - Definition of Software Engineering
-> - Historical context: Margaret Hamilton and Apollo mission
-> - Impact of software failures
-> - Risk factors in software development
-> - Challenges in Software Development
-> - Evolution of software as a discipline
-> - Overview of coursework deliverables and project domains
+---
+> [!danger]+ ⚡ *Speed run*
+> - **Automata & Formal Languages**: DFA, NFA, PFA, Pumping Lemma (regular), CFL, CFG, PDA, Pumping Lemma (context-free), Parsing  
+> - **Turing Machines & Computability**: Turing Machine, Universal TM, Church-Turing Thesis, Halting Problem, Decidability, Undecidability  
+> - **Complexity Classes**: P, NP, NP-Complete, P vs NP, Non-deterministic TM  
+> - **Data Structures**: Array, Linked List, Stack, Queue, Tree, BST, AVL, Heap, Graph, Hash Table, Disjoint Set (Union-Find)  
+> - **Algorithm Design**: Divide-and-Conquer, Dynamic Programming, Greedy, Recursion, Memoization  
+> - **Algorithm Analysis**: Best/Worst/Average Case, Time, Space, Big-O, Big-Θ, Big-Ω, Loop Invariants  
+> - **Sorting & Searching**: Selection Sort, Insertion Sort, Merge Sort, Quicksort, HeapSort, TreeSort, BFS, DFS, Dijkstra, Floyd-Warshall, Kruskal  
+> - **Special Topics**: Ackermann Function, Inverse Ackermann, Polyalgorithms, Cache Efficiency, Crossover Points
+> 
 
 ---
 
-> [!note]+ Week 2: Challenges and Agile Development
-> Focus on challenges in software engineering and how agile methodologies address changing requirements and complexity.
-> - Current challenges in software engineering
-> - Software complexity and quality
-> - Agile methodologies (Scrum, XP) for iterative development
-> - Minimum Viable Product (MVP) concept
-> - Importance of modularity and design
-> - Technical debt and its management
-> - Software testing methodologies
-> - Validation and verification in software projects
+
+Loop invariant is proof statement true before and after loop iteration
+Floyd-Warshall
+Dijkstra 
+
+
+$$\begin{aligned}
+&\text{Master Theorem} \\
+&\text{$a$ is req subproblems per layer, $b$ is rate of dividing (e.g div\&con b = 2)}  \\\\
+&T(n) = aT(n/b)+ f(n) \\
+&where \ f() \text{ is the recursive function O()} 
+\end{aligned}
+$$
+$$\begin{align}  
+&\text{Master Theorem (simplified) Theorem. Given the above recurrence, let $c = log_ba$.}\\ &1. \ \text{If $f(n)$ grows slower than $O(n^c)$ then $T(n) = Θ(n^c)$.}\\ & \ \text{2. If $f(n)$ is equal to $Θ(n^c)$ then $T(n) = Θ(n^clogn)$.}\\ &3. \ \text{If $f(n)$ grows faster than $Ω(n^c)$, then T(n) = Θ(f(n)).}
+\end{align}$$
+
+
+Master theorem basically tells us if a recursive's $O(n)$ is based off its ==**branching**== $(case \ 1)$, ==**function**== calls $(case \ 3)$ or ==**both**== equal $(case \ 2)$
 
 ---
+### Topics
 
-> [!note]+ Week 3: Stakeholder Engagement
-> Understand the importance of stakeholder engagement and human-centered design in software engineering.
-> - Stakeholder identification and analysis
-> - User experience as a competitive advantage
-> - Importance of feedback and iteration
-> - Techniques for identifying stakeholders
-> - Communication and collaboration strategies
-> - Ethical and professional responsibilities in software engineering
 
----
+> [!Flower] $O,\Theta \ and \ \Omega$
+> $O$ is considering max time/space , if $f(n) \ is \le O(n), \ then \ f(n) \ is \le O(n^2)$
+> $\Theta$ is average, meaning the rate of growth is equal to a specified value 
+> $\Omega$ is lower bound, if$f(n) \ is \ge \Omega(n^2), \ then \ f(n) \ is \ge \Omega(n)$
 
-> [!note]+ Week 4: Agile Development and Scrum
-> Dive into agile methodologies, focusing on Scrum framework, roles, and tools for effective project management.
-> - Overview of Agile, Scrum, and Extreme Programming (XP)
-> - Scrum teams and roles
-> - Importance of sprints and iterative workflows
-> - Test-driven development (TDD) in XP
-> - Common pitfalls in Scrum implementation
-> - Tools for Agile project management
 
----
+>[!danger]+ Automata	
+| **Model**          | **Memory**    | **Power**              | **Problem it can’t solve** |
+| ------------------ | ------------- | ---------------------- | -------------------------- |
+| Finite automaton   | Finite states | Regular languages      | $w \in \{ a^k b^k\}$       |
+| Pushdown automaton | Stack         | Context-free languages | $w \in \{ a^k b^k c^k\}$   |
+| Turing machine     | Tape          | Full computation       | $Halting$ $problem$        |
 
-> [!note]+ Week 5: Risk Management
-> Explore risk management strategies in software projects, including early testing and mitigation techniques.
-> - Risk assessment methodology
-> - Key risks in software development
-> - Risk management strategies
-> - Historical case studies (e.g., Netscape browser)
-> - Comparison of iterative and waterfall methodologies
-> - Overview of spiral development process
+# All trees have $log(n)$ layers
+### Binary search trees 
+Data structure supporting (somewhat) efficient insert, delete and search. They work best when balanced! Worst case unbalanced operations are $O(n)$. 15 Self-balancing binary search trees do extra work when modified, so that balance is retained. Worst case cost of operations in **AVL trees** is $O(logn)$.
+### HEAP 
+**Max** heap children are smaller, **min** heap children bigger
+
+| Min for Priority queues<br>Max for  | $left(i) = 2*i$<br>$right(i) = 2*i + 1$<br>$parent(i) — floor (i/2)$ |
+| ----------------------------------- | -------------------------------------------------------------------- |
+
+
 
 ---
-
-> [!note]+ Week 7: Requirements and User Needs
-> Focus on capturing and refining user requirements to improve project outcomes.
-> - Historical failures in requirements gathering
-> - Techniques for eliciting user needs
-> - Definition and hierarchy of requirements
-> - Tools for visualizing requirements (e.g., UML)
-
----
-
-> [!note]+ Week 8: Use Cases and Requirements Analysis
-> Learn how use cases help analyze and document user requirements effectively.
-> - Definition and purpose of use cases
-> - Use case diagrams and tools
-> - Writing basic and alternative flows
-> - Examples of reusability in use cases
-
----
-
-> [!note]+ Week 9: Software Architecture
-> An introduction to software architecture concepts, including diagrams, metrics, and design considerations.
-> - Introduction to software architecture
-> - Importance of architectural metrics
-> - UML diagrams (class, sequence, package)
-> - Tools for architectural representation
-
----
-
-> [!note]+ Week 10: Software Architecture Patterns
-> Explore common architecture patterns and their applications in modern software design.
-> - Layered architecture
-> - Model-View-Controller (MVC) architecture
-> - Microservices architecture
-> - Real-time data processing in applications
-> - Importance of documentation and testing
-
----
-
-> [!note]+ Week 11: Static Analysis and Reviews
-> Learn about static analysis, code reviews, and architectural validation techniques.
-> - Overview of static analysis and reviews
-> - Architecture and code reviews
-> - Static vs. dynamic validation
-> - Role of AI in code reviews
-> - Static analysis tools and effectiveness
-> - Common defects in C code
-> - Best practices for static analysis deployment
-> - Continuous code review policies
+#oldTODO

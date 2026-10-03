@@ -22,7 +22,7 @@
 
 ---
 
-#TODO 
+#oldTODO
 Scraped from a paper
 ![[Workflow Proj Idea.png]]
 

@@ -11,49 +11,17 @@
             "id": "de5dc538c9097507",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-                "viewState": {
-                  "x": 35,
-                  "y": -50,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Minecraft"
-            }
-          },
-          {
-            "id": "e196c05e1d4cca51",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+                "file": "Templates🧬/Module 📚.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indv Proj Data Used"
-            }
-          },
-          {
-            "id": "5b97f3ff4be939fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yr3 Notes📕/Holy Grail 💖/BStratChS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BStratChS"
+              "title": "Module 📚"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hadam",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,13 +57,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
+                "file": "Templates🧬/Module 📚.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Indv Proj Data Used"
+              "title": "Outline of Module 📚"
             }
           },
           {
@@ -213,48 +181,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5b97f3ff4be939fc",
+  "active": "de5dc538c9097507",
   "lastOpenFiles": [
-    "Yr3 Notes📕/Semester 2/Business Strategy/Case-Studies.md",
-    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Templates🧬/Cheat Sheet 🩷.md",
+    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Literature, Technology and Data Survey.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Overview.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
+    "Syncing & Personals/Todos.md",
+    "Yr3 Notes📕/Holy Grail 💖/TODO.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Meshes.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Segmentation.md",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Potential Projects.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Project Proposal.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Interviews.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/CNN.md",
-    "Yr3 Notes📕/Holy Grail 💖/VisionChS.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Monte Carlo Methods.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Markov Decision Processes.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temporal Difference Learning.md",
+    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1.md",
+    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
+    "Templates🧬/Module 📚.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/Library Design.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
+    "Templates🧬/Notes 📝.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
+    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
+    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/WebGL.md",
+    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
+    "Yr2 Notes📘/Semester 2/Cybersecurity/Protocols.md",
     "Attachments/Y3S2outline2.png",
     "Attachments/Y3S2outline.png",
     "Attachments/Pasted image 20260303092207.png",
     "Attachments/Pasted image 20260215182749.png",
-    "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Base of Everything.base",
-    "README.md",
-    "Syncing & Personals/Playground 🛝/ZANE.md",
     "Untitled.canvas",
     "Attachments/MN Five Forces Model.png",
     "Attachments/PESTE_square.png",
     "Yr3 Notes📕/Semester 2/Business Strategy/MN32184 Handbook.pdf",
     "Attachments/Business Strat.png",
     "Yr3 Notes📕/Holy Grail 💖/Untitled.base",
-    "Yr3 Notes📕/Holy Grail 💖/CpxtyChs.md",
     "Attachments/Quantum Fourier.png",
-    "Yr3 Notes📕/Semester 1/Complexity/Temp Complexity.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Global Lighting.md",
-    "Yr3 Notes📕/Holy Grail 💖/TODO.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
-    "Yr3 Notes📕/Semester 1/Complexity/P vs NP.md",
-    "T🏷️/M📚/Yr3📕/Complexity.md",
-    "Yr3 Notes📕/Yr3 Metadata/Yr3 Resources.md",
-    "Yr3 Notes📕/Holy Grail 💖/GraphicsChS.md",
     "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
     "Attachments/Coarse Decoding.png",
     "Attachments/Pasted image 20251128140711.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",

@@ -39,7 +39,6 @@ $L(\phi, {\mathcal D}) = \underset{(s,a,r,s',d) \sim {\mathcal D}}{{\mathrm E}}\
 
 Pseudo code 
 ![[DDPG pseudo code.png]]
-#TODO 
 
 
 ## About TD3

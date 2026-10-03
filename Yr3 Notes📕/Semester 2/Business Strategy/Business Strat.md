@@ -63,6 +63,6 @@ PESTE
 
 ![[MN Five Forces Model.png]]
 
-#TODO MISSING LEC 4 
+#oldTODOMISSING LEC 4 
 
 ![[Pasted image 20260303092207.png|300]]

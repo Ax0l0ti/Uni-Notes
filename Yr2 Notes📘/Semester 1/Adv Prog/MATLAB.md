@@ -25,7 +25,7 @@
 
 ---
 
-#TODO 
+#oldTODO
 
 
 1. Finding roots of a quadratic polynomial

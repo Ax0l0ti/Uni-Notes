@@ -21,6 +21,6 @@
 
 ```dataview
 LIST
-SELECT FROM #TODO 
+SELECT FROM #oldTODO
 ```
 

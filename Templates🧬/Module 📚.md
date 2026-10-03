@@ -1,7 +1,7 @@
 # {{title}} 
 ---
 > [!info]+ Module Details
-> Contains details on this (genus:: Module) from [Year::2]: Module Code, Teacher tags and Resources 
+> Contains details on this (genus:: Module) from [Year::4]: Module Code, Teacher tags and Resources 
 > > *Module :* (ModCode :: ) 
 > > *Teacher*: 
 > > *Resources :*
@@ -37,4 +37,10 @@
 | **Synopsis:**          |         |
 | **Content:**           |         |
 
-#TODO 
+#TODO
+
+Noah van Enckevort  
+5838100 - WWL109  
+University of Warwick  
+Coventry  
+CV4 7ES

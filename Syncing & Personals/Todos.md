@@ -1,4 +1,4 @@
-# Todo list #TODO 
+# Todo list #oldTODO
 ---
 > [!info]- File Details
 > Contains my TODOs
@@ -19,12 +19,20 @@
 ---
 > [!abstract]+ Vault / Work 
 > > [!example]- Vault Todos
-> 
-> > [!todo]+ 
-> > > The following Note files contain the #TODO tag: 
+> > 
+> > [!todo]+ OLD TODO
+> > > The following Note files contain the #oldTODOtag: 
 > > > ```dataview 
 LIST 
-FROM #TODO  
+FROM #oldTODO 
+WHERE genus != "Cheat Sheet" AND file.name != "Todos" AND  file.folder !=  "Templates🧬"
+SORT file.folder
+>
+> > [!todo]- OLD TODO
+> > > The following Note files contain the #oldTODOtag: 
+> > > ```dataview 
+LIST 
+FROM #oldTODO 
 WHERE genus != "Cheat Sheet" AND file.name != "Todos" AND  file.folder !=  "Templates🧬"
 SORT file.folder
 

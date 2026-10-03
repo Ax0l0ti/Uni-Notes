@@ -39,7 +39,7 @@
 We will often combine $p$ and $r$ into $p(s', r | s, a).$
 
 2. Value functions: state value function and action value function,
-#todo 
+#oldTODO
 3. Optimal policies and comparison of policies,
 4. Bellman equations: Bellman equation for state value and Bellman optimality equation,
 

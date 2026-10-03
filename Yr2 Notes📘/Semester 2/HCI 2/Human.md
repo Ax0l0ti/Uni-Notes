@@ -25,7 +25,7 @@
 
 ---
 
-#TODO 
+#oldTODO 
 # Human Perception
 
 [What are the Gestalt Principles? | IxDF](https://www.interaction-design.org/literature/topics/gestalt-principles)

@@ -23,7 +23,7 @@ We change everything in the feature domain to avoid higher computation to do **m
 
 ---
 
-#TODO Search up 3blue1brown forier
+#oldTODO Search up 3blue1brown forier
 [Topic: Lecture 7&8 Fourier Transform: Properties and Applications | CM22010 - Visual Computing | Home](https://moodle.bath.ac.uk/course/view.php?id=61733&section=9)
 
 The Fourier transform enables us to observe the characteristics of the image and design the filter that would solve the problem 

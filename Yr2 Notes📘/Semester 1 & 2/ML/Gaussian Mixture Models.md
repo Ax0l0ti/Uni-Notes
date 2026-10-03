@@ -25,7 +25,7 @@
 
 ---
 
-#TODO 
+#oldTODO 
 
 1. Gaussian Mixture Models  
     - Soft cluster assignment
