@@ -20,12 +20,6 @@
 > > [[Yr2 Notes📘/Semester 1/Adv Prog/Dynamic Memory Allocation]]
 > > [[Yr2 Notes📘/Semester 1/Adv Prog/Adv Prog content Listed]]
 
-> 
-> 
-> Coursework
-> > [[]]
-
-
 
 ---
 ### Coursework 0 vs 100 Examed

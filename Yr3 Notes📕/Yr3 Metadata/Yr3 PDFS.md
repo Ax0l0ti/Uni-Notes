@@ -5,7 +5,8 @@
 --- 
 
 > [!info]- File Details
-> This file contains all the PDFs linked to Year 3 content 
+> This file contains all the PDFs linked to Year 3 content.
+> However, due to content and lack of manual filing. As year is finished, arguably redundant. 
 
 ---
 > [!abstract]+ Contents

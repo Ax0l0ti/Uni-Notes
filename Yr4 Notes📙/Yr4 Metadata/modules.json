@@ -1,0 +1,595 @@
+[
+  {
+    "code": "CS907",
+    "title": "Dissertation Project",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs907/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS907-60",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS907-60.pdf",
+    "leader": "Christian Ikenmeyer",
+    "credits": 60,
+    "duration": "50 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "The dissertation is intended to give students the opportunity to consolidate the knowledge that they have acquired during the first half of the MSc, and to undertake a research led project. Students are expected to carry out a significant development exercise, either in the form of a research project or a knowledge transfer project that is applying recent research and the advanced topics taught in the first half of the course.",
+    "aims": "The aim of your dissertation is to give you the opportunity to consolidate the knowledge that you have gained during the taught component of your MSc through a research-led project. You are expected to carry out a significant development exercise, either in the form of a research project or a knowledge transfer project that applies the topics taught in your course. The project will require strong project management skills, problem-solving abilities, and self directed study. Although not a requirement, there is scope for industrial involvement in dissertation projects, and this is encouraged. The dissertation also provides opportunity for interdisciplinary work, again building on the the modules taught earlier in the course, and will require students to demonstrate a mature knowledge of computer science and its applications.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "The research interests of staff members, as typically represented by (but not restricted to) the modules in the taught component of the MSc, will be the major source of dissertation topics. A degree of industrial input and involvement will be encouraged, and can be facilitated through existing academic-industrial collaborations or by addressing specific topics that are of interest to industrial partners. The dissertation project will be prefaced by CS908 Research Methods covering issues of project management, planning, literature seach, and general research skills. All projects will be closely supervised by academics with ongoing feedback and guidance at all stages of the project from the conception to completion."
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Carry out a comprehensive research project and critically interpret results in computer science and applications",
+      "Demonstrate a detailed knowledge and understanding of one area of computer science at, or approaching, the frontiers of research.",
+      "Interpret and evaluate results in computer science.",
+      "Demonstrate independent learning skills",
+      "Write an extended scientific report and show research skills (including the use of library and web resource s)",
+      "Show good oral communication skills"
+    ],
+    "assessment_components": [
+      {
+        "group": "A3",
+        "name": "Presentation (25 minutes)",
+        "weighting_pct": 5,
+        "study_time": null,
+        "description": null,
+        "kind": "coursework"
+      },
+      {
+        "group": "A3",
+        "name": "Interim Report (4000 words)",
+        "weighting_pct": 15,
+        "study_time": null,
+        "description": "4000 words (excluding bibliography and appendices).",
+        "kind": "coursework"
+      },
+      {
+        "group": "A3",
+        "name": "Dissertation Report (18,000 words)",
+        "weighting_pct": 80,
+        "study_time": null,
+        "description": "18000 words (excluding bibliography and appendices).",
+        "kind": "coursework"
+      },
+      {
+        "group": "R1",
+        "name": "Dissertation Report (18,000 words) - resit",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": null,
+        "kind": "coursework"
+      }
+    ]
+  },
+  {
+    "code": "CS941",
+    "title": "Research Methods",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs941/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS941-10",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS941-10.pdf",
+    "leader": "Adam Shephard",
+    "credits": 10,
+    "duration": "10 weeks",
+    "assessment_summary": "100% coursework",
+    "term": null,
+    "introductory_description": "The module aims to facilitate students' acquisition of a range of research methods to become able to critically review and contribute to academic publications, ensure that students are aware of the legal framework within which research is conducted, and that students are sensitive to the social and ethical issues which affect Computer Science research.",
+    "aims": "The module will assist students in the various stages involved in undertaking a substantial research project, covering: researching and choosing a topic, finding a supervisor, writing a research proposal, narrowing the scope of the project, planning, researching, writing and finally submitting their dissertation. The module's overall aim is to offer an intellectually challenging and supportive environment which allows students to develop their research and communication skills in the context of undertaking a research project of their choice.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Introduction to research methods and collaborative software tools",
+      "Use of secondary sources and bibliiographic tools",
+      "Critique",
+      "Round-table research discussion",
+      "Academic writing and presenting",
+      "Opportunities and limitations of generative large language models.",
+      "Writing research proposals",
+      "Ethics and law in computer science research"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "show a systematic understanding of the research methods used in Computer Science (CS) including time-management, project management skills and collaborative tools; distinguish between different types of academic writing; use electronic systems of bibliographic citation. avoid plagiarism of secondary sources by using a variety of writing strategies; demonstrate a comprehensive understanding of the opportunities and limitations of generative large language models.",
+      "develop conceptual understanding to evaluate critically current research and advanced scholarship in the discipline and to evaluate methodologies and develop critiques of them and, where appropriate, to propose new hypotheses and offer support for them through empirical evidence; conduct peer reviewing in a professional manner;",
+      "develop conceptual understanding of ethics and law in computer science research;",
+      "skills to deliver an effective verbal research presentation; demonstration of improved written communication skills as demonstrated through writing an effective and realistic research proposal sustaining original and sound scientific arguments and using secondary sources in their writing in an accurate and honest manner;",
+      "qualities and transferable skills necessary for employment, including the exercise of initiative and personal responsibility; decision-making in complex and unpredictable situations; the independent learning ability required for continuing professional development;"
+    ],
+    "assessment_components": [
+      {
+        "group": "A",
+        "name": "Research Methods Presentation",
+        "weighting_pct": 40,
+        "study_time": "16 hours",
+        "description": "10 min presentation on an Ethical, Legal or Social Issue in the form of a submitted video recording Record a talk by yourself on an ethical, legal or social issue of your choice, related to an area of research in computer science or data analytics. Prepare either slides or a poster to support your talk. You may include in your talk one or more questions from a hypothetical audience, that you answer. Your video recording must not be longer than 10 minutes. In it, both yourself and the visual aids (i.e. either the slides or the poster) should be visible. Please submit the recording in MP4 format. Please submit also the slides or the poster, in PDF format. Marking Scheme: [Weighted 25% each] Originality in your choice of the ethical, legal or social issue. Clarity, soundness and depth of your motivation, explanation and argument. Quality of your visual aids (the slides or the poster). Quality of your talk and its delivery.",
+        "kind": "coursework"
+      },
+      {
+        "group": "A",
+        "name": "Research Methods Dissertation Specification",
+        "weighting_pct": 60,
+        "study_time": "24 hours",
+        "description": "Write a research proposal for your Dissertation Project. You are encouraged to find a supervisor for your Dissertation Project before the deadline for this assignment, and to discuss with them your ideas for this research proposal. This research proposal will be marked independently of your Dissertation Project, whose direction may evolve after submitting this assignment. You should not exceed 3,000 words for this research proposal. Please submit it in PDF. Marking Scheme: [Weighted 25% each] Motivation and clarity of the research problem. Soundness and quality of the proposed ideas and methodology. Measurability of the deliverables, and appropriateness of the workplan. Quality of your writing and referencing.",
+        "kind": "coursework"
+      }
+    ]
+  },
+  {
+    "code": "CS940",
+    "title": "Advanced Algorithms and Programming",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs940/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS940-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS940-15.pdf",
+    "leader": "Till Bretschneider",
+    "credits": 15,
+    "duration": "10 weeks",
+    "assessment_summary": "100% coursework",
+    "term": null,
+    "introductory_description": "The aim of the module is to make students more competent programmers and to expose students to different fundamental data structures and algorithmic techniques, to illustrate how choices of data structures and algorithms can impact performance and memory requirements.",
+    "aims": "At the heart of Computer Science are algorithms which formulate step-by-step procedures that tell computers how to solve problems and perform tasks. The principal module aim is to teach approaches to algorithmic thinking that enable students to tackle complex real-world problems in a structured way and employ appropriate data structures. The module will emphasise the importance of a critical assessment of the advantages and disadvantages of different algorithms, which students will explore through implementing algorithms in the Python programming language. Learning Python constitutes the second principal aim of the module.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Foundations of Python programming language",
+      "Performance and asymptotic runtime/complexity",
+      "Data structures such as stacks and queues, trees, hash maps",
+      "Algorithmic techniques such as recursion, divide and conquer and dynamic programming",
+      "Parallelisation"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Systematic understanding of algorithms, and a critical awareness of time complexities.",
+      "Comprehensive understanding of typical algorithmic techniques and data structures.",
+      "Conceptual understanding enabling critical assessments of advantages and disadvantages of algorithmic solutions for new problems.",
+      "Knowledge of Python programming at a high standard"
+    ],
+    "assessment_components": [
+      {
+        "group": "A",
+        "name": "Advanced Algorithms and Programming Coursework 1",
+        "weighting_pct": 50,
+        "study_time": "30 hours",
+        "description": "Programming based coursework testing competency in Python programming and use of data structures.",
+        "kind": "coursework"
+      },
+      {
+        "group": "A",
+        "name": "Advanced Algorithms and Programming Coursework 2",
+        "weighting_pct": 50,
+        "study_time": "30 hours",
+        "description": "Programming based coursework testing competency in the use of advanced algorithms.",
+        "kind": "coursework"
+      }
+    ]
+  },
+  {
+    "code": "CS942",
+    "title": "Mathematical Methods in Computing",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs942/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS942-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS942-15.pdf",
+    "leader": "Arpan Mukhopadhyay",
+    "credits": 15,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "The aim of this module will be to introduce mathematical concepts and techniques from probability theory and optimisation that are fundamental to many modern computing applications and are necessary for more advanced topics in computer science. The module will blend theory with examples to illustrate how mathematical methods can be applied to solve real-life computing problems.",
+    "aims": "The module will introduce fundamental mathematical tools in the areas of probability theory and optimisation that have wide applicability in all areas of modern computing. These tools will help students gain deeper understanding of more specialised topics in computer science taught in the MSc curriculum.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Probability:",
+      "Measurable Sets, Axioms of Probability, Conditional Probability, Bayes Theorem",
+      "Random Variables, common distributions, expectation, moments, generating functions, probabilistic inequalities",
+      "Jointly distributed random variables, covariance, correlation, conditional expectations, independence, laws of large numbers, central limit theorem",
+      "Markov chains, statistical estimation, hypothesis testing",
+      "Optimisation:",
+      "Introduction to mathematical optimization, linear, non-linear, and convex optimization",
+      "Convex sets, convex functions, Duality, Optimality Conditions",
+      "Gradient descent, stochastic gradient descent, Newton’s method, Simplex Method"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Apply concepts and techniques from optimization and probability theory to a broad range of computational problems including algorithm design, data analysis, and statistical modelling.",
+      "Develop abstract mathematical models for real-world systems and formally analyse them using suitable mathematical techniques.",
+      "Solve real-world problems and communicate their solutions in a rigorous manner."
+    ],
+    "assessment_components": [
+      {
+        "group": "D",
+        "name": "Problem Set 1",
+        "weighting_pct": 15,
+        "study_time": "4 hours",
+        "description": "Problem set containing questions and programming assignments on probability theory.",
+        "kind": "coursework"
+      },
+      {
+        "group": "D",
+        "name": "Problem Set 2",
+        "weighting_pct": 15,
+        "study_time": "4 hours",
+        "description": "Problem set containing questions and programming assignments on optimisation.",
+        "kind": "coursework"
+      },
+      {
+        "group": "D",
+        "name": "Final Exam",
+        "weighting_pct": 70,
+        "study_time": "42 hours",
+        "description": "Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R",
+        "name": "Resit Exam",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS920",
+    "title": "Foundations of Artificial Intelligence and Machine Learning",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs920/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS920-10",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS920-10.pdf",
+    "leader": "Arnab Bhattacharyya",
+    "credits": 10,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "Introduction to the main toolbox of modern AI and ML, touching upon the basics of supervised and unsupervised learning, delving deeper into Reinforcement Learning. The module serves as a taster for students considering further specialisation in Artificial Intelligence and Machine Learning .",
+    "aims": "The module will provide students with knowledge about the broad foundations of Artificial Intelligence and Machine Learning which will help them inform their decision when specialising in one of the areas the MSc Computer Science offers. Artificial Intelligence and Machine Learning is a core discipline within computer science, with increasing importance in the age of digital transformation and emerging technologies, with significant economic impact. It is deeply embedded in almost all areas of applied computing so that students will benefit from being able to pursue working in a wide range of application domains.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Intro to AI: challenges, applications, ethics, explainability, transparency, fairness",
+      "Basics of Search and Decisions (Tree/Graph Search, Local Search, Adversarial Search)",
+      "Intro to Machine Learning and Deep Learning (Supervised and Unsupervised Learning, Learning Concepts from Examples, Classification and Regression Trees, Intro to Bayesian Networks, Intro to Neural Networks, Clustering.",
+      "Basics of Reinforcement Learning (Agents, Policies, Optimisation, Value/policy Iteration, Temporal Difference Learning, SARSA, Q-learning)",
+      "RL with Human Feedback, Transformers and intro to LLMs."
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "A systematic understanding of the main algorithms used in modern AI research and practice.",
+      "The capacity to apply and execute the main Machine Learning techniques for supervised and unsupervised learning, comparing and optimising their use against several applications.",
+      "Design tailor-made learning algorithm for a specific problem.",
+      "An appreciation of responsible and explainable AI, ethical considerations, and evaluating limitations of the technology."
+    ],
+    "assessment_components": [
+      {
+        "group": "D",
+        "name": "Foundations of Artificial Intelligence and Machine Learning Coursework",
+        "weighting_pct": 30,
+        "study_time": "12 hours",
+        "description": "The coursework will consist of developing computer programs to solve practical problems in Artificial Intelligence and Machine Learning .",
+        "kind": "coursework"
+      },
+      {
+        "group": "D",
+        "name": "Foundations of Artificial Intelligence and Machine Learning Exam",
+        "weighting_pct": 70,
+        "study_time": "30 hours",
+        "description": "Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R",
+        "name": "Foundations of Artificial Intelligence and Machine Learning Resit Exam",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS950",
+    "title": "Foundations of Computational Data Analytics",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs950/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS950-10",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS950-10.pdf",
+    "leader": "Greg Watson",
+    "credits": 10,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "This module introduces basic concepts and techniques for data analysis with diverse types, including tabular, text, time series, and geospatial data. Students will gain practical skills in data cleaning, dimensionality reduction, visualisation, and exploratory analysis, as well as methods and algorithms for managing and analysing real-world datasets efficiently. It serves as a taster for students considering further study in the Computational Data Analytics module.",
+    "aims": "The module will provide students with knowledge about the broad foundations of computational data analytics which will help them inform their decision when specialising in one of the areas the MSc Computer Science offers. Data Analytics is a core discipline within computer science, with increasing importance in the age of digital transformation and emerging technologies, with significant economic impact. Because of the highly interdisciplinary nature of Data Analytics students will benefit from being able to pursue working in a wide range of application domains.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Overview of common data modalities: tabular, JSON, time series, text, networks, and geospatial data",
+      "Data cleaning and preprocessing: standardisation, type casting, outlier detection",
+      "Exploratory data analysis: descriptive statistics, pattern discovery",
+      "Improving data quality: handling missing data, noise filtering, class balancing",
+      "Dimensionality reduction: feature projection, embeddings, variance preservation",
+      "Data partitioning and sampling: train-test splits, cross-validation, stratified sampling",
+      "Data visualisation: matplotlib, seaborn, ggplot2, t-SNE, and geospatial mapping",
+      "Correlation and dependency analysis: covariance, mutual information, partial correlation",
+      "Scalable data analysis: 5 Vs, stream processing, MongoDB, PySpark, TensorFlow, cloud computing, data lakes and warehousing"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Apply data cleaning, preprocessing, and quality assessment techniques to prepare datasets for analysis.",
+      "Perform exploratory data analysis and visualisation to uncover patterns, anomalies, and structural insights.",
+      "Implement methods for data integration, dimensionality reduction, and feature projection.",
+      "Utilise scalable tools and frameworks to analyse and process large datasets."
+    ],
+    "assessment_components": [
+      {
+        "group": "D",
+        "name": "Foundations of Computational Data Analytics Coursework",
+        "weighting_pct": 30,
+        "study_time": "12 hours",
+        "description": "The coursework will consist of developing computer programs to solve practical problems in computational data analytics.",
+        "kind": "coursework"
+      },
+      {
+        "group": "D",
+        "name": "Foundations of Computational Data Analytics Exam",
+        "weighting_pct": 70,
+        "study_time": "30 hours",
+        "description": "Written 2h exam covering the entire module content, timetabled in January. Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R",
+        "name": "Foundations of Computational Data Analytics Resit Exam",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS924",
+    "title": "Agent Based Systems",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs924/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS924-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS924-15.pdf",
+    "leader": "Paolo Turrini",
+    "credits": 15,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "Agent-based systems offer a new paradigm for computer science, based around a strong theoretical foundation and with a large number of practical deployed applications.\n\nModule web page",
+    "aims": "This module will provide a context for agent-based systems in terms of the recent and developing computing landscape of distributed information and processing resources, and will describe fundamental techniques and systems, illustrating them with real-world applications.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Overview: definitions of agents, distributed AI and agents, intelligent agents, multi-agent systems, cooperation, agent application areas.",
+      "Logic-based agents: actions, goals and strategies.",
+      "Decision-making agents: expected utility and decisions.",
+      "Game-theoretic agents: equilibria and rationality.",
+      "Learning-agents: Markov Decision Processes, policy approximation and opponent modelling.",
+      "Social-agents: Cooperative decision-making, matching and networks."
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Students will learn the basic methodologies for the design and the analysis of multi-agent systems, in competitive and cooperative interaction, both from the theoretical and the practical point of view."
+    ],
+    "assessment_components": [
+      {
+        "group": "D1",
+        "name": "Programming and report",
+        "weighting_pct": 25,
+        "study_time": null,
+        "description": "Programming and report. Approximately 30 pages. This assignment is worth more than 3 CATS and is not, therefore, eligible for self-certification.",
+        "kind": "coursework"
+      },
+      {
+        "group": "D1",
+        "name": "Centrally-timetabled examination (On-campus)",
+        "weighting_pct": 75,
+        "study_time": null,
+        "description": "CS924 examination Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R3",
+        "name": "On-campus Examination - Resit",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "CS924 resit paper Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS922",
+    "title": "High Performance Computing",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs922/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS922-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS922-15.pdf",
+    "leader": "Ligang He",
+    "credits": 15,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "This module provides a comprehensive understanding of High-Performance Computing (HPC) as a core enabling technology for modern scientific and engineering applications.\n\nModule web page",
+    "aims": "This module provides students with a comprehensive understanding of High-Performance Computing (HPC) as a core enabling technology for modern scientific and engineering applications. It introduces the motivation for parallel computing, numerical simulation, floating-point arithmetic, and performance limits, before developing fundamental concepts of parallelism through established models and laws. The module explores the architectures of contemporary multicore CPUs, GPUs, and distributed systems, and the parallel programming paradigms they support, including shared-memory, accelerator, and message-passing approaches. Students gain practical experience with industry-standard programming models and tools, and learn how to analyse, model, and optimise application performance using scalable performance engineering techniques. The module also addresses parallel I/O, software development practices, libraries, performance, portability, and emerging trends in HPC, preparing students to design, implement, and evaluate efficient parallel applications on modern and future high-performance systems.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Fundamental concepts in High Performance Computing.",
+      "Models of Parallel programming",
+      "Shared memory programming (OpenMP).",
+      "Message passing programming (MPI).",
+      "GPU/Accelerator programming.",
+      "Parallel decomposition.",
+      "Performance measurement and analysis.",
+      "High performance I/O.",
+      "High performance networking.",
+      "State-of-the-art issues and latest developments"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Understand the role of HPC in science and engineering.",
+      "Gain experience with popular parallel programming paradigms.",
+      "Understand the means by which to measure, assess and analyse the performance of HPC applications.",
+      "Understand the mechanisms for evaluating the suitability of different HPC solutions to solving scientific problems.",
+      "Understand commonly used HPC platforms including hardware and software systems."
+    ],
+    "assessment_components": [
+      {
+        "group": "D2",
+        "name": "Coursework",
+        "weighting_pct": 40,
+        "study_time": null,
+        "description": "Develop parallel application(s) using popular/latest parallel programming models. Benchmark and analyze the runtime of the code(s). Write a report to present the development and benchmarking work, and present and discuss the experimental results. Unsupervised practical assignments. This assignment is worth more than 3 CATS and is not, therefore, eligible for self-certification.",
+        "kind": "coursework"
+      },
+      {
+        "group": "D2",
+        "name": "Centrally-timetabled examination (On-campus)",
+        "weighting_pct": 60,
+        "study_time": null,
+        "description": "CS922 examination Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R2",
+        "name": "In-person Examination - Resit",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "CS922 resit examination Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS904",
+    "title": "Computational Biology",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs904/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS904-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS904-15.pdf",
+    "leader": "Till Bretschneider",
+    "credits": 15,
+    "duration": "10 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "The module will cover topics on the acquisition of and analysis of large-scale data generated in biomedical sciences, particularly DNA/RNA sequences, live cell microscopy and multi-gigapixel pathology images. Students will be introduced to how these data are acquired, modern machine learning methods to process the data, and computational modelling approaches to help us better understand the complex phenomena underpinning biological processes. The module will be taught following an \"algorithmic approach,\" demonstrating that addressing problems in computational biology requires a diverse range of theoretical concepts and algorithms, making it an exciting and rapidly evolving field for computer scientists. The students will learn using deep learning models for analysis of multi-gigapixel images. Therefore, basic understanding of image processing concepts will be required.",
+    "aims": "The module is designed to develop student research skills in the broad area of computational biology.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.",
+    "outline_syllabus": [
+      "Molecular biology fundamentals;",
+      "Sequence alignments;",
+      "Phylogenetic Trees;",
+      "Dimensionality reduction and clustering;",
+      "Live cell microscopy fundamentals;",
+      "Image based modelling of single cell dynamics;",
+      "Overview of mathematical modelling techniques and their application: Ordinary differential equations, stochastic differential equations, Monte Carlo methods",
+      "Introduction to tissue imaging and computational pathology;",
+      "Whole-slide image (WSI) handling",
+      "WSI processing using machine learning and deep learning algorithms;",
+      "Recognising various kinds of cells in cancerous WSIs;",
+      "Advanced research topics in computational biology;"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Have an understanding of how tissue slides are imaged with high throughput",
+      "Have a basic grasp of fundamental molecular biology concepts as relevant to this module",
+      "Understand some basic and commonly used algorithms in bioinformatics",
+      "Know algorithms to compute sequence alignments and how these are applied in current research",
+      "Understand basic problems in the processing and analysis of tissue images and some standard solutions to those",
+      "Be able to apply image analysis and machine learning to real-world computational pathology problems",
+      "Understand principles of fluorescence microscopy and image-based modelling of single cell dynamics",
+      "Know how to apply different mathematical techniques for modelling cellular dynamics"
+    ],
+    "assessment_components": [
+      {
+        "group": "C7",
+        "name": "Assignment 1",
+        "weighting_pct": 16,
+        "study_time": null,
+        "description": "This assignment covers the first section of the module, Bioinformatics. This assessment is eligible for self-certification (extension).",
+        "kind": "coursework"
+      },
+      {
+        "group": "C7",
+        "name": "Assignment 2",
+        "weighting_pct": 17,
+        "study_time": null,
+        "description": "This assignment covers the first section of the module, Mathematical Modelling of Cellular Dynamics. This assessment is eligible for self-certification (extension).",
+        "kind": "coursework"
+      },
+      {
+        "group": "C7",
+        "name": "Assignment 3",
+        "weighting_pct": 17,
+        "study_time": null,
+        "description": "This assignment covers the first section of the module, Computational Pathology. This assessment is eligible for self-certification (extension).",
+        "kind": "coursework"
+      },
+      {
+        "group": "C7",
+        "name": "Centrally-timetabled examination (On-campus)",
+        "weighting_pct": 50,
+        "study_time": null,
+        "description": "CS904 examination Answerbook Green (8 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R4",
+        "name": "In-person Examination - Resit",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "CS904 resit examination Students may use a calculator Answerbook Green (8 page)",
+        "kind": "exam"
+      }
+    ]
+  },
+  {
+    "code": "CS955",
+    "title": "Digital Forensics",
+    "dcs_url": "https://warwick.ac.uk/fac/sci/dcs/teaching/modules/cs955/",
+    "catalogue_url": "https://courses.warwick.ac.uk/modules/2026/CS955-15",
+    "pdf_url": "https://courses.warwick.ac.uk/modules/2026/CS955-15.pdf",
+    "leader": "Yu Guan",
+    "credits": 15,
+    "duration": "9 weeks",
+    "assessment_summary": "Multiple",
+    "term": null,
+    "introductory_description": "In this module, you will learn about the scientific techniques used to collect, preserve, and analyse digital evidence, often in the context of cybercrime and cyber-physical incidents.",
+    "aims": "The module focuses on a subfield of digital forensics concerned with the forensic analysis of image and video data. Digital image forensics has become increasingly important as digital cameras, sophisticated editing software, and AI-based image generation tools have become widely accessible. Modern machine learning methods are now capable of generating highly realistic fake images and videos that can be difficult for humans to detect. This module explores the computational techniques used to identify image manipulation, determine image provenance, and extract evidential information from digital image data for forensic and investigative purposes.",
+    "outline_syllabus_preamble": "This is an indicative module outline only to give an indication of the sort of topics that may be covered. Actual sessions held may differ.\n\nThe module will deal with core concepts and enabling methodologies in multimedia-based digital forensics. It will also examine current applications, and address theoretical and practical challenges. More specifically the syllabus will cover:",
+    "outline_syllabus": [
+      "Methodologies and standards for acquisition and processing in digital forensics",
+      "Image enhancement for forensic applications",
+      "Digital watermarking",
+      "Image forgery detection",
+      "Image Compression and compression-based forensic approaches",
+      "Visual computing and pattern matching",
+      "Source camera identification based on device fingerprints",
+      "Deepfake detection"
+    ],
+    "learning_outcomes_preamble": "By the end of the module, students should be able to:",
+    "learning_outcomes": [
+      "Demonstrate critical understanding of how image and video data are acquired and analysed, including advanced and emerging methods for detecting image and video forgery, informed by current research in digital forensics.",
+      "Critically evaluate, select, and adapt computational techniques for determining whether image and video data are authentic, taking into account assumptions, limitations, and incomplete or ambiguous evidence.",
+      "Apply and adapt advanced computational techniques to analyse complex image and video data, working autonomously to design investigations and critically interpret and communicate the results.",
+      "Critically evaluate existing approaches to image and video forensics and propose justified improvements or alternative approaches informed by current research and professional practice."
+    ],
+    "assessment_components": [
+      {
+        "group": "D",
+        "name": "Individual practical assignment.",
+        "weighting_pct": 30,
+        "study_time": null,
+        "description": null,
+        "kind": "coursework"
+      },
+      {
+        "group": "D",
+        "name": "In-person Examination",
+        "weighting_pct": 70,
+        "study_time": null,
+        "description": "Exam Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      },
+      {
+        "group": "R",
+        "name": "In-person Examination - Resit",
+        "weighting_pct": 100,
+        "study_time": null,
+        "description": "resit examination Answerbook Pink (12 page) Students may use a calculator",
+        "kind": "exam"
+      }
+    ]
+  }
+]

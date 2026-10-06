@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de5dc538c9097507",
+            "id": "86a4280f4c55aa23",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Module 📚"
             }
+          },
+          {
+            "id": "e23b3d7fc91d0eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yr4 Notes📙/Yr4 Metadata/Yr 4 Module Codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yr 4 Module Codes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -181,34 +198,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "de5dc538c9097507",
+  "active": "e23b3d7fc91d0eb6",
   "lastOpenFiles": [
+    "Yr4 Notes📙/Yr4 Metadata/Yr 4 Exam Periods and weightings.md",
+    "README.md",
+    "Yr4 Notes METADATA for generation.md",
+    "TEMPORARY.md",
+    "Yr4 Notes📙/Term 1/Found AI ML/Found AI ML.md",
+    "Yr4 Notes📙/Term 1/Adv Algos/Adv Algos.md",
+    "Yr4 Notes📙/Full Year/Dissertation/Dissertation.md",
+    "Yr1 Notes📗/Yr1 Metadata/Yr1 Resources.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr3 PDFS.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr 3 Module Codes.md",
+    "Yr3 Notes📕/Yr3 Metadata/Yr 3 Exam Periods and weightings.md",
+    "Yr3 Notes📕/Semester 1 & 2/Proj/Individual Project Home Node.md",
+    "Templates🧬/Module 📚.md",
+    "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",
+    "Yr1 Notes📗/Semester 1/DB & DM/DM/Discrete Maths.md",
+    "Yr2 Notes📘/Semester 1 & 2/Algo & Complexity/Algorithms and Complexity.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Reinforcement Learning.md",
+    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temp Reinf Learning.md",
+    "Yr2 Notes📘/Semester 1/Adv Prog/Advanced Programming.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Adv Vision.md",
+    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Adv Graphics.md",
+    "Yr3 Notes📕/Semester 1/Complexity/Complexity.md",
+    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
+    "Attachments/2D curve Recap.png",
+    "Attachments/CS940 W6to10.png",
+    "Attachments/CS940 W1to5.png",
     "Templates🧬/Cheat Sheet 🩷.md",
     "Syncing & Personals/Playground 🛝/Minecraft.canvas",
     "Yr3 Notes📕/Semester 1 & 2/Proj/Indv Proj Data Used.md",
     "Yr2 Notes📘/Semester 1 & 2/ML/Principal Component Analysis.md",
     "Syncing & Personals/Todos.md",
-    "Yr3 Notes📕/Holy Grail 💖/TODO.md",
-    "Yr3 Notes📕/Semester 1/Complexity/Quantum.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Graphics/Meshes.md",
-    "Yr3 Notes📕/Semester 1 & 2/Adv Vision/Segmentation.md",
-    "Yr3 Notes📕/Semester 1 & 2/Proj/Proj Draft.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Monte Carlo Methods.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Markov Decision Processes.md",
-    "Yr3 Notes📕/Semester 1 & 2/Reinforcement L/Temporal Difference Learning.md",
-    "Yr3 Notes📕/Semester 2/Business Strategy/Business Strat.md",
-    "Yr2 Notes📘/Semester 1 & 2/Software Engi/Software Engi Sem 1.md",
-    "Yr2 Notes📘/Holy Grail 🩵/MLChS.md",
-    "Templates🧬/Module 📚.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/MATLAB.md",
-    "Yr2 Notes📘/Semester 1/Adv Prog/Library Design.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/Fourier.md",
-    "Templates🧬/Notes 📝.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Gaussian Mixture Models.md",
-    "Yr2 Notes📘/Semester 1 & 2/ML/Stats & Covariance.md",
-    "Yr2 Notes📘/Semester 1 & 2/Visual Comp/WebGL.md",
-    "Yr2 Notes📘/Holy Grail 🩵/ALGChS.md",
-    "Yr2 Notes📘/Semester 2/Cybersecurity/Protocols.md",
     "Attachments/Y3S2outline2.png",
     "Attachments/Y3S2outline.png",
     "Attachments/Pasted image 20260303092207.png",
@@ -220,17 +242,13 @@
     "Yr3 Notes📕/Semester 2/Business Strategy/MN32184 Handbook.pdf",
     "Attachments/Business Strat.png",
     "Yr3 Notes📕/Holy Grail 💖/Untitled.base",
-    "Attachments/Quantum Fourier.png",
     "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
-    "Attachments/Coarse Decoding.png",
-    "Attachments/Pasted image 20251128140711.png",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
     "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf.crdownload",
     "Attachments/Latex Cheatsheet.pdf",
     "Yr3 Notes📕/Semester 1/Complexity/ComplexityLectureNotes.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "T🏷️/M📚/Yr3📕",
-    "T🏷️/M📚/Yr2📘/Untitled",
     "Yr3 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Tips & Playground/Playground 🛝/other lectures/Untitled.canvas",

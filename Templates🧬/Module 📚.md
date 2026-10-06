@@ -38,9 +38,3 @@
 | **Content:**           |         |
 
 #TODO
-
-Noah van Enckevort  
-5838100 - WWL109  
-University of Warwick  
-Coventry  
-CV4 7ES
