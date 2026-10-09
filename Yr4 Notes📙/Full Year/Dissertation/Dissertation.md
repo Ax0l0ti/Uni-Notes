@@ -44,3 +44,7 @@
 | **Content:**           | • The research interests of staff members, as typically represented by (but not restricted to) the modules in the taught component of the MSc, will be the major source of dissertation topics. A degree of industrial input and involvement will be encouraged, and can be facilitated through existing academic-industrial collaborations or by addressing specific topics that are of interest to industrial partners. The dissertation project will be prefaced by CS908 Research Methods covering issues of project management, planning, literature seach, and general research skills. All projects will be closely supervised by academics with ongoing feedback and guidance at all stages of the project from the conception to completion. |
 
 #TODO
+
+
+[Project Suggestions: Nathan Griffiths](https://warwick.ac.uk/fac/sci/dcs/teaching/projects/nathangriffiths/)
+[Student Projects](https://warwick.ac.uk/fac/sci/dcs/teaching/projects/?module=907)

@@ -40,3 +40,18 @@
 | **Content:**           | • Intro to AI: challenges, applications, ethics, explainability, transparency, fairness<br>• Basics of Search and Decisions (Tree/Graph Search, Local Search, Adversarial Search)<br>• Intro to Machine Learning and Deep Learning (Supervised and Unsupervised Learning, Learning Concepts from Examples, Classification and Regression Trees, Intro to Bayesian Networks, Intro to Neural Networks, Clustering.<br>• Basics of Reinforcement Learning (Agents, Policies, Optimisation, Value/policy Iteration, Temporal Difference Learning, SARSA, Q-learning)<br>• RL with Human Feedback, Transformers and intro to LLMs. |
 
 #TODO
+• Week 1: Introduction & Learning from data 
+• Week 2: Losses and Optimisation 
+High energy - low probability, Energy is compatibility
+![[Energy to prob equation.png|300]]
+prob = exp of energy / total exp of energy
+![[Negative Log-Likelihood Loss Function.png|200]]
+
+• Week 3: Neural networks and Backpropagation 
+• Week 4: Unsupervised learning and Probability 
+• Week 5: Attention, Transformers, and LLMs 
+• Week 6: Tooling and Search 
+• Week 7: Sequential decision making 
+• Week 8: Learning from experience 
+• Week 9: Post-training and Agents 
+• Week 10: Robustness and Responsible AI
