@@ -1,6 +1,6 @@
 {
-  "findText": "dagger",
-  "replaceText": "top",
+  "findText": "Q",
+  "replaceText": "Ω",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

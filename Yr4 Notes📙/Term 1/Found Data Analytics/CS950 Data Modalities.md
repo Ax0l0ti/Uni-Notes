@@ -45,5 +45,18 @@
 > [!NOTE]
 > > > 
 
-> 
 ---
+Time Series
+collected over regular intervals
+
+Geo Spatial
+Vector 
++Precise, Data rich, more efficient then raster, Resolution-independent due to vectorisation
+-Combination complexity, Processing overhead, Most inputs are raster leading to Sense Inconsistency
+
+
+• Advantages: • Reveals spatial patterns: Clusters of activity. • Reveals regional differences • Supports decision making: Which areas need support? • All of the above may not be clear to see in tabular data! • Compatible with other data modalities: Can be used in time-series. • Easy to gather?: Can be obtained from sensors.
+
+• Disadvantages: • Complexity: The numbers have meanings (location). More difficult to understand than other modalities. • Different coordinate systems exist, and distance calculation can be difficult (the earth is curved!). • Noise: Inaccuracies in location gathering can change the meaning of the data. • Privacy Concerns • Large Data
+
+![[CS950Data Modality.png]]
