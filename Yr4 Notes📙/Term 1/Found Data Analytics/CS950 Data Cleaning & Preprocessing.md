@@ -17,7 +17,7 @@
 --- 
 > [!tip]+ 🕰️* Speed run*
 > Break down of topic 
-> - p1
+> - **multiple imputation by chain equations MICE**- similar to bootstrapping, come up w multiple datasets 
 > - p2
 
 ---
