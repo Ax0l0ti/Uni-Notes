@@ -17,8 +17,6 @@
 --- 
 > [!tip]+ 🕰️* Speed run*
 > Break down of topic 
-> - **multiple imputation by chain equations MICE**- similar to bootstrapping, come up w multiple datasets 
-> - p2
 
 ---
 ---
@@ -37,7 +35,7 @@
 - **Listwise deletion**: drop incomplete rows. Only acceptable with lots of data and MCAR.
 - **Pairwise deletion**: drop a value only from the calculations that need it. Sample size varies per attribute, and the correlation matrix may not be positive definite.
 - **Single imputation** (constant, mean, class mean, regression, LOCF): biases the data and understates variability.
-- **MICE**:
+- **MICE**: **multiple imputation by chain equations**
     1. Initialise missing values with the mean.
     2. Regress each attribute on the others and re-impute it.
     3. Repeat for ~10 cycles.
@@ -57,7 +55,7 @@
     - normalisation
     - discretisation
     - concept hierarchy generation
-- **Min-max**: $\frac{v - \min_A}{\max_A - \min_A}(\text{new_max} - \text{new_min}) + \text{new_min}$. Bounded output, but sensitive to outliers.
+- **Min-max**: $\frac{v - \min_A}{\max_A - \min_A}(\text{new_max} - \text{new_min}) + \text{new_min}$ . Bounded output, but sensitive to outliers.
 - **Z-score**: $\frac{v - \bar{A}}{\sigma_A}$. Gives mean 0 and SD 1; unbounded; more robust to outliers than min-max.
 - **Z-score (MAD)**: $\frac{v - \bar{A}}{s_A}$, with $s_A = \frac{1}{n}\sum|v_i - \bar{A}|$. More robust to outliers than using σ.
 

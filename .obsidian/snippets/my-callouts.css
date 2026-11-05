@@ -1,31 +1,31 @@
 .callout[data-callout="heart"] {
-    --callout-color: 255, 99, 227;
+    --callout-color: rgb(255, 99, 227);
     --callout-icon: lucide-heart;
 }
 
 .callout[data-callout="leaf"] {
-    --callout-color: 82, 234, 20; 
+    --callout-color: rgb(82, 234, 20); 
     --callout-icon: lucide-leaf;
 }
 
 .callout[data-callout="flower"] {
-    --callout-color: 255, 197, 221;
+    --callout-color: rgb(255, 197, 221);
     --callout-icon: lucide-flower;
 }
 
 .callout[data-callout="sigma"] {
-    --callout-color: 114, 252, 229;
+    --callout-color: rgb(114, 252, 229);
     --callout-icon: lucide-sigma;
 }
 
 
 .callout[data-callout="tip"]{
-    --callout-color: 255, 119, 119;
+    --callout-color: rgb(255, 119, 119);
     --callout-icon: lucide-flame;
 }
 
 .callout[data-callout="omega"]{
-    --callout-color: 255, 255, 255 ;
+    --callout-color: rgb(255, 255, 255);
     --callout-icon: lucide-omega;
 }
 
