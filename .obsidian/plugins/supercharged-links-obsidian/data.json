@@ -49,6 +49,18 @@
       "selectBackground": false
     },
     {
+      "type": "path",
+      "name": "genus",
+      "value": "Yr4 Notes",
+      "matchCaseSensitive": true,
+      "match": "contains",
+      "uid": "43bd-a742",
+      "selectText": true,
+      "selectAppend": true,
+      "selectPrepend": true,
+      "selectBackground": true
+    },
+    {
       "type": "attribute",
       "name": "genus",
       "value": "Cheat Sheet",

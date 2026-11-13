@@ -11,6 +11,7 @@
 > List of links to notes on Topics within the Module (fill in probable topics)
 > 
 >Module Sub-Topics
+> > [[OGEmailing]]
 > > [[CS907 Project Proposal & Planning]]
 > > [[CS907 Literature Review]]
 > > [[CS907 Methodology]]
@@ -48,3 +49,4 @@
 
 [Project Suggestions: Nathan Griffiths](https://warwick.ac.uk/fac/sci/dcs/teaching/projects/nathangriffiths/)
 [Student Projects](https://warwick.ac.uk/fac/sci/dcs/teaching/projects/?module=907)
+
