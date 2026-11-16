@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "OGEmailing"
             }
+          },
+          {
+            "id": "f5c0739b40aa6d7c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +223,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "899e370bedce1ef0",
+  "active": "f5c0739b40aa6d7c",
   "lastOpenFiles": [
     "Yr4 Notes📙/Full Year/Dissertation/Dissertation.md",
     "Yr4 Notes📙/Full Year/Dissertation/OGEmailing.md",
