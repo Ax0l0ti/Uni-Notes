@@ -1,6 +1,6 @@
 {
-  "findText": "Q",
-  "replaceText": "Ω",
+  "findText": "newline",
+  "replaceText": "\\",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": false,

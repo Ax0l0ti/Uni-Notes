@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ef935a75a2a038d5",
+        "id": "ca26ab7d6be208fb",
         "type": "tabs",
         "children": [
           {
-            "id": "86a4280f4c55aa23",
+            "id": "4739bbad64c36a7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Yr4 Notes📙/Term 1/Found Data Analytics/CS950 Data Cleaning & Preprocessing.md",
-                "mode": "source",
-                "source": false
+                "file": "Yr4 Notes📙/Term 1/Maths Methods/CW1_MAF.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CS950 Data Cleaning & Preprocessing"
-            }
-          },
-          {
-            "id": "037370d73cda8133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Syncing & Personals/Playground 🛝/ZANE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ZANE"
-            }
-          },
-          {
-            "id": "899e370bedce1ef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Yr4 Notes📙/Full Year/Dissertation/OGEmailing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OGEmailing"
-            }
-          },
-          {
-            "id": "f5c0739b40aa6d7c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.15.1"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.15.1"
+              "icon": "lucide-file-text",
+              "title": "CW1_MAF"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,13 +153,15 @@
             }
           },
           {
-            "id": "4b8a9daaa51aa750",
+            "id": "1b6735daa951c6a2",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "type": "pdf",
+              "state": {
+                "file": "Yr4 Notes📙/Term 1/Maths Methods/CW1_MAF.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "CW1_MAF"
             }
           }
         ],
@@ -210,7 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 575.7052612304688,
     "collapsed": true
   },
   "left-ribbon": {
@@ -223,25 +182,31 @@
       "templates:Insert template": false
     }
   },
-  "active": "f5c0739b40aa6d7c",
+  "active": "4739bbad64c36a7d",
   "lastOpenFiles": [
-    "Yr4 Notes📙/Full Year/Dissertation/Dissertation.md",
+    "Yr4 Notes📙/Term 1/Found Data Analytics/DataAnalCW1_Spec.pdf",
+    "Yr4 Notes📙/Term 1/Found Data Analytics/CS950 Data Cleaning & Preprocessing.md",
+    "Yr4 Notes📙/Term 1/Found Data Analytics/CS950 Data Modalities.md",
+    "Yr4 Notes📙/Term 1/Found AI ML/AIMLCW1_Spec.pdf",
+    "Yr4 Notes📙/Term 1/Found AI ML/CS920 CW1.md",
+    "Yr4 Notes📙/Holy Grail 💖/MathMCHs.md",
+    "Yr4 Notes📙/Term 1/Maths Methods/Maths Methods.md",
+    "Yr4 Notes📙/Term 1/Maths Methods/CW1_MAF.pdf",
+    "Yr4 Notes📙/Term 1/Maths Methods/CS942 Probability Axioms & Bayes Theorem.md",
+    "Yr4 Notes📙/Term 1/Maths Methods/CS942 CW1.md",
     "Yr4 Notes📙/Full Year/Dissertation/OGEmailing.md",
+    "Yr4 Notes📙/Full Year/Dissertation/Dissertation.md",
+    "Attachments/CW1_Q1C.png",
+    "Syncing & Personals/Playground 🛝/ZANE.md",
+    "Syncing & Personals/Todos.md",
     "Templates🧬/Notes 📝.md",
     "README.md",
     "New Text Document.txt",
     "Syncing & Personals/Playground 🛝/Temporary tab storage.md",
     "Untitled.md",
-    "Syncing & Personals/Playground 🛝/ZANE.md",
-    "Yr4 Notes📙/Term 1/Found AI ML/CS920 CW1.md",
     "Yr4 Notes📙/Term 1/Found AI ML/Found AI ML.md",
-    "Yr4 Notes📙/Term 1/Found AI ML/DataAnalCW1_Spec.pdf",
-    "Yr4 Notes📙/Term 1/Found Data Analytics/CS950 Data Modalities.md",
-    "Yr4 Notes📙/Term 1/Found Data Analytics/CS950 Data Cleaning & Preprocessing.md",
     "Yr4 Notes📙/Term 1/Found Data Analytics/Found Data Analytics.md",
     "Yr4 Notes📙/Yr4 Metadata/Yr 4 Exam Periods and weightings.md",
-    "Yr4 Notes📙/Term 1/Maths Methods/Maths Methods.md",
-    "Yr4 Notes📙/Term 1/Maths Methods/CS942 Probability Axioms & Bayes Theorem.md",
     "Attachments/CS950Data Modality.png",
     "Attachments/Pasted image 20261012121508.png",
     "Attachments/set notation jargon.png",
@@ -259,19 +224,13 @@
     "Base of Everything.base",
     "Yr1 Notes📗/Semester 1/DB & DM/DB/DB LN.pdf",
     "Yr1 Notes📗/Semester 1/DB & DM/DM/Discrete Maths.md",
-    "Yr1 Notes📗/Semester 1/DB & DM/DM/Elements of math logic.md",
-    "Templates🧬/Module 📚.md",
-    "Yr4 Notes METADATA for generation.md",
     "Attachments/2D curve Recap.png",
     "Attachments/CS940 W6to10.png",
     "Attachments/CS940 W1to5.png",
     "Syncing & Personals/Playground 🛝/Minecraft.canvas",
-    "Attachments/Y3S2outline2.png",
     "Untitled.canvas",
     "Yr3 Notes📕/Semester 2/Business Strategy/MN32184 Handbook.pdf",
     "Yr3 Notes📕/Holy Grail 💖/Untitled.base",
-    "Yr3 Notes📕/Holy Grail 💖/Untitled 1.base",
-    "Attachments/CM32022_Advanced_Computer_Vision_CW1_25_26.pdf",
     "Syncing & Personals/Playground 🛝/Canvas Testing.canvas",
     "Yr3 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
     "Yr2 Notes📘/Semester 1 & 2/ML/ML speedrun.canvas",
